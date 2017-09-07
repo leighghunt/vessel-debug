@@ -43,7 +43,7 @@
     "mmsi": "219802000",
     "shipname": "SOROE MAERSK",
     "callsign": "OYKJ2",
-    "destination": "CL SVE>NZ UFX"
+    "destination": "H"
    }
   },
   {
@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "R1SKCD7MCP9K#\\4NCL,P"
+    "destination": "DEVON PORT"
    }
   },
   {
@@ -70,7 +70,7 @@
     "mmsi": "235097329",
     "shipname": "SEAHAWK",
     "callsign": "2GHA7",
-    "destination": "AUCKLAND SEA TRIAL"
+    "destination": "NZ AKL"
    }
   },
   {
@@ -592,7 +592,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "??ZM_W?;"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -664,7 +664,7 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070",
-    "destination": "AUCKLAND AREA"
+    "destination": "WHANGAREI"
    }
   },
   {
