@@ -283,14 +283,6 @@
   },
   {
    "attributes": {
-    "objectid": 686,
-    "mmsi": "512003135",
-    "shipname": "BAY BELLE II",
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 48,
     "mmsi": "512003200",
     "shipname": "STARLIGHT 11",
