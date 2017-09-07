@@ -539,14 +539,6 @@
   },
   {
    "attributes": {
-    "objectid": 723,
-    "mmsi": "512004731",
-    "shipname": "LION RESCUE",
-    "callsign": "ZMR7777"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 726,
     "mmsi": "512004854",
     "shipname": null,
