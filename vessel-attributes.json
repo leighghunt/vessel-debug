@@ -747,14 +747,6 @@
   },
   {
    "attributes": {
-    "objectid": 718,
-    "mmsi": "512005781",
-    "shipname": "WHANGAROA RESCUE",
-    "callsign": "ZMY2001"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 86,
     "mmsi": "512005801",
     "shipname": "WINDHAVEN",
