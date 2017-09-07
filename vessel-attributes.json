@@ -86,7 +86,7 @@
     "objectid": 733,
     "mmsi": "338149031",
     "shipname": null,
-    "callsign": null
+    "callsign": "WCX3094"
    }
   },
   {
@@ -447,14 +447,6 @@
     "mmsi": "512004158",
     "shipname": "AURORA",
     "callsign": "ZMU5212"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 678,
-    "mmsi": "512004162",
-    "shipname": "CENTURION",
-    "callsign": "ZMU5542"
    }
   },
   {
