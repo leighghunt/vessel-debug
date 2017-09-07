@@ -1,1 +1,991 @@
-{"exceededTransferLimit":false,"features":[{"attributes":{"objectid":727,"mmsi":"219802000","shipname":"SOROE MAERSK","callsign":"OYKJ2","destination":"CL SVE>NZ UFX"}},{"attributes":{"objectid":703,"mmsi":"512005575","shipname":"GRACIAS","callsign":"ZMG3262","destination":null}},{"attributes":{"objectid":720,"mmsi":"512004158","shipname":"AURORA","callsign":"ZMU5212","destination":null}},{"attributes":{"objectid":710,"mmsi":"512001266","shipname":"SEAFLYTE","callsign":"ZM2763","destination":null}},{"attributes":{"objectid":691,"mmsi":"512000543","shipname":"WAKA KUME","callsign":"ZMR6122","destination":null}},{"attributes":{"objectid":718,"mmsi":"512005781","shipname":"WHANGAROA RESCUE","callsign":"ZMY2001","destination":null}},{"attributes":{"objectid":726,"mmsi":"512004854","shipname":null,"callsign":"ZMU7053","destination":null}},{"attributes":{"objectid":714,"mmsi":"512005339","shipname":null,"callsign":"ZMQ2892","destination":null}},{"attributes":{"objectid":675,"mmsi":"512000369","shipname":"DEODAR 111","callsign":"ZMIH","destination":null}},{"attributes":{"objectid":708,"mmsi":"512082000","shipname":"KIM OCEAN","callsign":"ZME2279","destination":null}},{"attributes":{"objectid":574,"mmsi":"512431000","shipname":"ACHERON 3","callsign":"ZMG3130","destination":null}},{"attributes":{"objectid":721,"mmsi":"512001787","shipname":"TURIHAUA","callsign":"ZM 2184","destination":null}},{"attributes":{"objectid":672,"mmsi":"512001267","shipname":"DISCOVERY III","callsign":"ZMA2422","destination":null}},{"attributes":{"objectid":707,"mmsi":"512000880","shipname":"ENTREPID","callsign":"KY2156Z","destination":null}},{"attributes":{"objectid":724,"mmsi":"512000548","shipname":"TIKA","callsign":"ZMV2092","destination":null}},{"attributes":{"objectid":725,"mmsi":"512004981","shipname":"MATUA","callsign":"ZMY5821","destination":null}},{"attributes":{"objectid":696,"mmsi":"123456789","shipname":"NAVICOM TEST","callsign":null,"destination":"WHANGAREI"}},{"attributes":{"objectid":723,"mmsi":"512004731","shipname":"LION RESCUE","callsign":"ZMR7777","destination":null}},{"attributes":{"objectid":701,"mmsi":"227261220","shipname":"MERCREDI SOIR","callsign":null,"destination":null}},{"attributes":{"objectid":717,"mmsi":"512433000","shipname":"AOTEAROA CHIEF","callsign":"ZMAR","destination":"NZ WHANGAREI"}},{"attributes":{"objectid":676,"mmsi":"512000027","shipname":"ADVENTURER","callsign":"ZMG2004","destination":null}},{"attributes":{"objectid":722,"mmsi":"512003175","shipname":"TASMAN EXPRESS","callsign":"ZMW3200","destination":null}},{"attributes":{"objectid":662,"mmsi":"636090756","shipname":"ANL ECHUCA","callsign":"A8ET3","destination":"NZ AKL"}},{"attributes":{"objectid":719,"mmsi":"564135000","shipname":"SOOCHOW","callsign":"9V9715","destination":"AUCKLAND"}},{"attributes":{"objectid":716,"mmsi":"372856000","shipname":"DREAM DIVA","callsign":"3EKW6","destination":"NZ AKL"}},{"attributes":{"objectid":668,"mmsi":"512004511","shipname":"TE KOTUKU","callsign":"ZMU2646","destination":"AUCK/WAIHEKE"}},{"attributes":{"objectid":687,"mmsi":"512001106","shipname":"SERENITY","callsign":"ZMV7877","destination":null}},{"attributes":{"objectid":711,"mmsi":"512000077","shipname":"NAVMAN","callsign":"ZMY5780","destination":null}},{"attributes":{"objectid":661,"mmsi":"512003184","shipname":"MANUKAU","callsign":"ZMQ6607","destination":null}},{"attributes":{"objectid":673,"mmsi":"518398000","shipname":"MINA CAMPBELL","callsign":"E5U2348","destination":null}},{"attributes":{"objectid":709,"mmsi":"367137260","shipname":"RED","callsign":"WDD3862","destination":null}},{"attributes":{"objectid":678,"mmsi":"512004162","shipname":"CENTURION","callsign":"ZMU5542","destination":null}},{"attributes":{"objectid":702,"mmsi":"512004648","shipname":"AIRPORTMARINECONTRO","callsign":"ZMU7371","destination":null}},{"attributes":{"objectid":688,"mmsi":"512001265","shipname":"TIRI CAT","callsign":"ZM2279","destination":null}},{"attributes":{"objectid":686,"mmsi":"512003135","shipname":"BAY BELLE II","callsign":null,"destination":null}},{"attributes":{"objectid":685,"mmsi":"512000928","shipname":"SUPER FLYTE","callsign":"ZMA3029","destination":null}},{"attributes":{"objectid":59,"mmsi":"512004062","shipname":"ARAWHITI","callsign":"ZMS8209","destination":null}},{"attributes":{"objectid":671,"mmsi":"512004656","shipname":"D6","callsign":"ZMU7402","destination":"??ZM_W?;"}},{"attributes":{"objectid":670,"mmsi":"512005155","shipname":"D7","callsign":"ZME7070","destination":"AUCKLAND AREA"}},{"attributes":{"objectid":697,"mmsi":"211645030","shipname":"ZIG ZAG","callsign":"DK7575","destination":null}},{"attributes":{"objectid":77,"mmsi":"512006211","shipname":"TE MAKI","callsign":"ZMX2434","destination":null}},{"attributes":{"objectid":682,"mmsi":"512001268","shipname":"TIGER CAT","callsign":"ZMR2981","destination":null}},{"attributes":{"objectid":423,"mmsi":"512003312","shipname":"PACIFIC SPRAY","callsign":"ZMS5830","destination":null}},{"attributes":{"objectid":82,"mmsi":"512000479","shipname":"GLADIATOR","callsign":"ZMV8338","destination":null}},{"attributes":{"objectid":684,"mmsi":"512001510","shipname":"HARBOURCAT","callsign":"ZMZ4489","destination":null}},{"attributes":{"objectid":679,"mmsi":"512000344","shipname":"PILOT VESSEL AKARANA","callsign":"ZMT2938","destination":"SEA TRIAL"}},{"attributes":{"objectid":639,"mmsi":"503511300","shipname":"SOUNDCEM III","callsign":null,"destination":null}},{"attributes":{"objectid":699,"mmsi":"512001100","shipname":"PAEA II","callsign":"ZMSS","destination":null}},{"attributes":{"objectid":66,"mmsi":"378111564","shipname":"RIV 61  001","callsign":"RIV 61","destination":null}},{"attributes":{"objectid":85,"mmsi":"512004213","shipname":"ATA RANGI","callsign":"ZMU5071","destination":null}},{"attributes":{"objectid":681,"mmsi":"512001027","shipname":"SEAMASTER","callsign":"ZMV7638","destination":null}},{"attributes":{"objectid":705,"mmsi":"373504000","shipname":"K.PLUTO","callsign":"3EYQ3","destination":"NZ NPL"}},{"attributes":{"objectid":65,"mmsi":"512000082","shipname":"COLUMBIA","callsign":"ZMA3264","destination":null}},{"attributes":{"objectid":577,"mmsi":"512001029","shipname":"ISLAND NAVIGATOR","callsign":"ZMQ7781","destination":null}},{"attributes":{"objectid":683,"mmsi":"512001264","shipname":"OSPREY","callsign":"ZMR3723","destination":null}},{"attributes":{"objectid":109,"mmsi":"512006132","shipname":null,"callsign":null,"destination":null}},{"attributes":{"objectid":100,"mmsi":"512001028","shipname":"SEACAT","callsign":"ZMQ7552","destination":null}},{"attributes":{"objectid":67,"mmsi":"512003332","shipname":"OLYMPIC SPIRIT","callsign":"ZMT7015","destination":null}},{"attributes":{"objectid":113,"mmsi":"512087000","shipname":"ORTEM","callsign":"ZM2827","destination":null}},{"attributes":{"objectid":103,"mmsi":"512004509","shipname":"HAURAKI","callsign":"ZME5252","destination":"AUCKLAND"}},{"attributes":{"objectid":14,"mmsi":"518497000","shipname":"ISLAND PASSAGE","callsign":"E5U2447","destination":"WHANGAREI"}},{"attributes":{"objectid":36,"mmsi":"512005528","shipname":"MOONDANCE","callsign":"ZMU9211","destination":null}},{"attributes":{"objectid":550,"mmsi":"512120000","shipname":"R TUCKER THOMPSON","callsign":"ZMA2808","destination":null}},{"attributes":{"objectid":5,"mmsi":"235097329","shipname":"SEAHAWK","callsign":"2GHA7","destination":"AUCKLAND SEA TRIAL"}},{"attributes":{"objectid":96,"mmsi":"512004558","shipname":"MA ' ARA","callsign":"ZMU7020","destination":null}},{"attributes":{"objectid":457,"mmsi":"512000421","shipname":"INFINITY","callsign":"ZMA3368","destination":null}},{"attributes":{"objectid":101,"mmsi":"512210000","shipname":"L'AFFAIRE","callsign":"ZMA2702","destination":null}},{"attributes":{"objectid":643,"mmsi":"512001300","shipname":"MANGA II","callsign":"ZMJT","destination":null}},{"attributes":{"objectid":539,"mmsi":"512003090","shipname":"SV PHEONIX","callsign":"ZMV8617","destination":null}},{"attributes":{"objectid":112,"mmsi":"512004902","shipname":"TITANIUM","callsign":"ZMG3095","destination":null}},{"attributes":{"objectid":38,"mmsi":"215606000","shipname":"BE MINE","callsign":"9HA2755","destination":"AUCKLAND"}},{"attributes":{"objectid":83,"mmsi":"512004418","shipname":"ECLATANT","callsign":"ZMU6620","destination":null}},{"attributes":{"objectid":97,"mmsi":"512412000","shipname":"INDEFATIGABLE","callsign":"ZMT2829","destination":null}},{"attributes":{"objectid":86,"mmsi":"512005801","shipname":"WINDHAVEN","callsign":"ZMF4451","destination":null}},{"attributes":{"objectid":48,"mmsi":"512003200","shipname":"STARLIGHT 11","callsign":"ZMT6675","destination":null}},{"attributes":{"objectid":110,"mmsi":"512003888","shipname":"OM","callsign":"ZMG2824","destination":null}},{"attributes":{"objectid":606,"mmsi":"512003936","shipname":"SEA PELICAN","callsign":"ZMG2834","destination":null}},{"attributes":{"objectid":53,"mmsi":"512007000","shipname":"COASTAL CARRIER","callsign":"ZM2189","destination":null}},{"attributes":{"objectid":107,"mmsi":"512005160","shipname":"BIG BUSINESS","callsign":"ZMQ9525","destination":null}},{"attributes":{"objectid":619,"mmsi":"512006003","shipname":"CAPRICORNIAN SURFER","callsign":"ZMG3426","destination":"DEVON PORT"}},{"attributes":{"objectid":61,"mmsi":"512004671","shipname":"MARSDEN BAY","callsign":"ZMU2829","destination":"NZ AKL"}},{"attributes":{"objectid":494,"mmsi":"512004996","shipname":"PILOTVESSEL WAKATERE","callsign":"ZME6262","destination":"WHANGAREI"}},{"attributes":{"objectid":122,"mmsi":"512004023","shipname":"PIPER","callsign":"ZMU5096","destination":null}},{"attributes":{"objectid":99,"mmsi":"512001026","shipname":"SEAWAY II","callsign":"ZMR3466","destination":null}},{"attributes":{"objectid":55,"mmsi":"538071125","shipname":"ADVANTAGE","callsign":"V7RA7","destination":"MCRAES WHARF"}},{"attributes":{"objectid":656,"mmsi":"512423000","shipname":"SPIRIT OF CANTERBURY","callsign":"ZMCT","destination":"AUCKLAND"}},{"attributes":{"objectid":29,"mmsi":"232006988","shipname":"GREY WOLF","callsign":"MASZ3","destination":"R1SKCD7MCP9K#\\4NCL,P"}},{"attributes":{"objectid":58,"mmsi":"512000715","shipname":"MACY GRAY","callsign":"ZM2239","destination":null}},{"attributes":{"objectid":34,"mmsi":"512000742","shipname":"CLIPPER 2","callsign":"ZMS7101","destination":"AUCK/PINE HBR/OTHER"}},{"attributes":{"objectid":638,"mmsi":"512004962","shipname":"MATARIKI III","callsign":"ZMG3118","destination":null}},{"attributes":{"objectid":80,"mmsi":"512219000","shipname":"AWANUIA","callsign":"ZMA2137","destination":"NZAKL"}},{"attributes":{"objectid":508,"mmsi":"512005376","shipname":"MALALA","callsign":"ZMV4307","destination":null}},{"attributes":{"objectid":62,"mmsi":"512002866","shipname":"CALIPH","callsign":"ZM4711","destination":null}},{"attributes":{"objectid":73,"mmsi":"134170","shipname":null,"callsign":null,"destination":null}},{"attributes":{"objectid":115,"mmsi":"512003812","shipname":"AWANUI","callsign":"ZMG2800","destination":null}},{"attributes":{"objectid":56,"mmsi":"319774000","shipname":"LATITUDE","callsign":"ZCTD5","destination":"SEA TRIAL"}},{"attributes":{"objectid":6,"mmsi":"512005706","shipname":"KORORA","callsign":"ZMW7964","destination":"WHANGAREI"}},{"attributes":{"objectid":591,"mmsi":"371452000","shipname":"GREAT OCEAN","callsign":"3FDA5","destination":"MARSDEN POINT, NZ"}},{"attributes":{"objectid":47,"mmsi":"512003518","shipname":"KAPUA","callsign":"ZMW4289","destination":null}},{"attributes":{"objectid":557,"mmsi":"512000532","shipname":"STARFLYTE","callsign":"ZMR4078","destination":null}},{"attributes":{"objectid":657,"mmsi":"512229000","shipname":"TRANQUIL IMAGE","callsign":"ZMA3044","destination":"??ZM_W?;"}},{"attributes":{"objectid":102,"mmsi":"518395000","shipname":"ALANI II","callsign":"E5U2345","destination":null}},{"attributes":{"objectid":461,"mmsi":"477060000","shipname":"ISLAND CHIEF","callsign":"VRRB","destination":"NZTRG"}},{"attributes":{"objectid":72,"mmsi":"512002067","shipname":"WAIRANGI","callsign":"ZMTM","destination":null}},{"attributes":{"objectid":12,"mmsi":"512000741","shipname":"CLIPPER 3","callsign":"ZMT3984","destination":"WHANGAREI"}},{"attributes":{"objectid":95,"mmsi":"512005655","shipname":"FLYING CLOUD","callsign":"ZM3164","destination":null}}],"fields":[{"name":"objectid","type":"esriFieldTypeOID","alias":"objectid"},{"name":"mmsi","type":"esriFieldTypeString","alias":"mmsi","length":50},{"name":"shipname","type":"esriFieldTypeString","alias":"shipname","length":50},{"name":"callsign","type":"esriFieldTypeString","alias":"callsign","length":50},{"name":"destination","type":"esriFieldTypeString","alias":"destination","length":50}],"objectIdFieldName":"objectid"}
+{
+ "exceededTransferLimit": false,
+ "features": [
+  {
+   "attributes": {
+    "objectid": 703,
+    "mmsi": "512005575",
+    "shipname": "GRACIAS",
+    "callsign": "ZMG3262",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 717,
+    "mmsi": "512433000",
+    "shipname": "AOTEAROA CHIEF",
+    "callsign": "ZMAR",
+    "destination": "NZ WHANGAREI"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 662,
+    "mmsi": "636090756",
+    "shipname": "ANL ECHUCA",
+    "callsign": "A8ET3",
+    "destination": "NZ AKL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 691,
+    "mmsi": "512000543",
+    "shipname": "WAKA KUME",
+    "callsign": "ZMR6122",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 724,
+    "mmsi": "512000548",
+    "shipname": "TIKA",
+    "callsign": "ZMV2092",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 718,
+    "mmsi": "512005781",
+    "shipname": "WHANGAROA RESCUE",
+    "callsign": "ZMY2001",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 719,
+    "mmsi": "564135000",
+    "shipname": "SOOCHOW",
+    "callsign": "9V9715",
+    "destination": "AUCKLAND"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 696,
+    "mmsi": "123456789",
+    "shipname": "NAVICOM TEST",
+    "callsign": null,
+    "destination": "WHANGAREI"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 716,
+    "mmsi": "372856000",
+    "shipname": "DREAM DIVA",
+    "callsign": "3EKW6",
+    "destination": "NZ AKL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 722,
+    "mmsi": "512003175",
+    "shipname": "TASMAN EXPRESS",
+    "callsign": "ZMW3200",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 727,
+    "mmsi": "219802000",
+    "shipname": "SOROE MAERSK",
+    "callsign": "OYKJ2",
+    "destination": "CL SVE>NZ UFX"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 675,
+    "mmsi": "512000369",
+    "shipname": "DEODAR 111",
+    "callsign": "ZMIH",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 726,
+    "mmsi": "512004854",
+    "shipname": null,
+    "callsign": "ZMU7053",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 714,
+    "mmsi": "512005339",
+    "shipname": null,
+    "callsign": "ZMQ2892",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 721,
+    "mmsi": "512001787",
+    "shipname": "TURIHAUA",
+    "callsign": "ZM 2184",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 707,
+    "mmsi": "512000880",
+    "shipname": "ENTREPID",
+    "callsign": "KY2156Z",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 574,
+    "mmsi": "512431000",
+    "shipname": "ACHERON 3",
+    "callsign": "ZMG3130",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 725,
+    "mmsi": "512004981",
+    "shipname": "MATUA",
+    "callsign": "ZMY5821",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 723,
+    "mmsi": "512004731",
+    "shipname": "LION RESCUE",
+    "callsign": "ZMR7777",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 701,
+    "mmsi": "227261220",
+    "shipname": "MERCREDI SOIR",
+    "callsign": null,
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 676,
+    "mmsi": "512000027",
+    "shipname": "ADVENTURER",
+    "callsign": "ZMG2004",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 708,
+    "mmsi": "512082000",
+    "shipname": "KIM OCEAN",
+    "callsign": "ZME2279",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 720,
+    "mmsi": "512004158",
+    "shipname": "AURORA",
+    "callsign": "ZMU5212",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 710,
+    "mmsi": "512001266",
+    "shipname": "SEAFLYTE",
+    "callsign": "ZM2763",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 672,
+    "mmsi": "512001267",
+    "shipname": "DISCOVERY III",
+    "callsign": "ZMA2422",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 671,
+    "mmsi": "512004656",
+    "shipname": "D6",
+    "callsign": "ZMU7402",
+    "destination": "??ZM_W?;"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 711,
+    "mmsi": "512000077",
+    "shipname": "NAVMAN",
+    "callsign": "ZMY5780",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 687,
+    "mmsi": "512001106",
+    "shipname": "SERENITY",
+    "callsign": "ZMV7877",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 661,
+    "mmsi": "512003184",
+    "shipname": "MANUKAU",
+    "callsign": "ZMQ6607",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 673,
+    "mmsi": "518398000",
+    "shipname": "MINA CAMPBELL",
+    "callsign": "E5U2348",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 688,
+    "mmsi": "512001265",
+    "shipname": "TIRI CAT",
+    "callsign": "ZM2279",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 686,
+    "mmsi": "512003135",
+    "shipname": "BAY BELLE II",
+    "callsign": null,
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 685,
+    "mmsi": "512000928",
+    "shipname": "SUPER FLYTE",
+    "callsign": "ZMA3029",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 670,
+    "mmsi": "512005155",
+    "shipname": "D7",
+    "callsign": "ZME7070",
+    "destination": "WHANGAREI"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 709,
+    "mmsi": "367137260",
+    "shipname": "RED",
+    "callsign": "WDD3862",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 668,
+    "mmsi": "512004511",
+    "shipname": "TE KOTUKU",
+    "callsign": "ZMU2646",
+    "destination": "AUCK/WAIHEKE"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 678,
+    "mmsi": "512004162",
+    "shipname": "CENTURION",
+    "callsign": "ZMU5542",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 702,
+    "mmsi": "512004648",
+    "shipname": "AIRPORTMARINECONTRO",
+    "callsign": "ZMU7371",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 59,
+    "mmsi": "512004062",
+    "shipname": "ARAWHITI",
+    "callsign": "ZMS8209",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 679,
+    "mmsi": "512000344",
+    "shipname": "PILOT VESSEL AKARANA",
+    "callsign": "ZMT2938",
+    "destination": "SEA TRIAL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 684,
+    "mmsi": "512001510",
+    "shipname": "HARBOURCAT",
+    "callsign": "ZMZ4489",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 682,
+    "mmsi": "512001268",
+    "shipname": "TIGER CAT",
+    "callsign": "ZMR2981",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 697,
+    "mmsi": "211645030",
+    "shipname": "ZIG ZAG",
+    "callsign": "DK7575",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 77,
+    "mmsi": "512006211",
+    "shipname": "TE MAKI",
+    "callsign": "ZMX2434",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 705,
+    "mmsi": "373504000",
+    "shipname": "K.PLUTO",
+    "callsign": "3EYQ3",
+    "destination": "NZ NPL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 423,
+    "mmsi": "512003312",
+    "shipname": "PACIFIC SPRAY",
+    "callsign": "ZMS5830",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 82,
+    "mmsi": "512000479",
+    "shipname": "GLADIATOR",
+    "callsign": "ZMV8338",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 681,
+    "mmsi": "512001027",
+    "shipname": "SEAMASTER",
+    "callsign": "ZMV7638",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 699,
+    "mmsi": "512001100",
+    "shipname": "PAEA II",
+    "callsign": "ZMSS",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 66,
+    "mmsi": "378111564",
+    "shipname": "RIV 61  001",
+    "callsign": "RIV 61",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 85,
+    "mmsi": "512004213",
+    "shipname": "ATA RANGI",
+    "callsign": "ZMU5071",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 639,
+    "mmsi": "503511300",
+    "shipname": "SOUNDCEM III",
+    "callsign": null,
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 65,
+    "mmsi": "512000082",
+    "shipname": "COLUMBIA",
+    "callsign": "ZMA3264",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 577,
+    "mmsi": "512001029",
+    "shipname": "ISLAND NAVIGATOR",
+    "callsign": "ZMQ7781",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 683,
+    "mmsi": "512001264",
+    "shipname": "OSPREY",
+    "callsign": "ZMR3723",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 109,
+    "mmsi": "512006132",
+    "shipname": null,
+    "callsign": null,
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 100,
+    "mmsi": "512001028",
+    "shipname": "SEACAT",
+    "callsign": "ZMQ7552",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 14,
+    "mmsi": "518497000",
+    "shipname": "ISLAND PASSAGE",
+    "callsign": "E5U2447",
+    "destination": "WHANGAREI"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 67,
+    "mmsi": "512003332",
+    "shipname": "OLYMPIC SPIRIT",
+    "callsign": "ZMT7015",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 113,
+    "mmsi": "512087000",
+    "shipname": "ORTEM",
+    "callsign": "ZM2827",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 103,
+    "mmsi": "512004509",
+    "shipname": "HAURAKI",
+    "callsign": "ZME5252",
+    "destination": "AUCKLAND"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 550,
+    "mmsi": "512120000",
+    "shipname": "R TUCKER THOMPSON",
+    "callsign": "ZMA2808",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 36,
+    "mmsi": "512005528",
+    "shipname": "MOONDANCE",
+    "callsign": "ZMU9211",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 5,
+    "mmsi": "235097329",
+    "shipname": "SEAHAWK",
+    "callsign": "2GHA7",
+    "destination": "AUCKLAND SEA TRIAL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 96,
+    "mmsi": "512004558",
+    "shipname": "MA ' ARA",
+    "callsign": "ZMU7020",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 457,
+    "mmsi": "512000421",
+    "shipname": "INFINITY",
+    "callsign": "ZMA3368",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 101,
+    "mmsi": "512210000",
+    "shipname": "L'AFFAIRE",
+    "callsign": "ZMA2702",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 86,
+    "mmsi": "512005801",
+    "shipname": "WINDHAVEN",
+    "callsign": "ZMF4451",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 643,
+    "mmsi": "512001300",
+    "shipname": "MANGA II",
+    "callsign": "ZMJT",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 110,
+    "mmsi": "512003888",
+    "shipname": "OM",
+    "callsign": "ZMG2824",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 112,
+    "mmsi": "512004902",
+    "shipname": "TITANIUM",
+    "callsign": "ZMG3095",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 539,
+    "mmsi": "512003090",
+    "shipname": "SV PHEONIX",
+    "callsign": "ZMV8617",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 38,
+    "mmsi": "215606000",
+    "shipname": "BE MINE",
+    "callsign": "9HA2755",
+    "destination": "AUCKLAND"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 83,
+    "mmsi": "512004418",
+    "shipname": "ECLATANT",
+    "callsign": "ZMU6620",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 97,
+    "mmsi": "512412000",
+    "shipname": "INDEFATIGABLE",
+    "callsign": "ZMT2829",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 606,
+    "mmsi": "512003936",
+    "shipname": "SEA PELICAN",
+    "callsign": "ZMG2834",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 48,
+    "mmsi": "512003200",
+    "shipname": "STARLIGHT 11",
+    "callsign": "ZMT6675",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 53,
+    "mmsi": "512007000",
+    "shipname": "COASTAL CARRIER",
+    "callsign": "ZM2189",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 107,
+    "mmsi": "512005160",
+    "shipname": "BIG BUSINESS",
+    "callsign": "ZMQ9525",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 122,
+    "mmsi": "512004023",
+    "shipname": "PIPER",
+    "callsign": "ZMU5096",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 56,
+    "mmsi": "319774000",
+    "shipname": "LATITUDE",
+    "callsign": "ZCTD5",
+    "destination": "SEA TRIAL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 62,
+    "mmsi": "512002866",
+    "shipname": "CALIPH",
+    "callsign": "ZM4711",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 6,
+    "mmsi": "512005706",
+    "shipname": "KORORA",
+    "callsign": "ZMW7964",
+    "destination": "WHANGAREI"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 55,
+    "mmsi": "538071125",
+    "shipname": "ADVANTAGE",
+    "callsign": "V7RA7",
+    "destination": "MCRAES WHARF"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 29,
+    "mmsi": "232006988",
+    "shipname": "GREY WOLF",
+    "callsign": "MASZ3",
+    "destination": "DEVON PORT"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 34,
+    "mmsi": "512000742",
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101",
+    "destination": "AUCK/PINE HBR/OTHER"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 619,
+    "mmsi": "512006003",
+    "shipname": "CAPRICORNIAN SURFER",
+    "callsign": "ZMG3426",
+    "destination": "DEVON PORT"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 58,
+    "mmsi": "512000715",
+    "shipname": "MACY GRAY",
+    "callsign": "ZM2239",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 61,
+    "mmsi": "512004671",
+    "shipname": "MARSDEN BAY",
+    "callsign": "ZMU2829",
+    "destination": "NZ AKL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 494,
+    "mmsi": "512004996",
+    "shipname": "PILOTVESSEL WAKATERE",
+    "callsign": "ZME6262",
+    "destination": "WHANGAREI"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 99,
+    "mmsi": "512001026",
+    "shipname": "SEAWAY II",
+    "callsign": "ZMR3466",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 638,
+    "mmsi": "512004962",
+    "shipname": "MATARIKI III",
+    "callsign": "ZMG3118",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 656,
+    "mmsi": "512423000",
+    "shipname": "SPIRIT OF CANTERBURY",
+    "callsign": "ZMCT",
+    "destination": "AUCKLAND"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 80,
+    "mmsi": "512219000",
+    "shipname": "AWANUIA",
+    "callsign": "ZMA2137",
+    "destination": "NZAKL"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 508,
+    "mmsi": "512005376",
+    "shipname": "MALALA",
+    "callsign": "ZMV4307",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 73,
+    "mmsi": "134170",
+    "shipname": null,
+    "callsign": null,
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 115,
+    "mmsi": "512003812",
+    "shipname": "AWANUI",
+    "callsign": "ZMG2800",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 591,
+    "mmsi": "371452000",
+    "shipname": "GREAT OCEAN",
+    "callsign": "3FDA5",
+    "destination": "MARSDEN POINT, NZ"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 47,
+    "mmsi": "512003518",
+    "shipname": "KAPUA",
+    "callsign": "ZMW4289",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 12,
+    "mmsi": "512000741",
+    "shipname": "CLIPPER 3",
+    "callsign": "ZMT3984",
+    "destination": "WHANGAREI"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 461,
+    "mmsi": "477060000",
+    "shipname": "ISLAND CHIEF",
+    "callsign": "VRRB",
+    "destination": "NZTRG"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 557,
+    "mmsi": "512000532",
+    "shipname": "STARFLYTE",
+    "callsign": "ZMR4078",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 657,
+    "mmsi": "512229000",
+    "shipname": "TRANQUIL IMAGE",
+    "callsign": "ZMA3044",
+    "destination": "??ZM_W?;"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 95,
+    "mmsi": "512005655",
+    "shipname": "FLYING CLOUD",
+    "callsign": "ZM3164",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 102,
+    "mmsi": "518395000",
+    "shipname": "ALANI II",
+    "callsign": "E5U2345",
+    "destination": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 72,
+    "mmsi": "512002067",
+    "shipname": "WAIRANGI",
+    "callsign": "ZMTM",
+    "destination": null
+   }
+  }
+ ],
+ "fields": [
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "objectid"
+  },
+  {
+   "name": "mmsi",
+   "type": "esriFieldTypeString",
+   "alias": "mmsi",
+   "length": 50
+  },
+  {
+   "name": "shipname",
+   "type": "esriFieldTypeString",
+   "alias": "shipname",
+   "length": 50
+  },
+  {
+   "name": "callsign",
+   "type": "esriFieldTypeString",
+   "alias": "callsign",
+   "length": 50
+  },
+  {
+   "name": "destination",
+   "type": "esriFieldTypeString",
+   "alias": "destination",
+   "length": 50
+  }
+ ],
+ "objectIdFieldName": "objectid"
+}
