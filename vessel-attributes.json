@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": "WHANGAREI"
+    "destination": null
    }
   },
   {
@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "DEVON PORT"
+    "destination": "R1SKCD7MCP9K#\\4NCL,P"
    }
   },
   {
@@ -133,7 +133,7 @@
     "mmsi": "477060000",
     "shipname": "ISLAND CHIEF",
     "callsign": "VRRB",
-    "destination": "WHANGAREI"
+    "destination": "NZTRG"
    }
   },
   {
