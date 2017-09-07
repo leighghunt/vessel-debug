@@ -261,7 +261,7 @@
    "attributes": {
     "objectid": 735,
     "mmsi": "512001495",
-    "shipname": "TEEPOOKANA",
+    "shipname": null,
     "callsign": null
    }
   },
@@ -621,8 +621,8 @@
    "attributes": {
     "objectid": 737,
     "mmsi": "563007700",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CAPITAINE DAMPIER",
+    "callsign": "9V5317"
    }
   },
   {
