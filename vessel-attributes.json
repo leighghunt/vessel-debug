@@ -13,7 +13,7 @@
    "attributes": {
     "objectid": 741,
     "mmsi": "132347000",
-    "shipname": "TAIKEHU",
+    "shipname": null,
     "callsign": "ZMS6951"
    }
   },
@@ -115,6 +115,14 @@
   },
   {
    "attributes": {
+    "objectid": 749,
+    "mmsi": "512000027",
+    "shipname": "ADVENTURER",
+    "callsign": "ZMG2004"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
     "shipname": "COLUMBIA",
@@ -195,6 +203,14 @@
   },
   {
    "attributes": {
+    "objectid": 748,
+    "mmsi": "512000928",
+    "shipname": "SUPER FLYTE",
+    "callsign": "ZMA3029"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 99,
     "mmsi": "512001026",
     "shipname": "SEAWAY II",
@@ -219,10 +235,34 @@
   },
   {
    "attributes": {
+    "objectid": 751,
+    "mmsi": "512001265",
+    "shipname": "TIRI CAT",
+    "callsign": "ZM2279"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 735,
     "mmsi": "512001495",
     "shipname": "TEEPOOKANA",
     "callsign": "ZMG2258"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 752,
+    "mmsi": "512001497",
+    "shipname": "IKATERE",
+    "callsign": "ZMG2259"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 754,
+    "mmsi": "512001510",
+    "shipname": "HARBOURCAT",
+    "callsign": "ZMZ4489"
    }
   },
   {
@@ -251,10 +291,26 @@
   },
   {
    "attributes": {
+    "objectid": 747,
+    "mmsi": "512003135",
+    "shipname": "BAY BELLE II",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 48,
     "mmsi": "512003200",
     "shipname": "STARLIGHT 11",
     "callsign": "ZMT6675"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 745,
+    "mmsi": "512003229",
+    "shipname": "CLIPPER 4",
+    "callsign": "ZMW3415"
    }
   },
   {
@@ -315,6 +371,14 @@
   },
   {
    "attributes": {
+    "objectid": 753,
+    "mmsi": "512004061",
+    "shipname": "SPIRIT",
+    "callsign": "ZMG2871"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 59,
     "mmsi": "512004062",
     "shipname": "ARAWHITI",
@@ -327,6 +391,14 @@
     "mmsi": "512004158",
     "shipname": "AURORA",
     "callsign": "ZMU5212"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 750,
+    "mmsi": "512004162",
+    "shipname": "CENTURION",
+    "callsign": "ZMU5542"
    }
   },
   {
@@ -355,10 +427,26 @@
   },
   {
    "attributes": {
+    "objectid": 743,
+    "mmsi": "512004511",
+    "shipname": "TE KOTUKU",
+    "callsign": "ZMU2646"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 96,
     "mmsi": "512004558",
     "shipname": "MA ' ARA",
     "callsign": "ZMU7020"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 744,
+    "mmsi": "512004656",
+    "shipname": "D6",
+    "callsign": "ZMU7402"
    }
   },
   {
@@ -391,6 +479,22 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 742,
+    "mmsi": "512005085",
+    "shipname": "CLIPPER 5",
+    "callsign": "ZMU9197"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 746,
+    "mmsi": "512005155",
+    "shipname": "D7",
+    "callsign": "ZME7070"
    }
   },
   {
