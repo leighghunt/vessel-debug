@@ -107,6 +107,14 @@
   },
   {
    "attributes": {
+    "objectid": 736,
+    "mmsi": "373408000",
+    "shipname": "BERGE DAISEN",
+    "callsign": "3FYI7"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 705,
     "mmsi": "373504000",
     "shipname": "K.PLUTO",
