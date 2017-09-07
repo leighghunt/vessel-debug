@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": null
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -43,7 +43,7 @@
     "mmsi": "219802000",
     "shipname": "SOROE MAERSK",
     "callsign": "OYKJ2",
-    "destination": "H"
+    "destination": "CL SVE>NZ UFX"
    }
   },
   {
@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "DEVON PORT"
+    "destination": "R1SKCD7MCP9K#\\4NCL,P"
    }
   },
   {
@@ -601,7 +601,7 @@
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
     "callsign": "ZMU2829",
-    "destination": "NZ AKL"
+    "destination": "B1SKCD7MCP9K#\\3M3 ,P"
    }
   },
   {
@@ -655,7 +655,7 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262",
-    "destination": "H"
+    "destination": "WHANGAREI"
    }
   },
   {
