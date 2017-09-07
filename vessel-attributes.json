@@ -771,6 +771,14 @@
   },
   {
    "attributes": {
+    "objectid": 732,
+    "mmsi": "564053000",
+    "shipname": "SPIRIT OF SYDNEY",
+    "callsign": "9V2501"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 719,
     "mmsi": "564135000",
     "shipname": "SOOCHOW",
