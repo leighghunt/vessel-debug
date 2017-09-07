@@ -709,8 +709,8 @@
    "attributes": {
     "objectid": 780,
     "mmsi": "512005742",
-    "shipname": "NONSTOP NZL2299",
-    "callsign": "ZMS7796"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
