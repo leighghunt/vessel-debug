@@ -243,14 +243,6 @@
   },
   {
    "attributes": {
-    "objectid": 681,
-    "mmsi": "512001027",
-    "shipname": "SEAMASTER",
-    "callsign": "ZMV7638"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 100,
     "mmsi": "512001028",
     "shipname": "SEACAT",
