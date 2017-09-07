@@ -507,14 +507,6 @@
   },
   {
    "attributes": {
-    "objectid": 702,
-    "mmsi": "512004648",
-    "shipname": "AIRPORTMARINECONTRO",
-    "callsign": "ZMU7371"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 671,
     "mmsi": "512004656",
     "shipname": "D6",
