@@ -427,6 +427,14 @@
   },
   {
    "attributes": {
+    "objectid": 783,
+    "mmsi": "512003175",
+    "shipname": "TASMAN EXPRESS",
+    "callsign": "ZMW3200"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 763,
     "mmsi": "512003184",
     "shipname": "MANUKAU",
