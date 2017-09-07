@@ -315,14 +315,6 @@
   },
   {
    "attributes": {
-    "objectid": 735,
-    "mmsi": "512001495",
-    "shipname": "TEEPOOKANA",
-    "callsign": "ZMG2258"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 752,
     "mmsi": "512001497",
     "shipname": "IKATERE",
