@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": "WHANGAREI"
+    "destination": null
    }
   },
   {
@@ -241,7 +241,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "AUCKLAND"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -610,7 +610,7 @@
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
     "callsign": "ZMU2829",
-    "destination": "B1SKCD7MCP9K#\\3M3 ,P"
+    "destination": "NZ AKL"
    }
   },
   {
