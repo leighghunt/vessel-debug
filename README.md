@@ -1,3 +1,8 @@
 # vessel-debug
 
-https://devmaps.at.govt.nz/arcgis/rest/services/Hosted/Vessels/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=&resultOffset=&resultRecordCount=&returnTrueCurves=false&sqlFormat=none&f=geojson
+- Queries Esri rest feature service to return features as GeoJSON.
+- Runs through ogr2ogr to turn into proper GeoJSON.
+
+# Prerequisites
+
+- brew install gdal
