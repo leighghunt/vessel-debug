@@ -299,14 +299,6 @@
   },
   {
    "attributes": {
-    "objectid": 682,
-    "mmsi": "512001268",
-    "shipname": "TIGER CAT",
-    "callsign": "ZMR2981"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 684,
     "mmsi": "512001510",
     "shipname": "HARBOURCAT",
