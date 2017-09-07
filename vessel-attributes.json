@@ -117,8 +117,8 @@
    "attributes": {
     "objectid": 769,
     "mmsi": "498250000",
-    "shipname": "KELVIN",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZM8254"
    }
   },
   {
