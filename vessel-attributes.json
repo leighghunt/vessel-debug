@@ -275,14 +275,6 @@
   },
   {
    "attributes": {
-    "objectid": 710,
-    "mmsi": "512001266",
-    "shipname": "SEAFLYTE",
-    "callsign": "ZM2763"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 735,
     "mmsi": "512001495",
     "shipname": null,
