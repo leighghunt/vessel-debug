@@ -29,7 +29,7 @@
    "attributes": {
     "objectid": 776,
     "mmsi": "211524760",
-    "shipname": null,
+    "shipname": "12 MOONS",
     "callsign": "DB6626"
    }
   },
@@ -709,7 +709,7 @@
    "attributes": {
     "objectid": 780,
     "mmsi": "512005742",
-    "shipname": null,
+    "shipname": "NONSTOP NZL2299",
     "callsign": "ZMS7796"
    }
   },
