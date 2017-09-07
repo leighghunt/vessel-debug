@@ -387,14 +387,6 @@
   },
   {
    "attributes": {
-    "objectid": 661,
-    "mmsi": "512003184",
-    "shipname": "MANUKAU",
-    "callsign": "ZMQ6607"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 48,
     "mmsi": "512003200",
     "shipname": "STARLIGHT 11",
