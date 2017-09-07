@@ -499,14 +499,6 @@
   },
   {
    "attributes": {
-    "objectid": 671,
-    "mmsi": "512004656",
-    "shipname": "D6",
-    "callsign": "ZMU7402"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 61,
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
