@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": "WHANGAREI"
+    "destination": null
    }
   },
   {
@@ -34,7 +34,7 @@
     "mmsi": "215606000",
     "shipname": "BE MINE",
     "callsign": "9HA2755",
-    "destination": "AUCKLAND"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -43,7 +43,7 @@
     "mmsi": "219802000",
     "shipname": "SOROE MAERSK",
     "callsign": "OYKJ2",
-    "destination": "CL SVE>NZ UFX"
+    "destination": "H"
    }
   },
   {
@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "R1SKCD7MCP9K#\\4NCL,P"
+    "destination": "DEVON PORT"
    }
   },
   {
@@ -241,7 +241,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -565,7 +565,7 @@
     "mmsi": "512004511",
     "shipname": "TE KOTUKU",
     "callsign": "ZMU2646",
-    "destination": "NZAKL"
+    "destination": "AUCK/WAIHEKE"
    }
   },
   {
@@ -592,7 +592,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "AUCKLAND"
+    "destination": "??ZM_W?;"
    }
   },
   {
@@ -601,7 +601,7 @@
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
     "callsign": "ZMU2829",
-    "destination": "B1SKCD7MCP9K#\\3M3 ,P"
+    "destination": "NZ AKL"
    }
   },
   {
@@ -655,7 +655,7 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262",
-    "destination": "WHANGAREI"
+    "destination": "H"
    }
   },
   {
@@ -664,7 +664,7 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND AREA"
    }
   },
   {
