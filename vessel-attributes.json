@@ -259,14 +259,6 @@
   },
   {
    "attributes": {
-    "objectid": 687,
-    "mmsi": "512001106",
-    "shipname": "SERENITY",
-    "callsign": "ZMV7877"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 730,
     "mmsi": "512001261",
     "shipname": null,
