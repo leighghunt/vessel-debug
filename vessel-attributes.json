@@ -187,14 +187,6 @@
   },
   {
    "attributes": {
-    "objectid": 691,
-    "mmsi": "512000543",
-    "shipname": "WAKA KUME",
-    "callsign": "ZMR6122"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 724,
     "mmsi": "512000548",
     "shipname": "TIKA",
