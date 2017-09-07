@@ -541,7 +541,7 @@
    "attributes": {
     "objectid": 772,
     "mmsi": "512004533",
-    "shipname": "AIRPORTMARINERESCUE",
+    "shipname": null,
     "callsign": "ZMU6941"
    }
   },
