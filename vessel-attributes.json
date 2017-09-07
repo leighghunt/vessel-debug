@@ -347,14 +347,6 @@
   },
   {
    "attributes": {
-    "objectid": 721,
-    "mmsi": "512001787",
-    "shipname": "TURIHAUA",
-    "callsign": "ZM 2184"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 72,
     "mmsi": "512002067",
     "shipname": "WAIRANGI",
@@ -559,14 +551,6 @@
     "mmsi": "512004962",
     "shipname": "MATARIKI III",
     "callsign": "ZMG3118"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 725,
-    "mmsi": "512004981",
-    "shipname": "MATUA",
-    "callsign": "ZMY5821"
    }
   },
   {
