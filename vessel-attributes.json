@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": null
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -601,7 +601,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "AUCKLAND"
+    "destination": "??ZM_W?;"
    }
   },
   {
