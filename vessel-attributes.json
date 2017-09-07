@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 766,
     "mmsi": "512001263",
-    "shipname": null,
-    "callsign": null
+    "shipname": "DISCOVERY II",
+    "callsign": "ZMV6692"
    }
   },
   {
@@ -487,6 +487,14 @@
     "mmsi": "512003936",
     "shipname": "SEA PELICAN",
     "callsign": "ZMG2834"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 778,
+    "mmsi": "512003946",
+    "shipname": "HARBOURMASTER 6",
+    "callsign": "ZMU2156"
    }
   },
   {
