@@ -133,7 +133,7 @@
     "mmsi": "477060000",
     "shipname": "ISLAND CHIEF",
     "callsign": "VRRB",
-    "destination": "WHANGAREI"
+    "destination": "NZTRG"
    }
   },
   {
@@ -241,7 +241,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -601,7 +601,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "??ZM_W?;"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -673,7 +673,7 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070",
-    "destination": "AUCKLAND AREA"
+    "destination": "WHANGAREI"
    }
   },
   {
