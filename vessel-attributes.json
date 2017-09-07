@@ -27,6 +27,14 @@
   },
   {
    "attributes": {
+    "objectid": 776,
+    "mmsi": "211524760",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 697,
     "mmsi": "211645030",
     "shipname": "ZIG ZAG",
@@ -77,8 +85,8 @@
    "attributes": {
     "objectid": 775,
     "mmsi": "352597000",
-    "shipname": "MAGPIE SW",
-    "callsign": "H9MK"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -301,8 +309,8 @@
    "attributes": {
     "objectid": 766,
     "mmsi": "512001263",
-    "shipname": null,
-    "callsign": null
+    "shipname": "DISCOVERY II",
+    "callsign": "ZMV6692"
    }
   },
   {
