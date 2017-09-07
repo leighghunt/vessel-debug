@@ -219,14 +219,6 @@
   },
   {
    "attributes": {
-    "objectid": 688,
-    "mmsi": "512001265",
-    "shipname": "TIRI CAT",
-    "callsign": "ZM2279"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 735,
     "mmsi": "512001495",
     "shipname": "TEEPOOKANA",
