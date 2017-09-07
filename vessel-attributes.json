@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": null
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "DEVON PORT"
+    "destination": "R1SKCD7MCP9K#\\4NCL,P"
    }
   },
   {
@@ -574,7 +574,7 @@
     "mmsi": "512004511",
     "shipname": "TE KOTUKU",
     "callsign": "ZMU2646",
-    "destination": "AUCK/WAIHEKE"
+    "destination": "NZAKL"
    }
   },
   {
@@ -601,7 +601,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "AUCKLAND"
+    "destination": "??ZM_W?;"
    }
   },
   {
@@ -664,7 +664,7 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262",
-    "destination": "WHANGAREI"
+    "destination": "H"
    }
   },
   {
