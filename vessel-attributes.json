@@ -549,7 +549,7 @@
    "attributes": {
     "objectid": 772,
     "mmsi": "512004533",
-    "shipname": "AIRPORTMARINERESCUE",
+    "shipname": null,
     "callsign": "ZMU6941"
    }
   },
@@ -565,7 +565,7 @@
    "attributes": {
     "objectid": 768,
     "mmsi": "512004583",
-    "shipname": "HOVERCRAFT 1",
+    "shipname": null,
     "callsign": "ZMU7141"
    }
   },
