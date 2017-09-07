@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 766,
     "mmsi": "512001263",
-    "shipname": "DISCOVERY II",
-    "callsign": "ZMV6692"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
