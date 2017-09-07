@@ -227,14 +227,6 @@
   },
   {
    "attributes": {
-    "objectid": 685,
-    "mmsi": "512000928",
-    "shipname": "SUPER FLYTE",
-    "callsign": "ZMA3029"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 99,
     "mmsi": "512001026",
     "shipname": "SEAWAY II",
