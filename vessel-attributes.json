@@ -531,14 +531,6 @@
   },
   {
    "attributes": {
-    "objectid": 726,
-    "mmsi": "512004854",
-    "shipname": null,
-    "callsign": "ZMU7053"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
     "shipname": "TITANIUM",
