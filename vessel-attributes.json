@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "R1SKCD7MCP9K#\\4NCL,P"
+    "destination": "DEVON PORT"
    }
   },
   {
@@ -241,7 +241,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "AUCKLAND"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -359,15 +359,6 @@
     "shipname": "TIGER CAT",
     "callsign": "ZMR2981",
     "destination": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 643,
-    "mmsi": "512001300",
-    "shipname": "MANGA II",
-    "callsign": "ZMJT",
-    "destination": "lgh test last updated 1:43PM"
    }
   },
   {
@@ -673,7 +664,7 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND AREA"
    }
   },
   {
