@@ -600,6 +600,14 @@
     "shipname": "FRISIA ALLER",
     "callsign": "A8SB5"
    }
+  },
+  {
+   "attributes": {
+    "objectid": 740,
+    "mmsi": "636091746",
+    "shipname": "AGLAIA",
+    "callsign": "A8SE6"
+   }
   }
  ],
  "fields": [
