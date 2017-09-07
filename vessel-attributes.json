@@ -499,14 +499,6 @@
   },
   {
    "attributes": {
-    "objectid": 670,
-    "mmsi": "512005155",
-    "shipname": "D7",
-    "callsign": "ZME7070"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 107,
     "mmsi": "512005160",
     "shipname": "BIG BUSINESS",
