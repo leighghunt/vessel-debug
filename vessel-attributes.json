@@ -307,14 +307,6 @@
   },
   {
    "attributes": {
-    "objectid": 672,
-    "mmsi": "512001267",
-    "shipname": "DISCOVERY III",
-    "callsign": "ZMA2422"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 682,
     "mmsi": "512001268",
     "shipname": "TIGER CAT",
