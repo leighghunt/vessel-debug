@@ -51,6 +51,14 @@
   },
   {
    "attributes": {
+    "objectid": 777,
+    "mmsi": "227261220",
+    "shipname": "MERCREDI SOIR",
+    "callsign": "FAC2047"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 739,
     "mmsi": "229452000",
     "shipname": "CAP CLEVELAND",
@@ -309,8 +317,8 @@
    "attributes": {
     "objectid": 766,
     "mmsi": "512001263",
-    "shipname": "DISCOVERY II",
-    "callsign": "ZMV6692"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -557,7 +565,7 @@
    "attributes": {
     "objectid": 772,
     "mmsi": "512004533",
-    "shipname": "AIRPORTMARINERESCUE",
+    "shipname": null,
     "callsign": "ZMU6941"
    }
   },
