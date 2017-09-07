@@ -123,14 +123,6 @@
   },
   {
    "attributes": {
-    "objectid": 639,
-    "mmsi": "503511300",
-    "shipname": "SOUNDCEM III",
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
     "shipname": "COLUMBIA",
