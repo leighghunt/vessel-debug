@@ -603,14 +603,6 @@
   },
   {
    "attributes": {
-    "objectid": 508,
-    "mmsi": "512005376",
-    "shipname": "MALALA",
-    "callsign": "ZMV4307"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 36,
     "mmsi": "512005528",
     "shipname": "MOONDANCE",
