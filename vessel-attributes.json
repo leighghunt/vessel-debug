@@ -83,14 +83,6 @@
   },
   {
    "attributes": {
-    "objectid": 709,
-    "mmsi": "367137260",
-    "shipname": "RED",
-    "callsign": "WDD3862"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 591,
     "mmsi": "371452000",
     "shipname": "GREAT OCEAN",
@@ -262,7 +254,7 @@
     "objectid": 735,
     "mmsi": "512001495",
     "shipname": "TEEPOOKANA",
-    "callsign": null
+    "callsign": "ZMG2258"
    }
   },
   {
@@ -621,8 +613,8 @@
    "attributes": {
     "objectid": 737,
     "mmsi": "563007700",
-    "shipname": "CAPITAINE DAMPIER",
-    "callsign": "9V5317"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
