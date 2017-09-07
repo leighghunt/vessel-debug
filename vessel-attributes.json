@@ -643,14 +643,6 @@
   },
   {
    "attributes": {
-    "objectid": 574,
-    "mmsi": "512431000",
-    "shipname": "ACHERON 3",
-    "callsign": "ZMG3130"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 717,
     "mmsi": "512433000",
     "shipname": "AOTEAROA CHIEF",
