@@ -115,6 +115,14 @@
   },
   {
    "attributes": {
+    "objectid": 769,
+    "mmsi": "498250000",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 749,
     "mmsi": "512000027",
     "shipname": "ADVENTURER",
@@ -179,10 +187,26 @@
   },
   {
    "attributes": {
+    "objectid": 770,
+    "mmsi": "512000545",
+    "shipname": "DALDY",
+    "callsign": "ZMZ7645"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 765,
     "mmsi": "512000548",
     "shipname": "TIKA",
     "callsign": "ZMV2092"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 767,
+    "mmsi": "512000637",
+    "shipname": "ASB RESCUE",
+    "callsign": "ZMT4444"
    }
   },
   {
@@ -271,6 +295,14 @@
     "mmsi": "512001262",
     "shipname": "DISCOVERY I",
     "callsign": "ZMZ6487"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 766,
+    "mmsi": "512001263",
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -515,6 +547,14 @@
   },
   {
    "attributes": {
+    "objectid": 768,
+    "mmsi": "512004583",
+    "shipname": null,
+    "callsign": "ZMU7141"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 744,
     "mmsi": "512004656",
     "shipname": "D6",
@@ -583,6 +623,14 @@
     "mmsi": "512005528",
     "shipname": "MOONDANCE",
     "callsign": "ZMU9211"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 771,
+    "mmsi": "512005636",
+    "shipname": "OONA",
+    "callsign": "ZMF8869"
    }
   },
   {
