@@ -133,7 +133,7 @@
     "mmsi": "477060000",
     "shipname": "ISLAND CHIEF",
     "callsign": "VRRB",
-    "destination": "WHANGAREI"
+    "destination": "NZTRG"
    }
   },
   {
@@ -156,15 +156,6 @@
   },
   {
    "attributes": {
-    "objectid": 711,
-    "mmsi": "512000077",
-    "shipname": "NAVMAN",
-    "callsign": "ZMY5780",
-    "destination": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
     "shipname": "COLUMBIA",
@@ -178,7 +169,7 @@
     "mmsi": "512000344",
     "shipname": "PILOT VESSEL AKARANA",
     "callsign": "ZMT2938",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -313,15 +304,6 @@
     "mmsi": "512001029",
     "shipname": "ISLAND NAVIGATOR",
     "callsign": "ZMQ7781",
-    "destination": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 699,
-    "mmsi": "512001100",
-    "shipname": "PAEA II",
-    "callsign": "ZMSS",
     "destination": null
    }
   },
@@ -619,7 +601,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "AUCKLAND"
+    "destination": "??ZM_W?;"
    }
   },
   {
@@ -727,15 +709,6 @@
     "mmsi": "512005528",
     "shipname": "MOONDANCE",
     "callsign": "ZMU9211",
-    "destination": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 703,
-    "mmsi": "512005575",
-    "shipname": "GRACIAS",
-    "callsign": "ZMG3262",
     "destination": null
    }
   },
