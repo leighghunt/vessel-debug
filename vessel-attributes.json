@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": "WHANGAREI"
+    "destination": null
    }
   },
   {
@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "R1SKCD7MCP9K#\\4NCL,P"
+    "destination": "DEVON PORT"
    }
   },
   {
@@ -133,7 +133,7 @@
     "mmsi": "477060000",
     "shipname": "ISLAND CHIEF",
     "callsign": "VRRB",
-    "destination": "NZTRG"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -178,7 +178,7 @@
     "mmsi": "512000344",
     "shipname": "PILOT VESSEL AKARANA",
     "callsign": "ZMT2938",
-    "destination": "AUCKLAND"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -250,7 +250,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -619,7 +619,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "??ZM_W?;"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -682,7 +682,7 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262",
-    "destination": "H"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -853,7 +853,7 @@
     "mmsi": "512219000",
     "shipname": "AWANUIA",
     "callsign": "ZMA2137",
-    "destination": "AUCKLAND"
+    "destination": "NZAKL"
    }
   },
   {
