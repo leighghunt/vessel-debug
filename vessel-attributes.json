@@ -171,6 +171,14 @@
   },
   {
    "attributes": {
+    "objectid": 758,
+    "mmsi": "512000544",
+    "shipname": "WAIPAPA",
+    "callsign": "ZMR3175"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 58,
     "mmsi": "512000715",
     "shipname": "MACY GRAY",
@@ -219,6 +227,14 @@
   },
   {
    "attributes": {
+    "objectid": 762,
+    "mmsi": "512001027",
+    "shipname": "SEAMASTER",
+    "callsign": "ZMV7638"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 100,
     "mmsi": "512001028",
     "shipname": "SEACAT",
@@ -235,10 +251,58 @@
   },
   {
    "attributes": {
+    "objectid": 761,
+    "mmsi": "512001106",
+    "shipname": "SERENITY",
+    "callsign": "ZMV7877"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 755,
+    "mmsi": "512001262",
+    "shipname": "DISCOVERY I",
+    "callsign": "ZMZ6487"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 759,
+    "mmsi": "512001264",
+    "shipname": "OSPREY",
+    "callsign": "ZMR3723"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 751,
     "mmsi": "512001265",
     "shipname": "TIRI CAT",
     "callsign": "ZM2279"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 756,
+    "mmsi": "512001266",
+    "shipname": "SEAFLYTE",
+    "callsign": "ZM2763"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 757,
+    "mmsi": "512001267",
+    "shipname": "DISCOVERY III",
+    "callsign": "ZMA2422"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 760,
+    "mmsi": "512001268",
+    "shipname": "TIGER CAT",
+    "callsign": "ZMR2981"
    }
   },
   {
@@ -295,6 +359,14 @@
     "mmsi": "512003135",
     "shipname": "BAY BELLE II",
     "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 763,
+    "mmsi": "512003184",
+    "shipname": "MANUKAU",
+    "callsign": "ZMQ6607"
    }
   },
   {
