@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": null
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -169,7 +169,7 @@
     "mmsi": "512000344",
     "shipname": "PILOT VESSEL AKARANA",
     "callsign": "ZMT2938",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -664,7 +664,7 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262",
-    "destination": "WHANGAREI"
+    "destination": "H"
    }
   },
   {
@@ -673,7 +673,7 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070",
-    "destination": "AUCKLAND AREA"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -871,7 +871,7 @@
     "mmsi": "512433000",
     "shipname": "AOTEAROA CHIEF",
     "callsign": "ZMAR",
-    "destination": "NZTRG"
+    "destination": "NZ WHANGAREI"
    }
   },
   {
