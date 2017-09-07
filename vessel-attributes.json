@@ -147,14 +147,6 @@
   },
   {
    "attributes": {
-    "objectid": 676,
-    "mmsi": "512000027",
-    "shipname": "ADVENTURER",
-    "callsign": "ZMG2004"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
     "shipname": "COLUMBIA",
