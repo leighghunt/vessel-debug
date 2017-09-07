@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "DEVON PORT"
+    "destination": "R1SKCD7MCP9K#\\4NCL,P"
    }
   },
   {
@@ -241,7 +241,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -574,7 +574,7 @@
     "mmsi": "512004511",
     "shipname": "TE KOTUKU",
     "callsign": "ZMU2646",
-    "destination": "AUCK/WAIHEKE"
+    "destination": "NZAKL"
    }
   },
   {
@@ -610,7 +610,7 @@
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
     "callsign": "ZMU2829",
-    "destination": "B1SKCD7MCP9K#\\3M3 ,P"
+    "destination": "NZ AKL"
    }
   },
   {
@@ -673,7 +673,7 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070",
-    "destination": "AUCKLAND AREA"
+    "destination": "WHANGAREI"
    }
   },
   {
