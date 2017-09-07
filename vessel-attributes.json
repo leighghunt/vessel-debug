@@ -723,14 +723,6 @@
   },
   {
    "attributes": {
-    "objectid": 657,
-    "mmsi": "512229000",
-    "shipname": "TRANQUIL IMAGE",
-    "callsign": "ZMA3044"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 97,
     "mmsi": "512412000",
     "shipname": "INDEFATIGABLE",
