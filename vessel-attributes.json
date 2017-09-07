@@ -7,7 +7,7 @@
     "mmsi": "123456789",
     "shipname": "NAVICOM TEST",
     "callsign": null,
-    "destination": null
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -61,7 +61,7 @@
     "mmsi": "232006988",
     "shipname": "GREY WOLF",
     "callsign": "MASZ3",
-    "destination": "DEVON PORT"
+    "destination": "R1SKCD7MCP9K#\\4NCL,P"
    }
   },
   {
@@ -106,7 +106,7 @@
     "mmsi": "372856000",
     "shipname": "DREAM DIVA",
     "callsign": "3EKW6",
-    "destination": "5L"
+    "destination": "NZ AKL"
    }
   },
   {
@@ -133,7 +133,7 @@
     "mmsi": "477060000",
     "shipname": "ISLAND CHIEF",
     "callsign": "VRRB",
-    "destination": "NZTRG"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -241,7 +241,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -601,7 +601,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "??ZM_W?;"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -610,7 +610,7 @@
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
     "callsign": "ZMU2829",
-    "destination": "B1SKCD7MCP9K#\\3M3 ,P"
+    "destination": "NZ AKL"
    }
   },
   {
