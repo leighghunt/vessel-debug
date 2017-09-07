@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 766,
     "mmsi": "512001263",
-    "shipname": null,
-    "callsign": null
+    "shipname": "DISCOVERY II",
+    "callsign": "ZMV6692"
    }
   },
   {
@@ -565,7 +565,7 @@
    "attributes": {
     "objectid": 772,
     "mmsi": "512004533",
-    "shipname": null,
+    "shipname": "AIRPORTMARINERESCUE",
     "callsign": "ZMU6941"
    }
   },
