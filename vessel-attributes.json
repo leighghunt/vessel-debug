@@ -712,6 +712,14 @@
     "shipname": "ANL ECHUCA",
     "callsign": "A8ET3"
    }
+  },
+  {
+   "attributes": {
+    "objectid": 734,
+    "mmsi": "636091729",
+    "shipname": "FRISIA ALLER",
+    "callsign": "A8SB5"
+   }
   }
  ],
  "fields": [
