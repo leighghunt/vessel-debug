@@ -219,14 +219,6 @@
   },
   {
    "attributes": {
-    "objectid": 683,
-    "mmsi": "512001264",
-    "shipname": "OSPREY",
-    "callsign": "ZMR3723"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 688,
     "mmsi": "512001265",
     "shipname": "TIRI CAT",
