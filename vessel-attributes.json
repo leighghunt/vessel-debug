@@ -241,7 +241,7 @@
     "mmsi": "512000741",
     "shipname": "CLIPPER 3",
     "callsign": "ZMT3984",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -574,7 +574,7 @@
     "mmsi": "512004511",
     "shipname": "TE KOTUKU",
     "callsign": "ZMU2646",
-    "destination": "NZAKL"
+    "destination": "AUCK/WAIHEKE"
    }
   },
   {
@@ -601,7 +601,7 @@
     "mmsi": "512004656",
     "shipname": "D6",
     "callsign": "ZMU7402",
-    "destination": "??ZM_W?;"
+    "destination": "AUCKLAND"
    }
   },
   {
@@ -664,7 +664,7 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262",
-    "destination": "H"
+    "destination": "WHANGAREI"
    }
   },
   {
@@ -673,7 +673,7 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070",
-    "destination": "WHANGAREI"
+    "destination": "AUCKLAND AREA"
    }
   },
   {
