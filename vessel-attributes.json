@@ -173,7 +173,7 @@
    "attributes": {
     "objectid": 788,
     "mmsi": "512000237",
-    "shipname": "NORTH SHORE RESCUE",
+    "shipname": null,
     "callsign": "ZMY9001"
    }
   },
