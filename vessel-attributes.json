@@ -115,26 +115,10 @@
   },
   {
    "attributes": {
-    "objectid": 736,
-    "mmsi": "373408000",
-    "shipname": "BERGE DAISEN",
-    "callsign": "3FYI7"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 66,
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
     "callsign": "RIV 61"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 784,
-    "mmsi": "503511200",
-    "shipname": "SOUNDCEM II",
-    "callsign": null
    }
   },
   {
@@ -243,14 +227,6 @@
   },
   {
    "attributes": {
-    "objectid": 767,
-    "mmsi": "512000637",
-    "shipname": "ASB RESCUE",
-    "callsign": "ZMT4444"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 58,
     "mmsi": "512000715",
     "shipname": "MACY GRAY",
@@ -291,14 +267,6 @@
   },
   {
    "attributes": {
-    "objectid": 794,
-    "mmsi": "512000887",
-    "shipname": "VES_PER_03",
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 748,
     "mmsi": "512000928",
     "shipname": "SUPER FLYTE",
@@ -327,22 +295,6 @@
     "mmsi": "512001028",
     "shipname": "SEACAT",
     "callsign": "ZMQ7552"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 577,
-    "mmsi": "512001029",
-    "shipname": "ISLAND NAVIGATOR",
-    "callsign": "ZMQ7781"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 761,
-    "mmsi": "512001106",
-    "shipname": "SERENITY",
-    "callsign": "ZMV7877"
    }
   },
   {
@@ -439,14 +391,6 @@
     "mmsi": "512002866",
     "shipname": "CALIPH",
     "callsign": "ZM4711"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 781,
-    "mmsi": "512003063",
-    "shipname": null,
-    "callsign": null
    }
   },
   {
@@ -555,14 +499,6 @@
   },
   {
    "attributes": {
-    "objectid": 778,
-    "mmsi": "512003946",
-    "shipname": "HARBOURMASTER 6",
-    "callsign": "ZMU2156"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 122,
     "mmsi": "512004023",
     "shipname": "PIPER",
@@ -627,26 +563,10 @@
   },
   {
    "attributes": {
-    "objectid": 772,
-    "mmsi": "512004533",
-    "shipname": "AIRPORTMARINERESCUE",
-    "callsign": "ZMU6941"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 96,
     "mmsi": "512004558",
     "shipname": "MA ' ARA",
     "callsign": "ZMU7020"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 768,
-    "mmsi": "512004583",
-    "shipname": "HOVERCRAFT 1",
-    "callsign": "ZMU7141"
    }
   },
   {
@@ -739,14 +659,6 @@
   },
   {
    "attributes": {
-    "objectid": 771,
-    "mmsi": "512005636",
-    "shipname": "OONA",
-    "callsign": "ZMF8869"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 95,
     "mmsi": "512005655",
     "shipname": "FLYING CLOUD",
@@ -759,14 +671,6 @@
     "mmsi": "512005706",
     "shipname": "KORORA",
     "callsign": "ZMW7964"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 780,
-    "mmsi": "512005742",
-    "shipname": "NONSTOP NZL2299",
-    "callsign": "ZMS7796"
    }
   },
   {
@@ -807,14 +711,6 @@
     "mmsi": "512006211",
     "shipname": "TE MAKI",
     "callsign": "ZMX2434"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 782,
-    "mmsi": "512006234",
-    "shipname": null,
-    "callsign": "ZMX2387"
    }
   },
   {
