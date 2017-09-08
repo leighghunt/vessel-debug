@@ -173,7 +173,7 @@
    "attributes": {
     "objectid": 788,
     "mmsi": "512000237",
-    "shipname": null,
+    "shipname": "NORTH SHORE RESCUE",
     "callsign": "ZMY9001"
    }
   },
@@ -822,7 +822,7 @@
     "objectid": 790,
     "mmsi": "512006368",
     "shipname": "CATION",
-    "callsign": "ZMX2767"
+    "callsign": null
    }
   },
   {
@@ -934,7 +934,7 @@
     "objectid": 791,
     "mmsi": "538071086",
     "shipname": "SILVERTIP",
-    "callsign": "V7EQ8"
+    "callsign": null
    }
   },
   {
