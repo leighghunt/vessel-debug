@@ -819,14 +819,6 @@
   },
   {
    "attributes": {
-    "objectid": 708,
-    "mmsi": "512082000",
-    "shipname": "KIM OCEAN",
-    "callsign": "ZME2279"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 113,
     "mmsi": "512087000",
     "shipname": "ORTEM",
