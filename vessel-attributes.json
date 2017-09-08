@@ -173,7 +173,7 @@
    "attributes": {
     "objectid": 788,
     "mmsi": "512000237",
-    "shipname": null,
+    "shipname": "NORTH SHORE RESCUE",
     "callsign": "ZMY9001"
    }
   },
@@ -286,7 +286,7 @@
     "objectid": 792,
     "mmsi": "512000781",
     "shipname": "STELLA MARIS",
-    "callsign": "ZM4865"
+    "callsign": null
    }
   },
   {
@@ -821,8 +821,8 @@
    "attributes": {
     "objectid": 790,
     "mmsi": "512006368",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CATION",
+    "callsign": "ZMX2767"
    }
   },
   {
