@@ -131,14 +131,6 @@
   },
   {
    "attributes": {
-    "objectid": 769,
-    "mmsi": "498250000",
-    "shipname": "KELVIN",
-    "callsign": "ZM8254"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 784,
     "mmsi": "503511200",
     "shipname": "SOUNDCEM II",
