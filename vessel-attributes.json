@@ -515,6 +515,14 @@
   },
   {
    "attributes": {
+    "objectid": 793,
+    "mmsi": "512003456",
+    "shipname": "TAKAHIWAI",
+    "callsign": "ZMR6821"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 47,
     "mmsi": "512003518",
     "shipname": "KAPUA",
@@ -934,7 +942,7 @@
     "objectid": 791,
     "mmsi": "538071086",
     "shipname": "SILVERTIP",
-    "callsign": "V7EQ8"
+    "callsign": null
    }
   },
   {
