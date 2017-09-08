@@ -579,14 +579,6 @@
   },
   {
    "attributes": {
-    "objectid": 753,
-    "mmsi": "512004061",
-    "shipname": "SPIRIT",
-    "callsign": "ZMG2871"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 59,
     "mmsi": "512004062",
     "shipname": "ARAWHITI",
