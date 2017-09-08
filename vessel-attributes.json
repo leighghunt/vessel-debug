@@ -173,7 +173,7 @@
    "attributes": {
     "objectid": 788,
     "mmsi": "512000237",
-    "shipname": null,
+    "shipname": "NORTH SHORE RESCUE",
     "callsign": "ZMY9001"
    }
   },
@@ -942,7 +942,7 @@
     "objectid": 791,
     "mmsi": "538071086",
     "shipname": "SILVERTIP",
-    "callsign": null
+    "callsign": "V7EQ8"
    }
   },
   {
@@ -991,14 +991,6 @@
     "mmsi": "636091729",
     "shipname": "FRISIA ALLER",
     "callsign": "A8SB5"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 740,
-    "mmsi": "636091746",
-    "shipname": "AGLAIA",
-    "callsign": "A8SE6"
    }
   }
  ],
