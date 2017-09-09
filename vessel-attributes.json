@@ -29,8 +29,8 @@
    "attributes": {
     "objectid": 697,
     "mmsi": "211645030",
-    "shipname": null,
-    "callsign": "DK7575"
+    "shipname": "ZIG ZAG",
+    "callsign": null
    }
   },
   {
@@ -717,8 +717,8 @@
    "attributes": {
     "objectid": 744,
     "mmsi": "512004656",
-    "shipname": null,
-    "callsign": null
+    "shipname": "D6",
+    "callsign": "ZMU7402"
    }
   },
   {
