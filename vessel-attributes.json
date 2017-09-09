@@ -613,8 +613,8 @@
    "attributes": {
     "objectid": 825,
     "mmsi": "512003416",
-    "shipname": "HIBISCUS RESCUE 1",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMQ5988"
    }
   },
   {
@@ -910,7 +910,7 @@
     "objectid": 823,
     "mmsi": "512006234",
     "shipname": null,
-    "callsign": null
+    "callsign": "ZMX2387"
    }
   },
   {
