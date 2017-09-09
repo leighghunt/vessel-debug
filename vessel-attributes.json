@@ -30,7 +30,7 @@
     "objectid": 697,
     "mmsi": "211645030",
     "shipname": null,
-    "callsign": null
+    "callsign": "DK7575"
    }
   },
   {
@@ -85,7 +85,7 @@
    "attributes": {
     "objectid": 817,
     "mmsi": "249000906",
-    "shipname": null,
+    "shipname": "S/Y THE PEARL",
     "callsign": null
    }
   },
@@ -717,8 +717,8 @@
    "attributes": {
     "objectid": 744,
     "mmsi": "512004656",
-    "shipname": "D6",
-    "callsign": "ZMU7402"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
