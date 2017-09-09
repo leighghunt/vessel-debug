@@ -278,7 +278,7 @@
     "objectid": 788,
     "mmsi": "512000237",
     "shipname": "NORTH SHORE RESCUE",
-    "callsign": null
+    "callsign": "ZMY9001"
    }
   },
   {
@@ -405,7 +405,7 @@
    "attributes": {
     "objectid": 748,
     "mmsi": "512000928",
-    "shipname": "SUPER FLYTE",
+    "shipname": null,
     "callsign": "ZMA3029"
    }
   },
@@ -518,7 +518,7 @@
     "objectid": 819,
     "mmsi": "512001521",
     "shipname": null,
-    "callsign": null
+    "callsign": "ZM2288"
    }
   },
   {
