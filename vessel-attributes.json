@@ -261,7 +261,7 @@
    "attributes": {
     "objectid": 749,
     "mmsi": "512000027",
-    "shipname": "ADVENTURER",
+    "shipname": null,
     "callsign": "ZMG2004"
    }
   },
@@ -405,7 +405,7 @@
    "attributes": {
     "objectid": 748,
     "mmsi": "512000928",
-    "shipname": null,
+    "shipname": "SUPER FLYTE",
     "callsign": "ZMA3029"
    }
   },
