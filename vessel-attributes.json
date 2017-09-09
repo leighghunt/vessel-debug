@@ -406,7 +406,7 @@
     "objectid": 762,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
-    "callsign": null
+    "callsign": "ZMV7638"
    }
   },
   {
@@ -597,7 +597,7 @@
    "attributes": {
     "objectid": 47,
     "mmsi": "512003518",
-    "shipname": null,
+    "shipname": "KAPUA",
     "callsign": "ZMW4289"
    }
   },
@@ -854,7 +854,7 @@
     "objectid": 77,
     "mmsi": "512006211",
     "shipname": "TE MAKI",
-    "callsign": null
+    "callsign": "ZMX2434"
    }
   },
   {
