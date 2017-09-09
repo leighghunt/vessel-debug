@@ -85,7 +85,7 @@
    "attributes": {
     "objectid": 817,
     "mmsi": "249000906",
-    "shipname": "S/Y THE PEARL",
+    "shipname": null,
     "callsign": null
    }
   },
@@ -733,7 +733,7 @@
    "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
-    "shipname": null,
+    "shipname": "TITANIUM",
     "callsign": "ZMG3095"
    }
   },
