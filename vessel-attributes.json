@@ -69,8 +69,8 @@
    "attributes": {
     "objectid": 29,
     "mmsi": "232006988",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GREY WOLF",
+    "callsign": "MASZ3"
    }
   },
   {
@@ -141,8 +141,8 @@
    "attributes": {
     "objectid": 775,
     "mmsi": "352597000",
-    "shipname": "MAGPIE SW",
-    "callsign": "H9MK"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -171,10 +171,18 @@
   },
   {
    "attributes": {
+    "objectid": 809,
+    "mmsi": "373052000",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 66,
     "mmsi": "378111564",
-    "shipname": "RIV 61  001",
-    "callsign": "RIV 61"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -357,8 +365,8 @@
    "attributes": {
     "objectid": 762,
     "mmsi": "512001027",
-    "shipname": "SEAMASTER",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMV7638"
    }
   },
   {
@@ -405,8 +413,8 @@
    "attributes": {
     "objectid": 756,
     "mmsi": "512001266",
-    "shipname": "SEAFLYTE",
-    "callsign": "ZM2763"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -429,8 +437,8 @@
    "attributes": {
     "objectid": 752,
     "mmsi": "512001497",
-    "shipname": "IKATERE",
-    "callsign": "ZMG2259"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -453,16 +461,16 @@
    "attributes": {
     "objectid": 72,
     "mmsi": "512002067",
-    "shipname": "WAIRANGI",
-    "callsign": "ZMTM"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
    "attributes": {
     "objectid": 62,
     "mmsi": "512002866",
-    "shipname": "CALIPH",
-    "callsign": "ZM4711"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -525,8 +533,8 @@
    "attributes": {
     "objectid": 67,
     "mmsi": "512003332",
-    "shipname": "OLYMPIC SPIRIT",
-    "callsign": "ZMT7015"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -557,8 +565,8 @@
    "attributes": {
     "objectid": 110,
     "mmsi": "512003888",
-    "shipname": "OM",
-    "callsign": "ZMG2824"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -669,8 +677,8 @@
    "attributes": {
     "objectid": 773,
     "mmsi": "512004731",
-    "shipname": "LION RESCUE",
-    "callsign": "ZMR7777"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -693,8 +701,8 @@
    "attributes": {
     "objectid": 494,
     "mmsi": "512004996",
-    "shipname": null,
-    "callsign": null
+    "shipname": "PILOTVESSEL WAKATERE",
+    "callsign": "ZME6262"
    }
   },
   {
@@ -731,6 +739,14 @@
   },
   {
    "attributes": {
+    "objectid": 808,
+    "mmsi": "512005550",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 95,
     "mmsi": "512005655",
     "shipname": null,
@@ -749,8 +765,8 @@
    "attributes": {
     "objectid": 86,
     "mmsi": "512005801",
-    "shipname": "WINDHAVEN",
-    "callsign": "ZMF4451"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -773,7 +789,7 @@
    "attributes": {
     "objectid": 786,
     "mmsi": "512006191",
-    "shipname": null,
+    "shipname": "SAN ARAMAND",
     "callsign": null
    }
   },
@@ -805,8 +821,8 @@
    "attributes": {
     "objectid": 53,
     "mmsi": "512007000",
-    "shipname": "COASTAL CARRIER",
-    "callsign": "ZM2189"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -821,8 +837,8 @@
    "attributes": {
     "objectid": 550,
     "mmsi": "512120000",
-    "shipname": "R TUCKER THOMPSON",
-    "callsign": "ZMA2808"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -837,8 +853,8 @@
    "attributes": {
     "objectid": 80,
     "mmsi": "512219000",
-    "shipname": "AWANUIA",
-    "callsign": "ZMA2137"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -885,8 +901,8 @@
    "attributes": {
     "objectid": 14,
     "mmsi": "518497000",
-    "shipname": "ISLAND PASSAGE",
-    "callsign": "E5U2447"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -909,6 +925,14 @@
    "attributes": {
     "objectid": 55,
     "mmsi": "538071125",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 810,
+    "mmsi": "563007700",
     "shipname": null,
     "callsign": null
    }
