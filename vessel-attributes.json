@@ -29,7 +29,7 @@
    "attributes": {
     "objectid": 697,
     "mmsi": "211645030",
-    "shipname": null,
+    "shipname": "ZIG ZAG",
     "callsign": "DK7575"
    }
   },
@@ -309,8 +309,8 @@
    "attributes": {
     "objectid": 557,
     "mmsi": "512000532",
-    "shipname": "STARFLYTE",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMR4078"
    }
   },
   {
