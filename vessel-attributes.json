@@ -597,8 +597,8 @@
    "attributes": {
     "objectid": 47,
     "mmsi": "512003518",
-    "shipname": "KAPUA",
-    "callsign": "ZMW4289"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -795,6 +795,14 @@
   },
   {
    "attributes": {
+    "objectid": 818,
+    "mmsi": "512005653",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 95,
     "mmsi": "512005655",
     "shipname": "FLYING CLOUD",
@@ -910,7 +918,7 @@
     "objectid": 97,
     "mmsi": "512412000",
     "shipname": "INDEFATIGABLE",
-    "callsign": null
+    "callsign": "ZMT2829"
    }
   },
   {
@@ -933,8 +941,8 @@
    "attributes": {
     "objectid": 102,
     "mmsi": "518395000",
-    "shipname": null,
-    "callsign": "E5U2345"
+    "shipname": "ALANI II",
+    "callsign": null
    }
   },
   {
