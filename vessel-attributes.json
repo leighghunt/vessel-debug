@@ -613,7 +613,7 @@
    "attributes": {
     "objectid": 825,
     "mmsi": "512003416",
-    "shipname": null,
+    "shipname": "HIBISCUS RESCUE 1",
     "callsign": null
    }
   },
@@ -861,7 +861,7 @@
    "attributes": {
     "objectid": 820,
     "mmsi": "512005742",
-    "shipname": null,
+    "shipname": "NONSTOP NZL2299",
     "callsign": "ZMS7796"
    }
   },
