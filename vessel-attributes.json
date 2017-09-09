@@ -261,8 +261,8 @@
    "attributes": {
     "objectid": 749,
     "mmsi": "512000027",
-    "shipname": "ADVENTURER",
-    "callsign": "ZMG2004"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
