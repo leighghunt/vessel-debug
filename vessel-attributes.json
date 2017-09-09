@@ -565,7 +565,7 @@
    "attributes": {
     "objectid": 832,
     "mmsi": "512003063",
-    "shipname": "RESCUE ALPHA",
+    "shipname": null,
     "callsign": "ZMR6666"
    }
   },
