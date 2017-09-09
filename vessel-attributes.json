@@ -285,7 +285,7 @@
    "attributes": {
     "objectid": 675,
     "mmsi": "512000369",
-    "shipname": null,
+    "shipname": "DEODAR 111",
     "callsign": "ZMIH"
    }
   },
@@ -942,7 +942,7 @@
     "objectid": 102,
     "mmsi": "518395000",
     "shipname": "ALANI II",
-    "callsign": "E5U2345"
+    "callsign": null
    }
   },
   {
