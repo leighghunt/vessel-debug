@@ -325,8 +325,8 @@
    "attributes": {
     "objectid": 770,
     "mmsi": "512000545",
-    "shipname": null,
-    "callsign": null
+    "shipname": "DALDY",
+    "callsign": "ZMZ7645"
    }
   },
   {
@@ -406,7 +406,7 @@
     "objectid": 762,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
-    "callsign": null
+    "callsign": "ZMV7638"
    }
   },
   {
@@ -645,7 +645,7 @@
    "attributes": {
     "objectid": 720,
     "mmsi": "512004158",
-    "shipname": null,
+    "shipname": "AURORA",
     "callsign": "ZMU5212"
    }
   },
@@ -790,7 +790,7 @@
     "objectid": 808,
     "mmsi": "512005550",
     "shipname": "THE BLIZZARD",
-    "callsign": null
+    "callsign": "ZMF2277"
    }
   },
   {
@@ -942,7 +942,7 @@
     "objectid": 102,
     "mmsi": "518395000",
     "shipname": "ALANI II",
-    "callsign": "E5U2345"
+    "callsign": null
    }
   },
   {
