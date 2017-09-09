@@ -757,8 +757,8 @@
    "attributes": {
     "objectid": 779,
     "mmsi": "512004648",
-    "shipname": "AIRPORTMARINECONTRO",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMU7371"
    }
   },
   {
@@ -789,7 +789,7 @@
    "attributes": {
     "objectid": 828,
     "mmsi": "512004786",
-    "shipname": null,
+    "shipname": "HOVERCRAFT2",
     "callsign": null
    }
   },
