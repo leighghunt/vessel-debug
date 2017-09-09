@@ -741,7 +741,7 @@
    "attributes": {
     "objectid": 827,
     "mmsi": "512004533",
-    "shipname": null,
+    "shipname": "AIRPORTMARINERESCUE",
     "callsign": "ZMU6941"
    }
   },
@@ -982,7 +982,7 @@
     "objectid": 830,
     "mmsi": "512082000",
     "shipname": "KIM OCEAN",
-    "callsign": null
+    "callsign": "ZME2279"
    }
   },
   {
