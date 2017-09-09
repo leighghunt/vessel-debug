@@ -989,7 +989,7 @@
    "attributes": {
     "objectid": 830,
     "mmsi": "512082000",
-    "shipname": "KIM OCEAN",
+    "shipname": null,
     "callsign": "ZME2279"
    }
   },
