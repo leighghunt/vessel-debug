@@ -358,7 +358,7 @@
     "objectid": 816,
     "mmsi": "512000637",
     "shipname": "ASB RESCUE",
-    "callsign": null
+    "callsign": "ZMT4444"
    }
   },
   {
@@ -853,7 +853,7 @@
    "attributes": {
     "objectid": 820,
     "mmsi": "512005742",
-    "shipname": "NONSTOP NZL2299",
+    "shipname": null,
     "callsign": "ZMS7796"
    }
   },
