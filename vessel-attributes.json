@@ -219,6 +219,14 @@
   },
   {
    "attributes": {
+    "objectid": 824,
+    "mmsi": "374170000",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 66,
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
@@ -645,7 +653,7 @@
    "attributes": {
     "objectid": 821,
     "mmsi": "512003946",
-    "shipname": null,
+    "shipname": "HARBOURMASTER 6",
     "callsign": null
    }
   },
@@ -845,7 +853,7 @@
    "attributes": {
     "objectid": 820,
     "mmsi": "512005742",
-    "shipname": null,
+    "shipname": "NONSTOP NZL2299",
     "callsign": "ZMS7796"
    }
   },
@@ -887,6 +895,14 @@
     "mmsi": "512006211",
     "shipname": "TE MAKI",
     "callsign": "ZMX2434"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 823,
+    "mmsi": "512006234",
+    "shipname": null,
+    "callsign": null
    }
   },
   {
