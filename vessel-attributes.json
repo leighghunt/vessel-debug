@@ -69,8 +69,8 @@
    "attributes": {
     "objectid": 29,
     "mmsi": "232006988",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GREY WOLF",
+    "callsign": "MASZ3"
    }
   },
   {
@@ -101,8 +101,8 @@
    "attributes": {
     "objectid": 803,
     "mmsi": "311000442",
-    "shipname": null,
-    "callsign": null
+    "shipname": "AFRICAN OWL",
+    "callsign": "C6CD6"
    }
   },
   {
@@ -133,8 +133,8 @@
    "attributes": {
     "objectid": 56,
     "mmsi": "319774000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "LATITUDE",
+    "callsign": "ZCTD5"
    }
   },
   {
@@ -165,7 +165,7 @@
    "attributes": {
     "objectid": 812,
     "mmsi": "367137260",
-    "shipname": null,
+    "shipname": "RED",
     "callsign": "WDD3862"
    }
   },
@@ -181,8 +181,8 @@
    "attributes": {
     "objectid": 716,
     "mmsi": "372856000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "DREAM DIVA",
+    "callsign": "3EKW6"
    }
   },
   {
@@ -285,8 +285,8 @@
    "attributes": {
     "objectid": 457,
     "mmsi": "512000421",
-    "shipname": "INFINITY",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMA3368"
    }
   },
   {
@@ -318,7 +318,7 @@
     "objectid": 770,
     "mmsi": "512000545",
     "shipname": null,
-    "callsign": null
+    "callsign": "ZMZ7645"
    }
   },
   {
@@ -327,6 +327,14 @@
     "mmsi": "512000548",
     "shipname": "TIKA",
     "callsign": "ZMV2092"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 816,
+    "mmsi": "512000637",
+    "shipname": null,
+    "callsign": "ZMT4444"
    }
   },
   {
@@ -349,8 +357,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": "CLIPPER 2",
-    "callsign": "ZMS7101"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -389,8 +397,8 @@
    "attributes": {
     "objectid": 762,
     "mmsi": "512001027",
-    "shipname": null,
-    "callsign": "ZMV7638"
+    "shipname": "SEAMASTER",
+    "callsign": null
    }
   },
   {
@@ -589,8 +597,8 @@
    "attributes": {
     "objectid": 115,
     "mmsi": "512003812",
-    "shipname": "AWANUI",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMG2800"
    }
   },
   {
@@ -654,7 +662,7 @@
     "objectid": 83,
     "mmsi": "512004418",
     "shipname": "ECLATANT",
-    "callsign": null
+    "callsign": "ZMU6620"
    }
   },
   {
@@ -861,7 +869,7 @@
    "attributes": {
     "objectid": 113,
     "mmsi": "512087000",
-    "shipname": "ORTEM",
+    "shipname": null,
     "callsign": "ZM2827"
    }
   },
@@ -877,7 +885,7 @@
    "attributes": {
     "objectid": 101,
     "mmsi": "512210000",
-    "shipname": null,
+    "shipname": "L'AFFAIRE",
     "callsign": "ZMA2702"
    }
   },
@@ -950,7 +958,7 @@
     "objectid": 811,
     "mmsi": "538071005",
     "shipname": "LADY GREY",
-    "callsign": "V7GJ3"
+    "callsign": null
    }
   },
   {
@@ -997,8 +1005,8 @@
    "attributes": {
     "objectid": 797,
     "mmsi": "564260000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "FUNING",
+    "callsign": "9V2176"
    }
   },
   {
