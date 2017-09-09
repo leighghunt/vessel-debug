@@ -267,6 +267,14 @@
   },
   {
    "attributes": {
+    "objectid": 833,
+    "mmsi": "512000050",
+    "shipname": "KAKARIKI",
+    "callsign": "ZMKA"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
     "shipname": "COLUMBIA",
@@ -558,7 +566,7 @@
     "objectid": 832,
     "mmsi": "512003063",
     "shipname": null,
-    "callsign": "ZMR6666"
+    "callsign": null
    }
   },
   {
