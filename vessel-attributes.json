@@ -318,7 +318,7 @@
     "objectid": 758,
     "mmsi": "512000544",
     "shipname": "WAIPAPA",
-    "callsign": null
+    "callsign": "ZMR3175"
    }
   },
   {
@@ -614,7 +614,7 @@
     "objectid": 110,
     "mmsi": "512003888",
     "shipname": "OM",
-    "callsign": null
+    "callsign": "ZMG2824"
    }
   },
   {
@@ -725,15 +725,15 @@
    "attributes": {
     "objectid": 773,
     "mmsi": "512004731",
-    "shipname": "LION RESCUE",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMR7777"
    }
   },
   {
    "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
-    "shipname": "TITANIUM",
+    "shipname": null,
     "callsign": "ZMG3095"
    }
   },
@@ -789,7 +789,7 @@
    "attributes": {
     "objectid": 808,
     "mmsi": "512005550",
-    "shipname": null,
+    "shipname": "THE BLIZZARD",
     "callsign": null
    }
   },
@@ -942,7 +942,7 @@
     "objectid": 102,
     "mmsi": "518395000",
     "shipname": "ALANI II",
-    "callsign": "E5U2345"
+    "callsign": null
    }
   },
   {
