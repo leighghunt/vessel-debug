@@ -285,7 +285,7 @@
    "attributes": {
     "objectid": 675,
     "mmsi": "512000369",
-    "shipname": null,
+    "shipname": "DEODAR 111",
     "callsign": "ZMIH"
    }
   },
@@ -318,7 +318,7 @@
     "objectid": 758,
     "mmsi": "512000544",
     "shipname": "WAIPAPA",
-    "callsign": "ZMR3175"
+    "callsign": null
    }
   },
   {
@@ -406,7 +406,7 @@
     "objectid": 762,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
-    "callsign": null
+    "callsign": "ZMV7638"
    }
   },
   {
@@ -789,7 +789,7 @@
    "attributes": {
     "objectid": 808,
     "mmsi": "512005550",
-    "shipname": "THE BLIZZARD",
+    "shipname": null,
     "callsign": null
    }
   },
