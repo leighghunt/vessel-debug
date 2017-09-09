@@ -453,7 +453,7 @@
    "attributes": {
     "objectid": 751,
     "mmsi": "512001265",
-    "shipname": "TIRI CAT",
+    "shipname": null,
     "callsign": "ZM2279"
    }
   },
