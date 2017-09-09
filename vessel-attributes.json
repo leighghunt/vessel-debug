@@ -278,7 +278,7 @@
     "objectid": 788,
     "mmsi": "512000237",
     "shipname": "NORTH SHORE RESCUE",
-    "callsign": null
+    "callsign": "ZMY9001"
    }
   },
   {
@@ -909,7 +909,7 @@
    "attributes": {
     "objectid": 823,
     "mmsi": "512006234",
-    "shipname": null,
+    "shipname": "KIWI CLASS#4",
     "callsign": "ZMX2387"
    }
   },
