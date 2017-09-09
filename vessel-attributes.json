@@ -5,7 +5,7 @@
    "attributes": {
     "objectid": 696,
     "mmsi": "123456789",
-    "shipname": "NAVICOM TEST",
+    "shipname": null,
     "callsign": null
    }
   },
@@ -69,8 +69,8 @@
    "attributes": {
     "objectid": 29,
     "mmsi": "232006988",
-    "shipname": "GREY WOLF",
-    "callsign": "MASZ3"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -133,8 +133,8 @@
    "attributes": {
     "objectid": 56,
     "mmsi": "319774000",
-    "shipname": "LATITUDE",
-    "callsign": "ZCTD5"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -349,8 +349,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101"
    }
   },
   {
@@ -470,7 +470,7 @@
     "objectid": 752,
     "mmsi": "512001497",
     "shipname": null,
-    "callsign": "ZMG2259"
+    "callsign": null
    }
   },
   {
@@ -494,7 +494,7 @@
     "objectid": 72,
     "mmsi": "512002067",
     "shipname": null,
-    "callsign": "ZMTM"
+    "callsign": null
    }
   },
   {
@@ -517,7 +517,7 @@
    "attributes": {
     "objectid": 747,
     "mmsi": "512003135",
-    "shipname": null,
+    "shipname": "BAY BELLE II",
     "callsign": null
    }
   },
@@ -565,8 +565,8 @@
    "attributes": {
     "objectid": 67,
     "mmsi": "512003332",
-    "shipname": "OLYMPIC SPIRIT",
-    "callsign": "ZMT7015"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -622,7 +622,7 @@
     "objectid": 59,
     "mmsi": "512004062",
     "shipname": "ARAWHITI",
-    "callsign": null
+    "callsign": "ZMS8209"
    }
   },
   {
@@ -717,8 +717,8 @@
    "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
-    "shipname": "TITANIUM",
-    "callsign": "ZMG3095"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -733,8 +733,8 @@
    "attributes": {
     "objectid": 494,
     "mmsi": "512004996",
-    "shipname": null,
-    "callsign": null
+    "shipname": "PILOTVESSEL WAKATERE",
+    "callsign": "ZME6262"
    }
   },
   {
@@ -854,7 +854,7 @@
     "objectid": 53,
     "mmsi": "512007000",
     "shipname": "COASTAL CARRIER",
-    "callsign": null
+    "callsign": "ZM2189"
    }
   },
   {
@@ -885,8 +885,8 @@
    "attributes": {
     "objectid": 80,
     "mmsi": "512219000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "AWANUIA",
+    "callsign": "ZMA2137"
    }
   },
   {
