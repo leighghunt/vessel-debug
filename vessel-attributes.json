@@ -37,8 +37,8 @@
    "attributes": {
     "objectid": 38,
     "mmsi": "215606000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "BE MINE",
+    "callsign": "9HA2755"
    }
   },
   {
@@ -117,8 +117,8 @@
    "attributes": {
     "objectid": 814,
     "mmsi": "311000546",
-    "shipname": "CHIOS",
-    "callsign": "C6CQ8"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -149,7 +149,7 @@
    "attributes": {
     "objectid": 815,
     "mmsi": "338216735",
-    "shipname": null,
+    "shipname": "LAKSHMI",
     "callsign": null
    }
   },
@@ -277,15 +277,15 @@
    "attributes": {
     "objectid": 679,
     "mmsi": "512000344",
-    "shipname": null,
-    "callsign": null
+    "shipname": "PILOT VESSEL AKARANA",
+    "callsign": "ZMT2938"
    }
   },
   {
    "attributes": {
     "objectid": 675,
     "mmsi": "512000369",
-    "shipname": null,
+    "shipname": "DEODAR 111",
     "callsign": "ZMIH"
    }
   },
@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 758,
     "mmsi": "512000544",
-    "shipname": null,
-    "callsign": "ZMR3175"
+    "shipname": "WAIPAPA",
+    "callsign": null
    }
   },
   {
@@ -365,8 +365,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101"
    }
   },
   {
@@ -453,8 +453,8 @@
    "attributes": {
     "objectid": 751,
     "mmsi": "512001265",
-    "shipname": "TIRI CAT",
-    "callsign": "ZM2279"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -910,7 +910,7 @@
     "objectid": 97,
     "mmsi": "512412000",
     "shipname": "INDEFATIGABLE",
-    "callsign": "ZMT2829"
+    "callsign": null
    }
   },
   {
