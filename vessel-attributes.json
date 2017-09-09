@@ -1165,8 +1165,8 @@
    "attributes": {
     "objectid": 734,
     "mmsi": "636091729",
-    "shipname": "FRISIA ALLER",
-    "callsign": "A8SB5"
+    "shipname": null,
+    "callsign": null
    }
   }
  ],
