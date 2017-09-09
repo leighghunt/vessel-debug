@@ -205,8 +205,8 @@
    "attributes": {
     "objectid": 809,
     "mmsi": "373052000",
-    "shipname": "GLORIOUS KAURI",
-    "callsign": "3EYM6"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 758,
     "mmsi": "512000544",
-    "shipname": "WAIPAPA",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMR3175"
    }
   },
   {
@@ -382,7 +382,7 @@
     "objectid": 707,
     "mmsi": "512000880",
     "shipname": null,
-    "callsign": null
+    "callsign": "KY2156Z"
    }
   },
   {
@@ -509,7 +509,7 @@
    "attributes": {
     "objectid": 72,
     "mmsi": "512002067",
-    "shipname": null,
+    "shipname": "WAIRANGI",
     "callsign": null
    }
   },
