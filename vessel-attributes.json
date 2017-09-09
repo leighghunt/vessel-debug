@@ -405,7 +405,7 @@
    "attributes": {
     "objectid": 748,
     "mmsi": "512000928",
-    "shipname": "SUPER FLYTE",
+    "shipname": null,
     "callsign": "ZMA3029"
    }
   },
