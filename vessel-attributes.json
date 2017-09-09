@@ -117,8 +117,8 @@
    "attributes": {
     "objectid": 814,
     "mmsi": "311000546",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CHIOS",
+    "callsign": "C6CQ8"
    }
   },
   {
@@ -205,8 +205,8 @@
    "attributes": {
     "objectid": 809,
     "mmsi": "373052000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GLORIOUS KAURI",
+    "callsign": "3EYM6"
    }
   },
   {
@@ -285,7 +285,7 @@
    "attributes": {
     "objectid": 675,
     "mmsi": "512000369",
-    "shipname": "DEODAR 111",
+    "shipname": null,
     "callsign": "ZMIH"
    }
   },
@@ -318,7 +318,7 @@
     "objectid": 758,
     "mmsi": "512000544",
     "shipname": "WAIPAPA",
-    "callsign": "ZMR3175"
+    "callsign": null
    }
   },
   {
@@ -365,8 +365,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101"
    }
   },
   {
@@ -406,7 +406,7 @@
     "objectid": 762,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
-    "callsign": null
+    "callsign": "ZMV7638"
    }
   },
   {
@@ -510,7 +510,7 @@
     "objectid": 72,
     "mmsi": "512002067",
     "shipname": "WAIRANGI",
-    "callsign": "ZMTM"
+    "callsign": null
    }
   },
   {
@@ -614,7 +614,7 @@
     "objectid": 110,
     "mmsi": "512003888",
     "shipname": "OM",
-    "callsign": null
+    "callsign": "ZMG2824"
    }
   },
   {
@@ -725,7 +725,7 @@
    "attributes": {
     "objectid": 773,
     "mmsi": "512004731",
-    "shipname": null,
+    "shipname": "LION RESCUE",
     "callsign": null
    }
   },
