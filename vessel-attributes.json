@@ -5,7 +5,7 @@
    "attributes": {
     "objectid": 696,
     "mmsi": "123456789",
-    "shipname": null,
+    "shipname": "NAVICOM TEST",
     "callsign": null
    }
   },
@@ -45,8 +45,8 @@
    "attributes": {
     "objectid": 802,
     "mmsi": "219982000",
-    "shipname": "JOHANNES MAERSK",
-    "callsign": "OWFD2"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -93,8 +93,8 @@
    "attributes": {
     "objectid": 806,
     "mmsi": "305346000",
-    "shipname": "CAP PASADO",
-    "callsign": "V2DV4"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -133,16 +133,16 @@
    "attributes": {
     "objectid": 798,
     "mmsi": "352355000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GLORIA GALAXY",
+    "callsign": "3FFR"
    }
   },
   {
    "attributes": {
     "objectid": 775,
     "mmsi": "352597000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "MAGPIE SW",
+    "callsign": "H9MK"
    }
   },
   {
@@ -173,8 +173,8 @@
    "attributes": {
     "objectid": 807,
     "mmsi": "372972000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "MSC BANU",
+    "callsign": "3ELK7"
    }
   },
   {
@@ -229,8 +229,8 @@
    "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
-    "shipname": "COLUMBIA",
-    "callsign": "ZMA3264"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -325,8 +325,8 @@
    "attributes": {
     "objectid": 12,
     "mmsi": "512000741",
-    "shipname": "CLIPPER 3",
-    "callsign": "ZMT3984"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -383,6 +383,14 @@
     "mmsi": "512001028",
     "shipname": null,
     "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 813,
+    "mmsi": "512001029",
+    "shipname": null,
+    "callsign": "ZMQ7781"
    }
   },
   {
@@ -517,7 +525,7 @@
    "attributes": {
     "objectid": 48,
     "mmsi": "512003200",
-    "shipname": null,
+    "shipname": "STARLIGHT 11",
     "callsign": null
    }
   },
@@ -637,8 +645,8 @@
    "attributes": {
     "objectid": 103,
     "mmsi": "512004509",
-    "shipname": null,
-    "callsign": null
+    "shipname": "HAURAKI",
+    "callsign": "ZME5252"
    }
   },
   {
@@ -709,8 +717,8 @@
    "attributes": {
     "objectid": 494,
     "mmsi": "512004996",
-    "shipname": "PILOTVESSEL WAKATERE",
-    "callsign": "ZME6262"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -797,15 +805,15 @@
    "attributes": {
     "objectid": 786,
     "mmsi": "512006191",
-    "shipname": null,
-    "callsign": "ZMG3486"
+    "shipname": "SAN ARAMAND",
+    "callsign": null
    }
   },
   {
    "attributes": {
     "objectid": 77,
     "mmsi": "512006211",
-    "shipname": null,
+    "shipname": "TE MAKI",
     "callsign": null
    }
   },
@@ -853,7 +861,7 @@
    "attributes": {
     "objectid": 101,
     "mmsi": "512210000",
-    "shipname": null,
+    "shipname": "L'AFFAIRE",
     "callsign": null
    }
   },
@@ -909,8 +917,8 @@
    "attributes": {
     "objectid": 14,
     "mmsi": "518497000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "ISLAND PASSAGE",
+    "callsign": "E5U2447"
    }
   },
   {
@@ -925,7 +933,7 @@
    "attributes": {
     "objectid": 811,
     "mmsi": "538071005",
-    "shipname": null,
+    "shipname": "LADY GREY",
     "callsign": null
    }
   },
@@ -989,8 +997,8 @@
    "attributes": {
     "objectid": 801,
     "mmsi": "636091287",
-    "shipname": null,
-    "callsign": null
+    "shipname": "ANL ELANORA",
+    "callsign": "A8LO9"
    }
   },
   {
