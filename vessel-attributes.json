@@ -214,7 +214,7 @@
     "objectid": 66,
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
-    "callsign": null
+    "callsign": "RIV 61"
    }
   },
   {
@@ -253,8 +253,8 @@
    "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
-    "shipname": null,
-    "callsign": null
+    "shipname": "COLUMBIA",
+    "callsign": "ZMA3264"
    }
   },
   {
@@ -510,7 +510,7 @@
     "objectid": 72,
     "mmsi": "512002067",
     "shipname": "WAIRANGI",
-    "callsign": null
+    "callsign": "ZMTM"
    }
   },
   {
@@ -814,7 +814,7 @@
     "objectid": 86,
     "mmsi": "512005801",
     "shipname": "WINDHAVEN",
-    "callsign": null
+    "callsign": "ZMF4451"
    }
   },
   {
@@ -846,7 +846,7 @@
     "objectid": 77,
     "mmsi": "512006211",
     "shipname": "TE MAKI",
-    "callsign": "ZMX2434"
+    "callsign": null
    }
   },
   {
