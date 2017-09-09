@@ -733,7 +733,7 @@
    "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
-    "shipname": "TITANIUM",
+    "shipname": null,
     "callsign": "ZMG3095"
    }
   },
