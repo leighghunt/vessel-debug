@@ -342,7 +342,7 @@
     "objectid": 816,
     "mmsi": "512000637",
     "shipname": "ASB RESCUE",
-    "callsign": null
+    "callsign": "ZMT4444"
    }
   },
   {
@@ -823,6 +823,14 @@
     "mmsi": "512005706",
     "shipname": "KORORA",
     "callsign": "ZMW7964"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 820,
+    "mmsi": "512005742",
+    "shipname": null,
+    "callsign": null
    }
   },
   {
