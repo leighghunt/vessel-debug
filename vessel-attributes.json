@@ -742,15 +742,15 @@
     "objectid": 826,
     "mmsi": "512004583",
     "shipname": "HOVERCRAFT 1",
-    "callsign": "ZMU7141"
+    "callsign": null
    }
   },
   {
    "attributes": {
     "objectid": 779,
     "mmsi": "512004648",
-    "shipname": "AIRPORTMARINECONTRO",
-    "callsign": "ZMU7371"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
