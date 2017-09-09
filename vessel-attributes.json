@@ -733,7 +733,7 @@
    "attributes": {
     "objectid": 827,
     "mmsi": "512004533",
-    "shipname": null,
+    "shipname": "AIRPORTMARINERESCUE",
     "callsign": null
    }
   },
@@ -757,8 +757,8 @@
    "attributes": {
     "objectid": 779,
     "mmsi": "512004648",
-    "shipname": "AIRPORTMARINECONTRO",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMU7371"
    }
   },
   {
