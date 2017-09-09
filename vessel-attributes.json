@@ -214,7 +214,7 @@
     "objectid": 66,
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
-    "callsign": null
+    "callsign": "RIV 61"
    }
   },
   {
@@ -614,7 +614,7 @@
     "objectid": 110,
     "mmsi": "512003888",
     "shipname": "OM",
-    "callsign": "ZMG2824"
+    "callsign": null
    }
   },
   {
@@ -725,7 +725,7 @@
    "attributes": {
     "objectid": 773,
     "mmsi": "512004731",
-    "shipname": null,
+    "shipname": "LION RESCUE",
     "callsign": "ZMR7777"
    }
   },
