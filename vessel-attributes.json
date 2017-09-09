@@ -221,8 +221,8 @@
    "attributes": {
     "objectid": 824,
     "mmsi": "374170000",
-    "shipname": "KEN HOPE",
-    "callsign": "3FYD3"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -611,6 +611,14 @@
   },
   {
    "attributes": {
+    "objectid": 825,
+    "mmsi": "512003416",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 793,
     "mmsi": "512003456",
     "shipname": "TAKAHIWAI",
@@ -653,8 +661,8 @@
    "attributes": {
     "objectid": 821,
     "mmsi": "512003946",
-    "shipname": null,
-    "callsign": null
+    "shipname": "HARBOURMASTER 6",
+    "callsign": "ZMU2156"
    }
   },
   {
