@@ -389,8 +389,8 @@
    "attributes": {
     "objectid": 792,
     "mmsi": "512000781",
-    "shipname": null,
-    "callsign": "ZM4865"
+    "shipname": "STELLA MARIS",
+    "callsign": null
    }
   },
   {
@@ -405,7 +405,7 @@
    "attributes": {
     "objectid": 748,
     "mmsi": "512000928",
-    "shipname": null,
+    "shipname": "SUPER FLYTE",
     "callsign": "ZMA3029"
    }
   },
@@ -741,8 +741,8 @@
    "attributes": {
     "objectid": 826,
     "mmsi": "512004583",
-    "shipname": "HOVERCRAFT 1",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMU7141"
    }
   },
   {
