@@ -141,8 +141,8 @@
    "attributes": {
     "objectid": 56,
     "mmsi": "319774000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "LATITUDE",
+    "callsign": "ZCTD5"
    }
   },
   {
@@ -205,16 +205,16 @@
    "attributes": {
     "objectid": 809,
     "mmsi": "373052000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GLORIOUS KAURI",
+    "callsign": "3EYM6"
    }
   },
   {
    "attributes": {
     "objectid": 66,
     "mmsi": "378111564",
-    "shipname": "RIV 61  001",
-    "callsign": null
+    "shipname": null,
+    "callsign": "RIV 61"
    }
   },
   {
@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 758,
     "mmsi": "512000544",
-    "shipname": null,
-    "callsign": "ZMR3175"
+    "shipname": "WAIPAPA",
+    "callsign": null
    }
   },
   {
@@ -421,8 +421,8 @@
    "attributes": {
     "objectid": 813,
     "mmsi": "512001029",
-    "shipname": null,
-    "callsign": null
+    "shipname": "ISLAND NAVIGATOR",
+    "callsign": "ZMQ7781"
    }
   },
   {
@@ -597,8 +597,8 @@
    "attributes": {
     "objectid": 47,
     "mmsi": "512003518",
-    "shipname": null,
-    "callsign": null
+    "shipname": "KAPUA",
+    "callsign": "ZMW4289"
    }
   },
   {
@@ -846,7 +846,7 @@
     "objectid": 77,
     "mmsi": "512006211",
     "shipname": "TE MAKI",
-    "callsign": null
+    "callsign": "ZMX2434"
    }
   },
   {
@@ -966,7 +966,7 @@
     "objectid": 811,
     "mmsi": "538071005",
     "shipname": "LADY GREY",
-    "callsign": null
+    "callsign": "V7GJ3"
    }
   },
   {
