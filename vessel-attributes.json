@@ -733,7 +733,7 @@
    "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
-    "shipname": null,
+    "shipname": "TITANIUM",
     "callsign": "ZMG3095"
    }
   },
@@ -942,7 +942,7 @@
     "objectid": 102,
     "mmsi": "518395000",
     "shipname": "ALANI II",
-    "callsign": null
+    "callsign": "E5U2345"
    }
   },
   {
