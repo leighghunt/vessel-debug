@@ -5,7 +5,7 @@
    "attributes": {
     "objectid": 696,
     "mmsi": "123456789",
-    "shipname": null,
+    "shipname": "NAVICOM TEST",
     "callsign": null
    }
   },
@@ -109,8 +109,8 @@
    "attributes": {
     "objectid": 814,
     "mmsi": "311000546",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CHIOS",
+    "callsign": "C6CQ8"
    }
   },
   {
@@ -197,15 +197,15 @@
    "attributes": {
     "objectid": 809,
     "mmsi": "373052000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GLORIOUS KAURI",
+    "callsign": "3EYM6"
    }
   },
   {
    "attributes": {
     "objectid": 66,
     "mmsi": "378111564",
-    "shipname": null,
+    "shipname": "RIV 61  001",
     "callsign": null
    }
   },
@@ -229,7 +229,7 @@
    "attributes": {
     "objectid": 787,
     "mmsi": "503511300",
-    "shipname": null,
+    "shipname": "SOUNDCEM III",
     "callsign": null
    }
   },
@@ -349,8 +349,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101"
    }
   },
   {
@@ -389,8 +389,8 @@
    "attributes": {
     "objectid": 762,
     "mmsi": "512001027",
-    "shipname": "SEAMASTER",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMV7638"
    }
   },
   {
@@ -446,7 +446,7 @@
     "objectid": 756,
     "mmsi": "512001266",
     "shipname": null,
-    "callsign": "ZM2763"
+    "callsign": null
    }
   },
   {
@@ -557,8 +557,8 @@
    "attributes": {
     "objectid": 423,
     "mmsi": "512003312",
-    "shipname": null,
-    "callsign": null
+    "shipname": "PACIFIC SPRAY",
+    "callsign": "ZMS5830"
    }
   },
   {
@@ -597,8 +597,8 @@
    "attributes": {
     "objectid": 110,
     "mmsi": "512003888",
-    "shipname": null,
-    "callsign": null
+    "shipname": "OM",
+    "callsign": "ZMG2824"
    }
   },
   {
@@ -733,8 +733,8 @@
    "attributes": {
     "objectid": 494,
     "mmsi": "512004996",
-    "shipname": null,
-    "callsign": null
+    "shipname": "PILOTVESSEL WAKATERE",
+    "callsign": "ZME6262"
    }
   },
   {
@@ -1013,8 +1013,8 @@
    "attributes": {
     "objectid": 801,
     "mmsi": "636091287",
-    "shipname": null,
-    "callsign": null
+    "shipname": "ANL ELANORA",
+    "callsign": "A8LO9"
    }
   },
   {
