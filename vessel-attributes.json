@@ -309,8 +309,8 @@
    "attributes": {
     "objectid": 557,
     "mmsi": "512000532",
-    "shipname": "STARFLYTE",
-    "callsign": "ZMR4078"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
