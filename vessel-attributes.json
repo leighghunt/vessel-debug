@@ -85,7 +85,7 @@
    "attributes": {
     "objectid": 817,
     "mmsi": "249000906",
-    "shipname": null,
+    "shipname": "S/Y THE PEARL",
     "callsign": null
    }
   },
@@ -326,7 +326,7 @@
     "objectid": 770,
     "mmsi": "512000545",
     "shipname": "DALDY",
-    "callsign": "ZMZ7645"
+    "callsign": null
    }
   },
   {
