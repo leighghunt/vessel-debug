@@ -285,7 +285,7 @@
    "attributes": {
     "objectid": 675,
     "mmsi": "512000369",
-    "shipname": "DEODAR 111",
+    "shipname": null,
     "callsign": "ZMIH"
    }
   },
@@ -325,8 +325,8 @@
    "attributes": {
     "objectid": 770,
     "mmsi": "512000545",
-    "shipname": "DALDY",
-    "callsign": "ZMZ7645"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -685,8 +685,8 @@
    "attributes": {
     "objectid": 743,
     "mmsi": "512004511",
-    "shipname": null,
-    "callsign": null
+    "shipname": "TE KOTUKU",
+    "callsign": "ZMU2646"
    }
   },
   {
@@ -781,7 +781,7 @@
    "attributes": {
     "objectid": 36,
     "mmsi": "512005528",
-    "shipname": null,
+    "shipname": "MOONDANCE",
     "callsign": "ZMU9211"
    }
   },
