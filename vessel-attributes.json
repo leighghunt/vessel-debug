@@ -5,7 +5,7 @@
    "attributes": {
     "objectid": 696,
     "mmsi": "123456789",
-    "shipname": null,
+    "shipname": "NAVICOM TEST",
     "callsign": null
    }
   },
@@ -37,8 +37,8 @@
    "attributes": {
     "objectid": 38,
     "mmsi": "215606000",
-    "shipname": "BE MINE",
-    "callsign": "9HA2755"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -69,8 +69,8 @@
    "attributes": {
     "objectid": 29,
     "mmsi": "232006988",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GREY WOLF",
+    "callsign": "MASZ3"
    }
   },
   {
@@ -85,8 +85,8 @@
    "attributes": {
     "objectid": 804,
     "mmsi": "304887000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "IMUA II",
+    "callsign": "V2BK7"
    }
   },
   {
@@ -133,8 +133,8 @@
    "attributes": {
     "objectid": 56,
     "mmsi": "319774000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "LATITUDE",
+    "callsign": "ZCTD5"
    }
   },
   {
@@ -277,7 +277,7 @@
    "attributes": {
     "objectid": 675,
     "mmsi": "512000369",
-    "shipname": null,
+    "shipname": "DEODAR 111",
     "callsign": null
    }
   },
@@ -285,16 +285,16 @@
    "attributes": {
     "objectid": 457,
     "mmsi": "512000421",
-    "shipname": null,
-    "callsign": "ZMA3368"
+    "shipname": "INFINITY",
+    "callsign": null
    }
   },
   {
    "attributes": {
     "objectid": 82,
     "mmsi": "512000479",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GLADIATOR",
+    "callsign": "ZMV8338"
    }
   },
   {
@@ -349,8 +349,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": "CLIPPER 2",
-    "callsign": "ZMS7101"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -381,7 +381,7 @@
    "attributes": {
     "objectid": 99,
     "mmsi": "512001026",
-    "shipname": null,
+    "shipname": "SEAWAY II",
     "callsign": null
    }
   },
@@ -397,8 +397,8 @@
    "attributes": {
     "objectid": 100,
     "mmsi": "512001028",
-    "shipname": null,
-    "callsign": "ZMQ7552"
+    "shipname": "SEACAT",
+    "callsign": null
    }
   },
   {
@@ -469,8 +469,8 @@
    "attributes": {
     "objectid": 752,
     "mmsi": "512001497",
-    "shipname": null,
-    "callsign": null
+    "shipname": "IKATERE",
+    "callsign": "ZMG2259"
    }
   },
   {
@@ -645,16 +645,16 @@
    "attributes": {
     "objectid": 85,
     "mmsi": "512004213",
-    "shipname": null,
-    "callsign": null
+    "shipname": "ATA RANGI",
+    "callsign": "ZMU5071"
    }
   },
   {
    "attributes": {
     "objectid": 83,
     "mmsi": "512004418",
-    "shipname": null,
-    "callsign": "ZMU6620"
+    "shipname": "ECLATANT",
+    "callsign": null
    }
   },
   {
@@ -757,7 +757,7 @@
    "attributes": {
     "objectid": 107,
     "mmsi": "512005160",
-    "shipname": null,
+    "shipname": "BIG BUSINESS",
     "callsign": null
    }
   },
@@ -893,8 +893,8 @@
    "attributes": {
     "objectid": 97,
     "mmsi": "512412000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "INDEFATIGABLE",
+    "callsign": "ZMT2829"
    }
   },
   {
