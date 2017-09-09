@@ -325,8 +325,8 @@
    "attributes": {
     "objectid": 770,
     "mmsi": "512000545",
-    "shipname": "DALDY",
-    "callsign": "ZMZ7645"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -645,7 +645,7 @@
    "attributes": {
     "objectid": 720,
     "mmsi": "512004158",
-    "shipname": "AURORA",
+    "shipname": null,
     "callsign": "ZMU5212"
    }
   },
@@ -733,7 +733,7 @@
    "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
-    "shipname": null,
+    "shipname": "TITANIUM",
     "callsign": "ZMG3095"
    }
   },
