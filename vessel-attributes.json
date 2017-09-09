@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 758,
     "mmsi": "512000544",
-    "shipname": null,
-    "callsign": "ZMR3175"
+    "shipname": "WAIPAPA",
+    "callsign": null
    }
   },
   {
@@ -365,8 +365,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101"
    }
   },
   {
@@ -398,7 +398,7 @@
     "objectid": 99,
     "mmsi": "512001026",
     "shipname": "SEAWAY II",
-    "callsign": null
+    "callsign": "ZMR3466"
    }
   },
   {
@@ -646,7 +646,7 @@
     "objectid": 720,
     "mmsi": "512004158",
     "shipname": null,
-    "callsign": null
+    "callsign": "ZMU5212"
    }
   },
   {
@@ -774,7 +774,7 @@
     "objectid": 107,
     "mmsi": "512005160",
     "shipname": "BIG BUSINESS",
-    "callsign": null
+    "callsign": "ZMQ9525"
    }
   },
   {
@@ -966,7 +966,7 @@
     "objectid": 811,
     "mmsi": "538071005",
     "shipname": "LADY GREY",
-    "callsign": "V7GJ3"
+    "callsign": null
    }
   },
   {
