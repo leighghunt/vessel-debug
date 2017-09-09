@@ -43,6 +43,14 @@
   },
   {
    "attributes": {
+    "objectid": 822,
+    "mmsi": "218829000",
+    "shipname": "ANL WARRNAMBOOL",
+    "callsign": "DFXC2"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 802,
     "mmsi": "219982000",
     "shipname": "JOHANNES MAERSK",
@@ -309,7 +317,7 @@
    "attributes": {
     "objectid": 557,
     "mmsi": "512000532",
-    "shipname": "STARFLYTE",
+    "shipname": null,
     "callsign": "ZMR4078"
    }
   },
@@ -342,7 +350,7 @@
     "objectid": 816,
     "mmsi": "512000637",
     "shipname": "ASB RESCUE",
-    "callsign": "ZMT4444"
+    "callsign": null
    }
   },
   {
@@ -631,6 +639,14 @@
     "mmsi": "512003936",
     "shipname": "SEA PELICAN",
     "callsign": "ZMG2834"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 821,
+    "mmsi": "512003946",
+    "shipname": null,
+    "callsign": null
    }
   },
   {
