@@ -214,7 +214,7 @@
     "objectid": 66,
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
-    "callsign": "RIV 61"
+    "callsign": null
    }
   },
   {
@@ -406,7 +406,7 @@
     "objectid": 762,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
-    "callsign": "ZMV7638"
+    "callsign": null
    }
   },
   {
@@ -614,7 +614,7 @@
     "objectid": 110,
     "mmsi": "512003888",
     "shipname": "OM",
-    "callsign": "ZMG2824"
+    "callsign": null
    }
   },
   {
@@ -789,7 +789,7 @@
    "attributes": {
     "objectid": 808,
     "mmsi": "512005550",
-    "shipname": null,
+    "shipname": "THE BLIZZARD",
     "callsign": null
    }
   },
