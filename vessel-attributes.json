@@ -254,7 +254,7 @@
     "objectid": 65,
     "mmsi": "512000082",
     "shipname": "COLUMBIA",
-    "callsign": "ZMA3264"
+    "callsign": null
    }
   },
   {
@@ -406,7 +406,7 @@
     "objectid": 762,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
-    "callsign": "ZMV7638"
+    "callsign": null
    }
   },
   {
@@ -598,7 +598,7 @@
     "objectid": 47,
     "mmsi": "512003518",
     "shipname": null,
-    "callsign": null
+    "callsign": "ZMW4289"
    }
   },
   {
@@ -942,7 +942,7 @@
     "objectid": 102,
     "mmsi": "518395000",
     "shipname": "ALANI II",
-    "callsign": null
+    "callsign": "E5U2345"
    }
   },
   {
