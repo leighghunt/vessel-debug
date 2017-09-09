@@ -221,8 +221,8 @@
    "attributes": {
     "objectid": 824,
     "mmsi": "374170000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "KEN HOPE",
+    "callsign": "3FYD3"
    }
   },
   {
@@ -853,7 +853,7 @@
    "attributes": {
     "objectid": 820,
     "mmsi": "512005742",
-    "shipname": null,
+    "shipname": "NONSTOP NZL2299",
     "callsign": "ZMS7796"
    }
   },
