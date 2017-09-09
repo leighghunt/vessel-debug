@@ -83,6 +83,14 @@
   },
   {
    "attributes": {
+    "objectid": 817,
+    "mmsi": "249000906",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 804,
     "mmsi": "304887000",
     "shipname": "IMUA II",
@@ -133,8 +141,8 @@
    "attributes": {
     "objectid": 56,
     "mmsi": "319774000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "LATITUDE",
+    "callsign": "ZCTD5"
    }
   },
   {
@@ -245,8 +253,8 @@
    "attributes": {
     "objectid": 65,
     "mmsi": "512000082",
-    "shipname": "COLUMBIA",
-    "callsign": "ZMA3264"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -317,7 +325,7 @@
    "attributes": {
     "objectid": 770,
     "mmsi": "512000545",
-    "shipname": null,
+    "shipname": "DALDY",
     "callsign": "ZMZ7645"
    }
   },
@@ -357,8 +365,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101"
    }
   },
   {
@@ -397,8 +405,8 @@
    "attributes": {
     "objectid": 762,
     "mmsi": "512001027",
-    "shipname": null,
-    "callsign": "ZMV7638"
+    "shipname": "SEAMASTER",
+    "callsign": null
    }
   },
   {
@@ -510,7 +518,7 @@
     "objectid": 62,
     "mmsi": "512002866",
     "shipname": "CALIPH",
-    "callsign": null
+    "callsign": "ZM4711"
    }
   },
   {
@@ -597,8 +605,8 @@
    "attributes": {
     "objectid": 115,
     "mmsi": "512003812",
-    "shipname": null,
-    "callsign": "ZMG2800"
+    "shipname": "AWANUI",
+    "callsign": null
    }
   },
   {
@@ -685,8 +693,8 @@
    "attributes": {
     "objectid": 96,
     "mmsi": "512004558",
-    "shipname": null,
-    "callsign": null
+    "shipname": "MA ' ARA",
+    "callsign": "ZMU7020"
    }
   },
   {
@@ -838,7 +846,7 @@
     "objectid": 77,
     "mmsi": "512006211",
     "shipname": "TE MAKI",
-    "callsign": "ZMX2434"
+    "callsign": null
    }
   },
   {
@@ -958,7 +966,7 @@
     "objectid": 811,
     "mmsi": "538071005",
     "shipname": "LADY GREY",
-    "callsign": null
+    "callsign": "V7GJ3"
    }
   },
   {
