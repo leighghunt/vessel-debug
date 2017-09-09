@@ -318,7 +318,7 @@
     "objectid": 758,
     "mmsi": "512000544",
     "shipname": "WAIPAPA",
-    "callsign": null
+    "callsign": "ZMR3175"
    }
   },
   {
@@ -606,7 +606,7 @@
     "objectid": 115,
     "mmsi": "512003812",
     "shipname": "AWANUI",
-    "callsign": null
+    "callsign": "ZMG2800"
    }
   },
   {
@@ -645,7 +645,7 @@
    "attributes": {
     "objectid": 720,
     "mmsi": "512004158",
-    "shipname": null,
+    "shipname": "AURORA",
     "callsign": "ZMU5212"
    }
   },
@@ -933,8 +933,8 @@
    "attributes": {
     "objectid": 102,
     "mmsi": "518395000",
-    "shipname": "ALANI II",
-    "callsign": null
+    "shipname": null,
+    "callsign": "E5U2345"
    }
   },
   {
