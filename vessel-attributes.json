@@ -5,7 +5,7 @@
    "attributes": {
     "objectid": 696,
     "mmsi": "123456789",
-    "shipname": "NAVICOM TEST",
+    "shipname": null,
     "callsign": null
    }
   },
@@ -69,8 +69,8 @@
    "attributes": {
     "objectid": 29,
     "mmsi": "232006988",
-    "shipname": null,
-    "callsign": null
+    "shipname": "GREY WOLF",
+    "callsign": "MASZ3"
    }
   },
   {
@@ -93,14 +93,22 @@
    "attributes": {
     "objectid": 806,
     "mmsi": "305346000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CAP PASADO",
+    "callsign": "V2DV4"
    }
   },
   {
    "attributes": {
     "objectid": 803,
     "mmsi": "311000442",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 814,
+    "mmsi": "311000546",
     "shipname": null,
     "callsign": null
    }
@@ -117,24 +125,24 @@
    "attributes": {
     "objectid": 800,
     "mmsi": "319028500",
-    "shipname": null,
-    "callsign": null
+    "shipname": "TANGO",
+    "callsign": "ZGBM2"
    }
   },
   {
    "attributes": {
     "objectid": 56,
     "mmsi": "319774000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "LATITUDE",
+    "callsign": "ZCTD5"
    }
   },
   {
    "attributes": {
     "objectid": 798,
     "mmsi": "352355000",
-    "shipname": "GLORIA GALAXY",
-    "callsign": "3FFR"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -173,8 +181,8 @@
    "attributes": {
     "objectid": 807,
     "mmsi": "372972000",
-    "shipname": "MSC BANU",
-    "callsign": "3ELK7"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -213,7 +221,7 @@
    "attributes": {
     "objectid": 787,
     "mmsi": "503511300",
-    "shipname": null,
+    "shipname": "SOUNDCEM III",
     "callsign": null
    }
   },
@@ -293,7 +301,7 @@
    "attributes": {
     "objectid": 758,
     "mmsi": "512000544",
-    "shipname": null,
+    "shipname": "WAIPAPA",
     "callsign": null
    }
   },
@@ -461,7 +469,7 @@
    "attributes": {
     "objectid": 754,
     "mmsi": "512001510",
-    "shipname": null,
+    "shipname": "HARBOURCAT",
     "callsign": null
    }
   },
@@ -541,8 +549,8 @@
    "attributes": {
     "objectid": 423,
     "mmsi": "512003312",
-    "shipname": "PACIFIC SPRAY",
-    "callsign": "ZMS5830"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -645,8 +653,8 @@
    "attributes": {
     "objectid": 103,
     "mmsi": "512004509",
-    "shipname": "HAURAKI",
-    "callsign": "ZME5252"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -685,15 +693,15 @@
    "attributes": {
     "objectid": 61,
     "mmsi": "512004671",
-    "shipname": "MARSDEN BAY",
-    "callsign": "ZMU2829"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
    "attributes": {
     "objectid": 773,
     "mmsi": "512004731",
-    "shipname": null,
+    "shipname": "LION RESCUE",
     "callsign": null
    }
   },
@@ -717,8 +725,8 @@
    "attributes": {
     "objectid": 494,
     "mmsi": "512004996",
-    "shipname": null,
-    "callsign": null
+    "shipname": "PILOTVESSEL WAKATERE",
+    "callsign": "ZME6262"
    }
   },
   {
@@ -773,8 +781,8 @@
    "attributes": {
     "objectid": 6,
     "mmsi": "512005706",
-    "shipname": "KORORA",
-    "callsign": "ZMW7964"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -957,8 +965,8 @@
    "attributes": {
     "objectid": 810,
     "mmsi": "563007700",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CAPITAINE DAMPIER",
+    "callsign": "9V5317"
    }
   },
   {
@@ -973,16 +981,16 @@
    "attributes": {
     "objectid": 719,
     "mmsi": "564135000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "SOOCHOW",
+    "callsign": "9V9715"
    }
   },
   {
    "attributes": {
     "objectid": 797,
     "mmsi": "564260000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "FUNING",
+    "callsign": "9V2176"
    }
   },
   {
