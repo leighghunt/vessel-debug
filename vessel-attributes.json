@@ -77,8 +77,8 @@
    "attributes": {
     "objectid": 5,
     "mmsi": "235097329",
-    "shipname": null,
-    "callsign": null
+    "shipname": "SEAHAWK",
+    "callsign": "2GHA7"
    }
   },
   {
@@ -117,8 +117,8 @@
    "attributes": {
     "objectid": 814,
     "mmsi": "311000546",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CHIOS",
+    "callsign": "C6CQ8"
    }
   },
   {
@@ -237,7 +237,7 @@
    "attributes": {
     "objectid": 787,
     "mmsi": "503511300",
-    "shipname": null,
+    "shipname": "SOUNDCEM III",
     "callsign": null
    }
   },
@@ -317,8 +317,8 @@
    "attributes": {
     "objectid": 758,
     "mmsi": "512000544",
-    "shipname": "WAIPAPA",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMR3175"
    }
   },
   {
@@ -406,7 +406,7 @@
     "objectid": 762,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
-    "callsign": "ZMV7638"
+    "callsign": null
    }
   },
   {
@@ -486,7 +486,7 @@
     "objectid": 752,
     "mmsi": "512001497",
     "shipname": "IKATERE",
-    "callsign": "ZMG2259"
+    "callsign": null
    }
   },
   {
@@ -574,7 +574,7 @@
     "objectid": 423,
     "mmsi": "512003312",
     "shipname": "PACIFIC SPRAY",
-    "callsign": null
+    "callsign": "ZMS5830"
    }
   },
   {
@@ -613,7 +613,7 @@
    "attributes": {
     "objectid": 110,
     "mmsi": "512003888",
-    "shipname": null,
+    "shipname": "OM",
     "callsign": null
    }
   },
@@ -733,8 +733,8 @@
    "attributes": {
     "objectid": 112,
     "mmsi": "512004902",
-    "shipname": "TITANIUM",
-    "callsign": "ZMG3095"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
