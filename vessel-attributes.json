@@ -254,7 +254,7 @@
     "objectid": 65,
     "mmsi": "512000082",
     "shipname": "COLUMBIA",
-    "callsign": null
+    "callsign": "ZMA3264"
    }
   },
   {
@@ -685,8 +685,8 @@
    "attributes": {
     "objectid": 743,
     "mmsi": "512004511",
-    "shipname": "TE KOTUKU",
-    "callsign": "ZMU2646"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
