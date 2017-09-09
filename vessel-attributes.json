@@ -861,7 +861,7 @@
    "attributes": {
     "objectid": 820,
     "mmsi": "512005742",
-    "shipname": null,
+    "shipname": "NONSTOP NZL2299",
     "callsign": "ZMS7796"
    }
   },
@@ -909,8 +909,8 @@
    "attributes": {
     "objectid": 823,
     "mmsi": "512006234",
-    "shipname": "KIWI CLASS#4",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMX2387"
    }
   },
   {
