@@ -318,7 +318,7 @@
     "objectid": 758,
     "mmsi": "512000544",
     "shipname": "WAIPAPA",
-    "callsign": null
+    "callsign": "ZMR3175"
    }
   },
   {
@@ -365,8 +365,8 @@
    "attributes": {
     "objectid": 34,
     "mmsi": "512000742",
-    "shipname": "CLIPPER 2",
-    "callsign": "ZMS7101"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -486,7 +486,7 @@
     "objectid": 752,
     "mmsi": "512001497",
     "shipname": "IKATERE",
-    "callsign": null
+    "callsign": "ZMG2259"
    }
   },
   {
@@ -781,7 +781,7 @@
    "attributes": {
     "objectid": 36,
     "mmsi": "512005528",
-    "shipname": "MOONDANCE",
+    "shipname": null,
     "callsign": "ZMU9211"
    }
   },
@@ -846,7 +846,7 @@
     "objectid": 77,
     "mmsi": "512006211",
     "shipname": "TE MAKI",
-    "callsign": null
+    "callsign": "ZMX2434"
    }
   },
   {
