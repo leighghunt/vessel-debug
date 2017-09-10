@@ -158,7 +158,7 @@
     "objectid": 1078,
     "mmsi": "512000369",
     "shipname": "DEODAR 111",
-    "callsign": null
+    "callsign": "ZMIH"
    }
   },
   {
@@ -195,6 +195,14 @@
   },
   {
    "attributes": {
+    "objectid": 1130,
+    "mmsi": "512000637",
+    "shipname": null,
+    "callsign": "ZMT4444"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1044,
     "mmsi": "512000715",
     "shipname": "MACY GRAY",
@@ -222,7 +230,7 @@
     "objectid": 1123,
     "mmsi": "512000880",
     "shipname": "ENTREPID",
-    "callsign": null
+    "callsign": "KY2156Z"
    }
   },
   {
@@ -247,14 +255,6 @@
     "mmsi": "512001028",
     "shipname": "SEACAT",
     "callsign": "ZMQ7552"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1030,
-    "mmsi": "512001029",
-    "shipname": "ISLAND NAVIGATOR",
-    "callsign": "ZMQ7781"
    }
   },
   {
@@ -687,14 +687,6 @@
     "mmsi": "636014030",
     "shipname": "MV SOFRANA TOURVILLE",
     "callsign": "A8QX8"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1108,
-    "mmsi": "636092489",
-    "shipname": "CAP CORRIENTES",
-    "callsign": "D5DU2"
    }
   }
  ],
