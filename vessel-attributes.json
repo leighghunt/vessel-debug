@@ -13,7 +13,7 @@
    "attributes": {
     "objectid": 741,
     "mmsi": "132347000",
-    "shipname": "TAIKEHU",
+    "shipname": null,
     "callsign": "ZMS6951"
    }
   },
@@ -526,7 +526,7 @@
     "objectid": 755,
     "mmsi": "512001262",
     "shipname": "DISCOVERY I",
-    "callsign": null
+    "callsign": "ZMZ6487"
    }
   },
   {
@@ -541,7 +541,7 @@
    "attributes": {
     "objectid": 759,
     "mmsi": "512001264",
-    "shipname": null,
+    "shipname": "OSPREY",
     "callsign": "ZMR3723"
    }
   },
@@ -573,7 +573,7 @@
    "attributes": {
     "objectid": 760,
     "mmsi": "512001268",
-    "shipname": "TIGER CAT",
+    "shipname": null,
     "callsign": "ZMR2981"
    }
   },
@@ -605,7 +605,7 @@
    "attributes": {
     "objectid": 795,
     "mmsi": "512001787",
-    "shipname": null,
+    "shipname": "TURIHAUA",
     "callsign": "ZM 2184"
    }
   },
