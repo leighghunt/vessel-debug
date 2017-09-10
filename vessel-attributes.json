@@ -517,7 +517,7 @@
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": "SPIRIT",
+    "shipname": null,
     "callsign": "ZMG2871"
    }
   },
