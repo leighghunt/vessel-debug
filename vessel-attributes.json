@@ -491,9 +491,17 @@
   },
   {
    "attributes": {
+    "objectid": 1171,
+    "mmsi": "512004023",
+    "shipname": "PIPER",
+    "callsign": "ZMU5096"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": null,
+    "shipname": "SPIRIT",
     "callsign": "ZMG2871"
    }
   },
@@ -559,6 +567,14 @@
     "mmsi": "512004511",
     "shipname": "TE KOTUKU",
     "callsign": "ZMU2646"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1172,
+    "mmsi": "512004519",
+    "shipname": null,
+    "callsign": null
    }
   },
   {
