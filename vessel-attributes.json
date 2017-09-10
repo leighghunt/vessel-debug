@@ -365,7 +365,7 @@
    "attributes": {
     "objectid": 845,
     "mmsi": "512000543",
-    "shipname": "WAKA KUME",
+    "shipname": null,
     "callsign": "ZMR6122"
    }
   },
