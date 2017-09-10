@@ -19,14 +19,6 @@
   },
   {
    "attributes": {
-    "objectid": 1064,
-    "mmsi": "215606000",
-    "shipname": "BE MINE",
-    "callsign": "9HA2755"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1099,
     "mmsi": "218829000",
     "shipname": "ANL WARRNAMBOOL",
@@ -227,7 +219,7 @@
   },
   {
    "attributes": {
-    "objectid": 1113,
+    "objectid": 1128,
     "mmsi": "512001026",
     "shipname": "SEAWAY II",
     "callsign": "ZMR3466"
@@ -371,14 +363,6 @@
   },
   {
    "attributes": {
-    "objectid": 1062,
-    "mmsi": "512003518",
-    "shipname": "KAPUA",
-    "callsign": "ZMW4289"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1106,
     "mmsi": "512003812",
     "shipname": "AWANUI",
@@ -427,7 +411,7 @@
   },
   {
    "attributes": {
-    "objectid": 1110,
+    "objectid": 1127,
     "mmsi": "512004158",
     "shipname": "AURORA",
     "callsign": "ZMU5212"
@@ -611,14 +595,6 @@
   },
   {
    "attributes": {
-    "objectid": 1101,
-    "mmsi": "512006132",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1052,
     "mmsi": "512006191",
     "shipname": "SAN ARAMAND",
@@ -635,10 +611,10 @@
   },
   {
    "attributes": {
-    "objectid": 1100,
-    "mmsi": "512006368",
-    "shipname": "CATION",
-    "callsign": "ZMX2767"
+    "objectid": 1126,
+    "mmsi": "512007000",
+    "shipname": "COASTAL CARRIER",
+    "callsign": "ZM2189"
    }
   },
   {
@@ -663,14 +639,6 @@
     "mmsi": "512210000",
     "shipname": "L'AFFAIRE",
     "callsign": "ZMA2702"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1067,
-    "mmsi": "512219000",
-    "shipname": "AWANUIA",
-    "callsign": "ZMA2137"
    }
   },
   {
