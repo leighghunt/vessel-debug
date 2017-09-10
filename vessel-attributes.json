@@ -27,6 +27,14 @@
   },
   {
    "attributes": {
+    "objectid": 848,
+    "mmsi": "210749000",
+    "shipname": "PACIFIC TRADER",
+    "callsign": "5BPJ3"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 697,
     "mmsi": "211645030",
     "shipname": "ZIG ZAG",
@@ -1251,6 +1259,14 @@
   },
   {
    "attributes": {
+    "objectid": 849,
+    "mmsi": "636015659",
+    "shipname": "KOTA EKSPRES",
+    "callsign": "D5CB9"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 662,
     "mmsi": "636090756",
     "shipname": "ANL ECHUCA",
@@ -1277,8 +1293,8 @@
    "attributes": {
     "objectid": 847,
     "mmsi": "636092489",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CAP CORRIENTES",
+    "callsign": "D5DU2"
    }
   }
  ],
