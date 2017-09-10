@@ -965,8 +965,8 @@
    "attributes": {
     "objectid": 838,
     "mmsi": "512006129",
-    "shipname": "MUSTANGO",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMW6612"
    }
   },
   {
