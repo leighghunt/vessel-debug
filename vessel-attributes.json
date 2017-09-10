@@ -267,6 +267,14 @@
   },
   {
    "attributes": {
+    "objectid": 851,
+    "mmsi": "477060000",
+    "shipname": "ISLAND CHIEF",
+    "callsign": "VRRB"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 836,
     "mmsi": "477552200",
     "shipname": "SAFMARINE NOKWANDA",
@@ -597,8 +605,8 @@
    "attributes": {
     "objectid": 795,
     "mmsi": "512001787",
-    "shipname": "TURIHAUA",
-    "callsign": "ZM 2184"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -653,8 +661,8 @@
    "attributes": {
     "objectid": 763,
     "mmsi": "512003184",
-    "shipname": "MANUKAU",
-    "callsign": "ZMQ6607"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -1231,6 +1239,14 @@
     "mmsi": "563007700",
     "shipname": "CAPITAINE DAMPIER",
     "callsign": "9V5317"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 852,
+    "mmsi": "563265000",
+    "shipname": null,
+    "callsign": null
    }
   },
   {
