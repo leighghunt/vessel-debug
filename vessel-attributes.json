@@ -605,8 +605,8 @@
    "attributes": {
     "objectid": 795,
     "mmsi": "512001787",
-    "shipname": null,
-    "callsign": null
+    "shipname": "TURIHAUA",
+    "callsign": "ZM 2184"
    }
   },
   {
@@ -677,8 +677,8 @@
    "attributes": {
     "objectid": 745,
     "mmsi": "512003229",
-    "shipname": null,
-    "callsign": null
+    "shipname": "CLIPPER 4",
+    "callsign": "ZMW3415"
    }
   },
   {
