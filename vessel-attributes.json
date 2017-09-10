@@ -243,6 +243,14 @@
   },
   {
    "attributes": {
+    "objectid": 836,
+    "mmsi": "477552200",
+    "shipname": "SAFMARINE NOKWANDA",
+    "callsign": "VRLA4"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 805,
     "mmsi": "477633300",
     "shipname": "LUZON STRAIT",
