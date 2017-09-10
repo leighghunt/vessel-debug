@@ -1,7 +1,14 @@
 {
  "exceededTransferLimit": false,
  "features": [
-  
+  {
+   "attributes": {
+    "objectid": 859,
+    "mmsi": "512003946",
+    "shipname": "HARBOURMASTER 6",
+    "callsign": "ZMU2156"
+   }
+  }
  ],
  "fields": [
   {
