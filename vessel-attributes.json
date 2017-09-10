@@ -3,6 +3,14 @@
  "features": [
   {
    "attributes": {
+    "objectid": 984,
+    "mmsi": "211645030",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 979,
     "mmsi": "512000369",
     "shipname": null,
@@ -11,8 +19,24 @@
   },
   {
    "attributes": {
+    "objectid": 982,
+    "mmsi": "512000421",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 969,
     "mmsi": "512001100",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 983,
+    "mmsi": "512001200",
     "shipname": null,
     "callsign": null
    }
@@ -37,6 +61,14 @@
    "attributes": {
     "objectid": 978,
     "mmsi": "512004419",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 981,
+    "mmsi": "512004731",
     "shipname": null,
     "callsign": null
    }
