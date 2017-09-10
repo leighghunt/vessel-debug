@@ -131,6 +131,14 @@
   },
   {
    "attributes": {
+    "objectid": 841,
+    "mmsi": "316029236",
+    "shipname": "VIKING STAR",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 796,
     "mmsi": "316033225",
     "shipname": null,
@@ -475,6 +483,14 @@
   },
   {
    "attributes": {
+    "objectid": 844,
+    "mmsi": "512001261",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 755,
     "mmsi": "512001262",
     "shipname": "DISCOVERY I",
@@ -811,6 +827,14 @@
   },
   {
    "attributes": {
+    "objectid": 840,
+    "mmsi": "512004670",
+    "shipname": null,
+    "callsign": "ZMS5207"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 61,
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
@@ -891,6 +915,30 @@
   },
   {
    "attributes": {
+    "objectid": 839,
+    "mmsi": "512005198",
+    "shipname": "WAIHEKE RESCUE",
+    "callsign": "ZMR7081"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 842,
+    "mmsi": "512005339",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 843,
+    "mmsi": "512005403",
+    "shipname": "KIELLA",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 36,
     "mmsi": "512005528",
     "shipname": "MOONDANCE",
@@ -965,7 +1013,7 @@
    "attributes": {
     "objectid": 838,
     "mmsi": "512006129",
-    "shipname": null,
+    "shipname": "MUSTANGO",
     "callsign": "ZMW6612"
    }
   },
