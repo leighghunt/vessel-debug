@@ -677,8 +677,8 @@
    "attributes": {
     "objectid": 745,
     "mmsi": "512003229",
-    "shipname": "CLIPPER 4",
-    "callsign": "ZMW3415"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -765,8 +765,8 @@
    "attributes": {
     "objectid": 853,
     "mmsi": "512004061",
-    "shipname": null,
-    "callsign": null
+    "shipname": "SPIRIT",
+    "callsign": "ZMG2871"
    }
   },
   {
