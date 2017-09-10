@@ -685,8 +685,8 @@
    "attributes": {
     "objectid": 793,
     "mmsi": "512003456",
-    "shipname": "TAKAHIWAI",
-    "callsign": "ZMR6821"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
