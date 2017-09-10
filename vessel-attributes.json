@@ -933,8 +933,8 @@
    "attributes": {
     "objectid": 746,
     "mmsi": "512005155",
-    "shipname": "D7",
-    "callsign": "ZME7070"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
