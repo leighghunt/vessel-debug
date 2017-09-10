@@ -3,6 +3,70 @@
  "features": [
   {
    "attributes": {
+    "objectid": 1015,
+    "mmsi": "123456789",
+    "shipname": "NAVICOM TEST",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1019,
+    "mmsi": "219982000",
+    "shipname": "JOHANNES MAERSK",
+    "callsign": "OWFD2"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1022,
+    "mmsi": "232006988",
+    "shipname": "GREY WOLF",
+    "callsign": "MASZ3"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1024,
+    "mmsi": "319774000",
+    "shipname": "LATITUDE",
+    "callsign": "ZCTD5"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1041,
+    "mmsi": "367137260",
+    "shipname": "RED",
+    "callsign": "WDD3862"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1027,
+    "mmsi": "374170000",
+    "shipname": "KEN HOPE",
+    "callsign": "3FYD3"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1056,
+    "mmsi": "378111564",
+    "shipname": "RIV 61  001",
+    "callsign": "RIV 61"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1018,
+    "mmsi": "477060000",
+    "shipname": "ISLAND CHIEF",
+    "callsign": "VRRB"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1010,
     "mmsi": "477669100",
     "shipname": null,
@@ -11,10 +75,346 @@
   },
   {
    "attributes": {
+    "objectid": 1059,
+    "mmsi": "503511300",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1045,
+    "mmsi": "512000027",
+    "shipname": "ADVENTURER",
+    "callsign": "ZMG2004"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1048,
+    "mmsi": "512000082",
+    "shipname": "COLUMBIA",
+    "callsign": "ZMA3264"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1038,
+    "mmsi": "512000479",
+    "shipname": "GLADIATOR",
+    "callsign": "ZMV8338"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1034,
+    "mmsi": "512000532",
+    "shipname": "STARFLYTE",
+    "callsign": "ZMR4078"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1044,
+    "mmsi": "512000715",
+    "shipname": "MACY GRAY",
+    "callsign": "ZM2239"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1013,
+    "mmsi": "512000741",
+    "shipname": "CLIPPER 3",
+    "callsign": "ZMT3984"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1023,
+    "mmsi": "512000742",
+    "shipname": "CLIPPER 2",
+    "callsign": "ZMS7101"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1042,
+    "mmsi": "512001027",
+    "shipname": "SEAMASTER",
+    "callsign": "ZMV7638"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1030,
+    "mmsi": "512001029",
+    "shipname": "ISLAND NAVIGATOR",
+    "callsign": "ZMQ7781"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1028,
+    "mmsi": "512001266",
+    "shipname": "SEAFLYTE",
+    "callsign": "ZM2763"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1054,
+    "mmsi": "512001267",
+    "shipname": "DISCOVERY III",
+    "callsign": "ZMA2422"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1060,
+    "mmsi": "512002067",
+    "shipname": "WAIRANGI",
+    "callsign": "ZMTM"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1050,
+    "mmsi": "512002866",
+    "shipname": "CALIPH",
+    "callsign": "ZM4711"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1046,
+    "mmsi": "512003184",
+    "shipname": "MANUKAU",
+    "callsign": "ZMQ6607"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1009,
     "mmsi": "512003229",
     "shipname": "CLIPPER 4",
     "callsign": "ZMW3415"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1031,
+    "mmsi": "512003946",
+    "shipname": "HARBOURMASTER 6",
+    "callsign": "ZMU2156"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1012,
+    "mmsi": "512004023",
+    "shipname": "PIPER",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1057,
+    "mmsi": "512004061",
+    "shipname": null,
+    "callsign": "ZMG2871"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1053,
+    "mmsi": "512004062",
+    "shipname": "ARAWHITI",
+    "callsign": "ZMS8209"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1049,
+    "mmsi": "512004158",
+    "shipname": null,
+    "callsign": "ZMU5212"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1039,
+    "mmsi": "512004162",
+    "shipname": "CENTURION",
+    "callsign": "ZMU5542"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1021,
+    "mmsi": "512004419",
+    "shipname": "CIRCA RESCUE",
+    "callsign": "ZMT8000"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1051,
+    "mmsi": "512004509",
+    "shipname": "HAURAKI",
+    "callsign": "ZME5252"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1014,
+    "mmsi": "512004511",
+    "shipname": "TE KOTUKU",
+    "callsign": "ZMU2646"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1033,
+    "mmsi": "512004656",
+    "shipname": "D6",
+    "callsign": "ZMU7402"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1026,
+    "mmsi": "512004671",
+    "shipname": "MARSDEN BAY",
+    "callsign": "ZMU2829"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1047,
+    "mmsi": "512004902",
+    "shipname": "TITANIUM",
+    "callsign": "ZMG3095"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1032,
+    "mmsi": "512004962",
+    "shipname": "MATARIKI III",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1029,
+    "mmsi": "512004996",
+    "shipname": "PILOTVESSEL WAKATERE",
+    "callsign": "ZME6262"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1011,
+    "mmsi": "512005155",
+    "shipname": "D7",
+    "callsign": "ZME7070"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1017,
+    "mmsi": "512005706",
+    "shipname": "KORORA",
+    "callsign": "ZMW7964"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1036,
+    "mmsi": "512005742",
+    "shipname": "NONSTOP NZL2299",
+    "callsign": "ZMS7796"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1025,
+    "mmsi": "512006003",
+    "shipname": "CAPRICORNIAN SURFER",
+    "callsign": "ZMG3426"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1052,
+    "mmsi": "512006191",
+    "shipname": "SAN ARAMAND",
+    "callsign": "ZMG3486"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1040,
+    "mmsi": "512006211",
+    "shipname": "TE MAKI",
+    "callsign": "ZMX2434"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1058,
+    "mmsi": "512120000",
+    "shipname": "R TUCKER THOMPSON",
+    "callsign": "ZMA2808"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1055,
+    "mmsi": "518497000",
+    "shipname": "ISLAND PASSAGE",
+    "callsign": "E5U2447"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1020,
+    "mmsi": "538005057",
+    "shipname": "BALAO",
+    "callsign": "V7AR9"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1035,
+    "mmsi": "538071125",
+    "shipname": "ADVANTAGE",
+    "callsign": "V7RA7"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1037,
+    "mmsi": "563007700",
+    "shipname": "CAPITAINE DAMPIER",
+    "callsign": "9V5317"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1016,
+    "mmsi": "636014030",
+    "shipname": "MV SOFRANA TOURVILLE",
+    "callsign": "A8QX8"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1043,
+    "mmsi": "636092489",
+    "shipname": "CAP CORRIENTES",
+    "callsign": "D5DU2"
    }
   }
  ],
