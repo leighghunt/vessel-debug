@@ -278,7 +278,7 @@
     "objectid": 1123,
     "mmsi": "512000880",
     "shipname": "ENTREPID",
-    "callsign": null
+    "callsign": "KY2156Z"
    }
   },
   {
@@ -589,8 +589,8 @@
    "attributes": {
     "objectid": 1172,
     "mmsi": "512004519",
-    "shipname": null,
-    "callsign": null
+    "shipname": "RESORT",
+    "callsign": "ZMT9292"
    }
   },
   {
@@ -685,8 +685,8 @@
    "attributes": {
     "objectid": 1169,
     "mmsi": "512005403",
-    "shipname": null,
-    "callsign": "ZMG3220"
+    "shipname": "KIELLA",
+    "callsign": null
    }
   },
   {
