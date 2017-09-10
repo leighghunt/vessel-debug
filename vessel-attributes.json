@@ -93,7 +93,7 @@
    "attributes": {
     "objectid": 1129,
     "mmsi": "338216735",
-    "shipname": null,
+    "shipname": "LAKSHMI",
     "callsign": null
    }
   },
@@ -669,8 +669,8 @@
    "attributes": {
     "objectid": 1169,
     "mmsi": "512005403",
-    "shipname": null,
-    "callsign": "ZMG3220"
+    "shipname": "KIELLA",
+    "callsign": null
    }
   },
   {
