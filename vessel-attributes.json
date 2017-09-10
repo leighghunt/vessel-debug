@@ -222,7 +222,7 @@
     "objectid": 1166,
     "mmsi": "512000545",
     "shipname": "DALDY",
-    "callsign": null
+    "callsign": "ZMZ7645"
    }
   },
   {
@@ -270,7 +270,7 @@
     "objectid": 1123,
     "mmsi": "512000880",
     "shipname": "ENTREPID",
-    "callsign": null
+    "callsign": "KY2156Z"
    }
   },
   {
@@ -359,6 +359,14 @@
     "mmsi": "512001267",
     "shipname": "DISCOVERY III",
     "callsign": "ZMA2422"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1170,
+    "mmsi": "512001497",
+    "shipname": "IKATERE",
+    "callsign": "ZMG2259"
    }
   },
   {
@@ -645,8 +653,8 @@
    "attributes": {
     "objectid": 1169,
     "mmsi": "512005403",
-    "shipname": "KIELLA",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMG3220"
    }
   },
   {
@@ -782,7 +790,7 @@
     "objectid": 1131,
     "mmsi": "518398000",
     "shipname": null,
-    "callsign": "E5U2348"
+    "callsign": null
    }
   },
   {
