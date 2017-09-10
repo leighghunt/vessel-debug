@@ -51,6 +51,14 @@
   },
   {
    "attributes": {
+    "objectid": 1124,
+    "mmsi": "235097329",
+    "shipname": "SEAHAWK",
+    "callsign": "2GHA7"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1102,
     "mmsi": "311000546",
     "shipname": "CHIOS",
@@ -103,6 +111,14 @@
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
     "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1122,
+    "mmsi": "432651000",
+    "shipname": "ORCHID ACE",
+    "callsign": "7JDE"
    }
   },
   {
@@ -171,14 +187,6 @@
   },
   {
    "attributes": {
-    "objectid": 1085,
-    "mmsi": "512000545",
-    "shipname": "DALDY",
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1088,
     "mmsi": "512000548",
     "shipname": "TIKA",
@@ -207,6 +215,14 @@
     "mmsi": "512000742",
     "shipname": "CLIPPER 2",
     "callsign": "ZMS7101"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1123,
+    "mmsi": "512000880",
+    "shipname": "ENTREPID",
+    "callsign": null
    }
   },
   {
@@ -271,6 +287,14 @@
     "mmsi": "512001263",
     "shipname": "DISCOVERY II",
     "callsign": "ZMV6692"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1121,
+    "mmsi": "512001264",
+    "shipname": "OSPREY",
+    "callsign": "ZMR3723"
    }
   },
   {
@@ -510,7 +534,7 @@
     "objectid": 1032,
     "mmsi": "512004962",
     "shipname": "MATARIKI III",
-    "callsign": "ZMG3118"
+    "callsign": null
    }
   },
   {
@@ -543,14 +567,6 @@
     "mmsi": "512005198",
     "shipname": "WAIHEKE RESCUE",
     "callsign": "ZMR7081"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1097,
-    "mmsi": "512005403",
-    "shipname": null,
-    "callsign": null
    }
   },
   {
