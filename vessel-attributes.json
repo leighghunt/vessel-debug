@@ -8,14 +8,6 @@
     "shipname": null,
     "callsign": "ZMT8738"
    }
-  },
-  {
-   "attributes": {
-    "objectid": 1006,
-    "mmsi": "512006368",
-    "shipname": "CATION",
-    "callsign": "ZMX2767"
-   }
   }
  ],
  "fields": [
