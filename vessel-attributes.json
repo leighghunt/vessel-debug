@@ -1,7 +1,38 @@
 {
  "exceededTransferLimit": false,
  "features": [
-  
+  {
+   "attributes": {
+    "objectid": 1007,
+    "mmsi": "512000082",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1005,
+    "mmsi": "512001521",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1008,
+    "mmsi": "512004918",
+    "shipname": null,
+    "callsign": "ZMT8738"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1006,
+    "mmsi": "512006368",
+    "shipname": null,
+    "callsign": null
+   }
+  }
  ],
  "fields": [
   {
