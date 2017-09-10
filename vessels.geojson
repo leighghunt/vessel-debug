@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "objectid": 1009, "mmsi": "512003229", "heading": 511, "course": 320, "speed": 0, "turn": 128, "status": 0, "lastupdated": "1505083657035", "shipname": "CLIPPER 4", "callsign": "ZMW3415", "destination": "AUCKLAND" }, "geometry": { "type": "Point", "coordinates": [ 174.989768333333359, -36.889866666666649 ] } }
+{ "type": "Feature", "properties": { "objectid": 1010, "mmsi": "477669100", "heading": 21, "course": 21, "speed": 146, "turn": 7, "status": 0, "lastupdated": "1505083722333", "shipname": null, "callsign": null, "destination": null }, "geometry": { "type": "Point", "coordinates": [ 176.230616666666833, -37.497666666666589 ] } },
+{ "type": "Feature", "properties": { "objectid": 1009, "mmsi": "512003229", "heading": 511, "course": 321, "speed": 0, "turn": 128, "status": 0, "lastupdated": "1505083726152", "shipname": "CLIPPER 4", "callsign": "ZMW3415", "destination": "AUCKLAND" }, "geometry": { "type": "Point", "coordinates": [ 174.989758333333384, -36.889866666666649 ] } }
 ]
 }
