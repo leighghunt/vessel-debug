@@ -861,8 +861,8 @@
    "attributes": {
     "objectid": 835,
     "mmsi": "512004997",
-    "shipname": null,
-    "callsign": null
+    "shipname": "DEVANA",
+    "callsign": "ZMV5454"
    }
   },
   {
@@ -1189,8 +1189,8 @@
    "attributes": {
     "objectid": 734,
     "mmsi": "636091729",
-    "shipname": null,
-    "callsign": null
+    "shipname": "FRISIA ALLER",
+    "callsign": "A8SB5"
    }
   }
  ],
