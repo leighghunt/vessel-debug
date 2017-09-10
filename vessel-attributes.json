@@ -27,6 +27,14 @@
   },
   {
    "attributes": {
+    "objectid": 1099,
+    "mmsi": "218829000",
+    "shipname": "ANL WARRNAMBOOL",
+    "callsign": "DFXC2"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1019,
     "mmsi": "219982000",
     "shipname": "JOHANNES MAERSK",
@@ -125,7 +133,7 @@
    "attributes": {
     "objectid": 1059,
     "mmsi": "503511300",
-    "shipname": null,
+    "shipname": "SOUNDCEM III",
     "callsign": null
    }
   },
@@ -259,6 +267,14 @@
   },
   {
    "attributes": {
+    "objectid": 1096,
+    "mmsi": "512001264",
+    "shipname": "OSPREY",
+    "callsign": "ZMR3723"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1028,
     "mmsi": "512001266",
     "shipname": "SEAFLYTE",
@@ -335,6 +351,14 @@
     "mmsi": "512003312",
     "shipname": "PACIFIC SPRAY",
     "callsign": "ZMS5830"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1095,
+    "mmsi": "512003332",
+    "shipname": "OLYMPIC SPIRIT",
+    "callsign": "ZMT7015"
    }
   },
   {
@@ -523,6 +547,14 @@
   },
   {
    "attributes": {
+    "objectid": 1097,
+    "mmsi": "512005403",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1091,
     "mmsi": "512005528",
     "shipname": null,
@@ -563,6 +595,14 @@
   },
   {
    "attributes": {
+    "objectid": 1094,
+    "mmsi": "512005801",
+    "shipname": "WINDHAVEN",
+    "callsign": "ZMF4451"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1025,
     "mmsi": "512006003",
     "shipname": "CAPRICORNIAN SURFER",
@@ -583,6 +623,14 @@
     "mmsi": "512006211",
     "shipname": "TE MAKI",
     "callsign": "ZMX2434"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1100,
+    "mmsi": "512006368",
+    "shipname": "CATION",
+    "callsign": "ZMX2767"
    }
   },
   {
@@ -647,6 +695,14 @@
     "mmsi": "538005057",
     "shipname": "BALAO",
     "callsign": "V7AR9"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1098,
+    "mmsi": "538071086",
+    "shipname": "SILVERTIP",
+    "callsign": "V7EQ8"
    }
   },
   {
