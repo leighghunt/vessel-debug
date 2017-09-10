@@ -1259,6 +1259,14 @@
   },
   {
    "attributes": {
+    "objectid": 850,
+    "mmsi": "636014030",
+    "shipname": "MV SOFRANA TOURVILLE",
+    "callsign": "A8QX8"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 849,
     "mmsi": "636015659",
     "shipname": "KOTA EKSPRES",
