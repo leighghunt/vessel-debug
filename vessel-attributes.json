@@ -779,6 +779,14 @@
   },
   {
    "attributes": {
+    "objectid": 1173,
+    "mmsi": "512210000",
+    "shipname": "L'AFFAIRE",
+    "callsign": "ZMA2702"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1146,
     "mmsi": "512219000",
     "shipname": "AWANUIA",
@@ -805,8 +813,8 @@
    "attributes": {
     "objectid": 1131,
     "mmsi": "518398000",
-    "shipname": null,
-    "callsign": null
+    "shipname": "MINA CAMPBELL",
+    "callsign": "E5U2348"
    }
   },
   {
