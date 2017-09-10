@@ -134,7 +134,7 @@
     "objectid": 1111,
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
-    "callsign": "RIV 61"
+    "callsign": null
    }
   },
   {
@@ -375,6 +375,14 @@
     "mmsi": "512001521",
     "shipname": null,
     "callsign": "ZM2288"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1168,
+    "mmsi": "512002067",
+    "shipname": "WAIRANGI",
+    "callsign": "ZMTM"
    }
   },
   {
@@ -631,6 +639,14 @@
     "mmsi": "512005198",
     "shipname": "WAIHEKE RESCUE",
     "callsign": "ZMR7081"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1169,
+    "mmsi": "512005403",
+    "shipname": "KIELLA",
+    "callsign": null
    }
   },
   {
