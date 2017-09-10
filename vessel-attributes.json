@@ -163,6 +163,14 @@
   },
   {
    "attributes": {
+    "objectid": 1161,
+    "mmsi": "512000082",
+    "shipname": "COLUMBIA",
+    "callsign": "ZMA3264"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1078,
     "mmsi": "512000369",
     "shipname": "DEODAR 111",
@@ -243,6 +251,14 @@
   },
   {
    "attributes": {
+    "objectid": 1163,
+    "mmsi": "512001026",
+    "shipname": "SEAWAY II",
+    "callsign": "ZMR3466"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1042,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
@@ -255,6 +271,14 @@
     "mmsi": "512001028",
     "shipname": "SEACAT",
     "callsign": "ZMQ7552"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1157,
+    "mmsi": "512001029",
+    "shipname": "ISLAND NAVIGATOR",
+    "callsign": "ZMQ7781"
    }
   },
   {
@@ -315,6 +339,14 @@
   },
   {
    "attributes": {
+    "objectid": 1159,
+    "mmsi": "512001510",
+    "shipname": "HARBOURCAT",
+    "callsign": "ZMZ4489"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1134,
     "mmsi": "512001521",
     "shipname": null,
@@ -325,8 +357,8 @@
    "attributes": {
     "objectid": 1132,
     "mmsi": "512002383",
-    "shipname": null,
-    "callsign": null
+    "shipname": "DIESEL",
+    "callsign": "ZMS5246"
    }
   },
   {
@@ -379,6 +411,14 @@
   },
   {
    "attributes": {
+    "objectid": 1162,
+    "mmsi": "512003332",
+    "shipname": "OLYMPIC SPIRIT",
+    "callsign": "ZMT7015"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1139,
     "mmsi": "512003518",
     "shipname": "KAPUA",
@@ -413,7 +453,7 @@
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": null,
+    "shipname": "SPIRIT",
     "callsign": "ZMG2871"
    }
   },
@@ -511,6 +551,14 @@
     "mmsi": "512004731",
     "shipname": "LION RESCUE",
     "callsign": "ZMR7777"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1160,
+    "mmsi": "512004902",
+    "shipname": "TITANIUM",
+    "callsign": "ZMG3095"
    }
   },
   {
@@ -686,7 +734,7 @@
     "objectid": 1131,
     "mmsi": "518398000",
     "shipname": null,
-    "callsign": null
+    "callsign": "E5U2348"
    }
   },
   {
@@ -735,6 +783,14 @@
     "mmsi": "636014030",
     "shipname": "MV SOFRANA TOURVILLE",
     "callsign": "A8QX8"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1158,
+    "mmsi": "636092489",
+    "shipname": "CAP CORRIENTES",
+    "callsign": "D5DU2"
    }
   }
  ],
