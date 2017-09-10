@@ -51,6 +51,14 @@
   },
   {
    "attributes": {
+    "objectid": 1102,
+    "mmsi": "311000546",
+    "shipname": "CHIOS",
+    "callsign": "C6CQ8"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1066,
     "mmsi": "319028500",
     "shipname": "TANGO",
@@ -159,6 +167,14 @@
     "mmsi": "512000369",
     "shipname": "DEODAR 111",
     "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1104,
+    "mmsi": "512000421",
+    "shipname": "INFINITY",
+    "callsign": "ZMA3368"
    }
   },
   {
@@ -294,7 +310,7 @@
     "objectid": 1072,
     "mmsi": "512001510",
     "shipname": "HARBOURCAT",
-    "callsign": "ZMZ4489"
+    "callsign": null
    }
   },
   {
@@ -611,6 +627,14 @@
   },
   {
    "attributes": {
+    "objectid": 1101,
+    "mmsi": "512006132",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1052,
     "mmsi": "512006191",
     "shipname": "SAN ARAMAND",
@@ -643,6 +667,14 @@
   },
   {
    "attributes": {
+    "objectid": 1103,
+    "mmsi": "512087000",
+    "shipname": "ORTEM",
+    "callsign": "ZM2827"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1058,
     "mmsi": "512120000",
     "shipname": "R TUCKER THOMPSON",
@@ -653,7 +685,7 @@
    "attributes": {
     "objectid": 1068,
     "mmsi": "512210000",
-    "shipname": null,
+    "shipname": "L'AFFAIRE",
     "callsign": "ZMA2702"
    }
   },
