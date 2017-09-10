@@ -605,8 +605,8 @@
    "attributes": {
     "objectid": 795,
     "mmsi": "512001787",
-    "shipname": "TURIHAUA",
-    "callsign": "ZM 2184"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
