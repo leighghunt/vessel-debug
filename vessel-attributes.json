@@ -1,14 +1,7 @@
 {
  "exceededTransferLimit": false,
  "features": [
-  {
-   "attributes": {
-    "objectid": 985,
-    "mmsi": "512219000",
-    "shipname": null,
-    "callsign": null
-   }
-  }
+  
  ],
  "fields": [
   {
