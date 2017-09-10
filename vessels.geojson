@@ -3,10 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "objectid": 1001, "mmsi": "432651000", "heading": 18, "course": 347, "speed": 1, "turn": 0, "status": 5, "lastupdated": "1505081160652", "shipname": "ORCHID ACE", "callsign": "7JDE", "destination": "NZ AKL" }, "geometry": { "type": "Point", "coordinates": [ 174.77301, -36.84024 ] } },
-{ "type": "Feature", "properties": { "objectid": 1003, "mmsi": "512000082", "heading": 511, "course": 3087, "speed": 0, "turn": null, "status": null, "lastupdated": "1505081280976", "shipname": "COLUMBIA", "callsign": "ZMA3264", "destination": null }, "geometry": { "type": "Point", "coordinates": [ 174.748706666666635, -36.836875 ] } },
-{ "type": "Feature", "properties": { "objectid": 1000, "mmsi": "512004509", "heading": 268, "course": 90, "speed": 1, "turn": 0, "status": 5, "lastupdated": "1505081272762", "shipname": "HAURAKI", "callsign": "ZME5252", "destination": "AUCKLAND" }, "geometry": { "type": "Point", "coordinates": [ 174.768765000000144, -36.843268333333356 ] } },
-{ "type": "Feature", "properties": { "objectid": 1002, "mmsi": "512006368", "heading": 511, "course": 3282, "speed": 4, "turn": null, "status": null, "lastupdated": "1505081325930", "shipname": "CATION", "callsign": null, "destination": null }, "geometry": { "type": "Point", "coordinates": [ 174.788555, -36.623905 ] } },
-{ "type": "Feature", "properties": { "objectid": 1004, "mmsi": "512219000", "heading": 223, "course": 148, "speed": 0, "turn": 0, "status": 5, "lastupdated": "1505081154798", "shipname": "AWANUIA", "callsign": "ZMA2137", "destination": "NZAKL" }, "geometry": { "type": "Point", "coordinates": [ 174.758150000000114, -36.83898333333326 ] } }
+
 ]
 }
