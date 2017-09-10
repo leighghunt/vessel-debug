@@ -59,14 +59,6 @@
   },
   {
    "attributes": {
-    "objectid": 5,
-    "mmsi": "235097329",
-    "shipname": "SEAHAWK",
-    "callsign": "2GHA7"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 814,
     "mmsi": "311000546",
     "shipname": "CHIOS",
@@ -87,14 +79,6 @@
     "mmsi": "319774000",
     "shipname": "LATITUDE",
     "callsign": "ZCTD5"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 815,
-    "mmsi": "338216735",
-    "shipname": "LAKSHMI",
-    "callsign": null
    }
   },
   {
@@ -499,14 +483,6 @@
   },
   {
    "attributes": {
-    "objectid": 83,
-    "mmsi": "512004418",
-    "shipname": "ECLATANT",
-    "callsign": "ZMU6620"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 103,
     "mmsi": "512004509",
     "shipname": "HAURAKI",
@@ -575,14 +551,6 @@
     "mmsi": "512004918",
     "shipname": null,
     "callsign": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 638,
-    "mmsi": "512004962",
-    "shipname": "MATARIKI III",
-    "callsign": "ZMG3118"
    }
   },
   {
@@ -719,14 +687,6 @@
     "mmsi": "512210000",
     "shipname": "L'AFFAIRE",
     "callsign": "ZMA2702"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 80,
-    "mmsi": "512219000",
-    "shipname": "AWANUIA",
-    "callsign": "ZMA2137"
    }
   },
   {
