@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "objectid": 1009, "mmsi": "512003229", "heading": 511, "course": 286, "speed": 0, "turn": 128, "status": 0, "lastupdated": "1505082856131", "shipname": "CLIPPER 4", "callsign": "ZMW3415", "destination": "AUCKLAND" }, "geometry": { "type": "Point", "coordinates": [ 174.98977333333346, -36.889841666666655 ] } }
+{ "type": "Feature", "properties": { "objectid": 1009, "mmsi": "512003229", "heading": 511, "course": 285, "speed": 0, "turn": 128, "status": 0, "lastupdated": "1505082916601", "shipname": "CLIPPER 4", "callsign": "ZMW3415", "destination": "AUCKLAND" }, "geometry": { "type": "Point", "coordinates": [ 174.989775, -36.889853333333292 ] } }
 ]
 }
