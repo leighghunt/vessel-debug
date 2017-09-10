@@ -3,14 +3,6 @@
  "features": [
   {
    "attributes": {
-    "objectid": 1007,
-    "mmsi": "512000082",
-    "shipname": "COLUMBIA",
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1008,
     "mmsi": "512004918",
     "shipname": null,
