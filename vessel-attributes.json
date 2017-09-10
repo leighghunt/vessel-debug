@@ -267,6 +267,14 @@
   },
   {
    "attributes": {
+    "objectid": 1152,
+    "mmsi": "512001200",
+    "shipname": "MAKO II",
+    "callsign": "ZMTC"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1090,
     "mmsi": "512001263",
     "shipname": "DISCOVERY II",
@@ -379,6 +387,14 @@
   },
   {
    "attributes": {
+    "objectid": 1155,
+    "mmsi": "512003812",
+    "shipname": "AWANUI",
+    "callsign": "ZMG2800"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1145,
     "mmsi": "512003888",
     "shipname": "OM",
@@ -397,7 +413,7 @@
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": "SPIRIT",
+    "shipname": null,
     "callsign": "ZMG2871"
    }
   },
@@ -467,6 +483,14 @@
   },
   {
    "attributes": {
+    "objectid": 1154,
+    "mmsi": "512004558",
+    "shipname": "MA ' ARA",
+    "callsign": "ZMU7020"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1033,
     "mmsi": "512004656",
     "shipname": "D6",
@@ -523,6 +547,14 @@
   },
   {
    "attributes": {
+    "objectid": 1153,
+    "mmsi": "512005160",
+    "shipname": "BIG BUSINESS",
+    "callsign": "ZMQ9525"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1075,
     "mmsi": "512005198",
     "shipname": "WAIHEKE RESCUE",
@@ -543,6 +575,14 @@
     "mmsi": "512005550",
     "shipname": "THE BLIZZARD",
     "callsign": "ZMF2277"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1151,
+    "mmsi": "512005655",
+    "shipname": "FLYING CLOUD",
+    "callsign": "ZM3164"
    }
   },
   {
@@ -635,6 +675,14 @@
   },
   {
    "attributes": {
+    "objectid": 1156,
+    "mmsi": "518395000",
+    "shipname": "ALANI II",
+    "callsign": "E5U2345"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1131,
     "mmsi": "518398000",
     "shipname": null,
@@ -671,6 +719,14 @@
     "mmsi": "538071125",
     "shipname": "ADVANTAGE",
     "callsign": "V7RA7"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1150,
+    "mmsi": "563007700",
+    "shipname": "CAPITAINE DAMPIER",
+    "callsign": "9V5317"
    }
   },
   {
