@@ -19,6 +19,22 @@
   },
   {
    "attributes": {
+    "objectid": 1137,
+    "mmsi": "215606000",
+    "shipname": "BE MINE",
+    "callsign": "9HA2755"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1142,
+    "mmsi": "218829000",
+    "shipname": "ANL WARRNAMBOOL",
+    "callsign": "DFXC2"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1019,
     "mmsi": "219982000",
     "shipname": "JOHANNES MAERSK",
@@ -47,6 +63,14 @@
     "mmsi": "311000546",
     "shipname": "CHIOS",
     "callsign": "C6CQ8"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1144,
+    "mmsi": "319028500",
+    "shipname": "TANGO",
+    "callsign": "ZGBM2"
    }
   },
   {
@@ -235,6 +259,14 @@
   },
   {
    "attributes": {
+    "objectid": 1147,
+    "mmsi": "512001100",
+    "shipname": "PAEA II",
+    "callsign": "ZMSS"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1090,
     "mmsi": "512001263",
     "shipname": "DISCOVERY II",
@@ -299,10 +331,58 @@
   },
   {
    "attributes": {
+    "objectid": 1149,
+    "mmsi": "512003100",
+    "shipname": "MAUI 1",
+    "callsign": "ZMR3990"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1083,
     "mmsi": "512003135",
     "shipname": "BAY BELLE II",
     "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1138,
+    "mmsi": "512003184",
+    "shipname": "MANUKAU",
+    "callsign": "ZMQ6607"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1136,
+    "mmsi": "512003229",
+    "shipname": "CLIPPER 4",
+    "callsign": "ZMW3415"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1141,
+    "mmsi": "512003312",
+    "shipname": "PACIFIC SPRAY",
+    "callsign": "ZMS5830"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1139,
+    "mmsi": "512003518",
+    "shipname": "KAPUA",
+    "callsign": "ZMW4289"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1145,
+    "mmsi": "512003888",
+    "shipname": "OM",
+    "callsign": "ZMG2824"
    }
   },
   {
@@ -317,7 +397,7 @@
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": null,
+    "shipname": "SPIRIT",
     "callsign": "ZMG2871"
    }
   },
@@ -499,6 +579,14 @@
   },
   {
    "attributes": {
+    "objectid": 1143,
+    "mmsi": "512006132",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1052,
     "mmsi": "512006191",
     "shipname": "SAN ARAMAND",
@@ -519,6 +607,22 @@
     "mmsi": "512007000",
     "shipname": "COASTAL CARRIER",
     "callsign": "ZM2189"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1148,
+    "mmsi": "512120000",
+    "shipname": "R TUCKER THOMPSON",
+    "callsign": "ZMA2808"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1146,
+    "mmsi": "512219000",
+    "shipname": "AWANUIA",
+    "callsign": "ZMA2137"
    }
   },
   {
@@ -551,6 +655,14 @@
     "mmsi": "538005057",
     "shipname": "BALAO",
     "callsign": "V7AR9"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1140,
+    "mmsi": "538071086",
+    "shipname": "SILVERTIP",
+    "callsign": "V7EQ8"
    }
   },
   {
