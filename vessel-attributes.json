@@ -285,7 +285,7 @@
    "attributes": {
     "objectid": 834,
     "mmsi": "512000144",
-    "shipname": "MARAETAI COASTGUARD",
+    "shipname": null,
     "callsign": null
    }
   },
@@ -573,7 +573,7 @@
    "attributes": {
     "objectid": 832,
     "mmsi": "512003063",
-    "shipname": null,
+    "shipname": "RESCUE ALPHA",
     "callsign": "ZMR6666"
    }
   },
