@@ -541,8 +541,8 @@
    "attributes": {
     "objectid": 759,
     "mmsi": "512001264",
-    "shipname": "OSPREY",
-    "callsign": "ZMR3723"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -605,8 +605,8 @@
    "attributes": {
     "objectid": 795,
     "mmsi": "512001787",
-    "shipname": null,
-    "callsign": null
+    "shipname": "TURIHAUA",
+    "callsign": "ZM 2184"
    }
   },
   {
@@ -677,8 +677,8 @@
    "attributes": {
     "objectid": 745,
     "mmsi": "512003229",
-    "shipname": "CLIPPER 4",
-    "callsign": "ZMW3415"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -1245,8 +1245,8 @@
    "attributes": {
     "objectid": 852,
     "mmsi": "563265000",
-    "shipname": "KOTA LESTARI",
-    "callsign": "9V2116"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
