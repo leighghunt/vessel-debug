@@ -222,7 +222,7 @@
     "objectid": 1166,
     "mmsi": "512000545",
     "shipname": "DALDY",
-    "callsign": "ZMZ7645"
+    "callsign": null
    }
   },
   {
@@ -270,7 +270,7 @@
     "objectid": 1123,
     "mmsi": "512000880",
     "shipname": "ENTREPID",
-    "callsign": "KY2156Z"
+    "callsign": null
    }
   },
   {
@@ -669,8 +669,8 @@
    "attributes": {
     "objectid": 1169,
     "mmsi": "512005403",
-    "shipname": "KIELLA",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMG3220"
    }
   },
   {
