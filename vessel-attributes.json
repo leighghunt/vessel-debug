@@ -267,6 +267,14 @@
   },
   {
    "attributes": {
+    "objectid": 1117,
+    "mmsi": "512001200",
+    "shipname": "MAKO II",
+    "callsign": "ZMTC"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1070,
     "mmsi": "512001262",
     "shipname": "DISCOVERY I",
@@ -335,6 +343,14 @@
     "mmsi": "512002866",
     "shipname": "CALIPH",
     "callsign": "ZM4711"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1116,
+    "mmsi": "512003100",
+    "shipname": "MAUI 1",
+    "callsign": "ZMR3990"
    }
   },
   {
@@ -499,10 +515,10 @@
   },
   {
    "attributes": {
-    "objectid": 1047,
-    "mmsi": "512004902",
-    "shipname": "TITANIUM",
-    "callsign": "ZMG3095"
+    "objectid": 1118,
+    "mmsi": "512004731",
+    "shipname": "LION RESCUE",
+    "callsign": "ZMR7777"
    }
   },
   {
@@ -518,7 +534,7 @@
     "objectid": 1032,
     "mmsi": "512004962",
     "shipname": "MATARIKI III",
-    "callsign": null
+    "callsign": "ZMG3118"
    }
   },
   {
@@ -559,14 +575,6 @@
     "mmsi": "512005403",
     "shipname": null,
     "callsign": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1091,
-    "mmsi": "512005528",
-    "shipname": null,
-    "callsign": "ZMU9211"
    }
   },
   {
@@ -647,14 +655,6 @@
     "mmsi": "512006368",
     "shipname": "CATION",
     "callsign": "ZMX2767"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1093,
-    "mmsi": "512007000",
-    "shipname": "COASTAL CARRIER",
-    "callsign": "ZM2189"
    }
   },
   {
