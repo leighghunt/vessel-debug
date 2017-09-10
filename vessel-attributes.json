@@ -107,6 +107,14 @@
   },
   {
    "attributes": {
+    "objectid": 965,
+    "mmsi": "372856000",
+    "shipname": "DREAM DIVA",
+    "callsign": "3EKW6"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 961,
     "mmsi": "373052000",
     "shipname": "GLORIOUS KAURI",
@@ -543,6 +551,14 @@
     "mmsi": "512004418",
     "shipname": "ECLATANT",
     "callsign": "ZMU6620"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 964,
+    "mmsi": "512004509",
+    "shipname": "HAURAKI",
+    "callsign": "ZME5252"
    }
   },
   {
