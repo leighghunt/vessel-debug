@@ -11,6 +11,14 @@
   },
   {
    "attributes": {
+    "objectid": 1079,
+    "mmsi": "211645030",
+    "shipname": "ZIG ZAG",
+    "callsign": "DK7575"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1064,
     "mmsi": "215606000",
     "shipname": "BE MINE",
@@ -67,6 +75,14 @@
   },
   {
    "attributes": {
+    "objectid": 1084,
+    "mmsi": "372856000",
+    "shipname": "DREAM DIVA",
+    "callsign": "3EKW6"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1061,
     "mmsi": "373052000",
     "shipname": "GLORIOUS KAURI",
@@ -101,8 +117,8 @@
    "attributes": {
     "objectid": 1010,
     "mmsi": "477669100",
-    "shipname": "POYANG",
-    "callsign": "VRPM2"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -131,6 +147,14 @@
   },
   {
    "attributes": {
+    "objectid": 1078,
+    "mmsi": "512000369",
+    "shipname": "DEODAR 111",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1038,
     "mmsi": "512000479",
     "shipname": "GLADIATOR",
@@ -143,6 +167,30 @@
     "mmsi": "512000532",
     "shipname": "STARFLYTE",
     "callsign": "ZMR4078"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1085,
+    "mmsi": "512000545",
+    "shipname": "DALDY",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1088,
+    "mmsi": "512000548",
+    "shipname": "TIKA",
+    "callsign": "ZMV2092"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1087,
+    "mmsi": "512000637",
+    "shipname": null,
+    "callsign": "ZMT4444"
    }
   },
   {
@@ -203,6 +251,14 @@
   },
   {
    "attributes": {
+    "objectid": 1090,
+    "mmsi": "512001263",
+    "shipname": "DISCOVERY II",
+    "callsign": "ZMV6692"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1028,
     "mmsi": "512001266",
     "shipname": "SEAFLYTE",
@@ -222,7 +278,7 @@
     "objectid": 1072,
     "mmsi": "512001510",
     "shipname": "HARBOURCAT",
-    "callsign": null
+    "callsign": "ZMZ4489"
    }
   },
   {
@@ -247,6 +303,14 @@
     "mmsi": "512003100",
     "shipname": "MAUI 1",
     "callsign": "ZMR3990"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1083,
+    "mmsi": "512003135",
+    "shipname": "BAY BELLE II",
+    "callsign": null
    }
   },
   {
@@ -302,14 +366,14 @@
     "objectid": 1012,
     "mmsi": "512004023",
     "shipname": "PIPER",
-    "callsign": null
+    "callsign": "ZMU5096"
    }
   },
   {
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": null,
+    "shipname": "SPIRIT",
     "callsign": "ZMG2871"
    }
   },
@@ -347,6 +411,14 @@
   },
   {
    "attributes": {
+    "objectid": 1077,
+    "mmsi": "512004418",
+    "shipname": "ECLATANT",
+    "callsign": "ZMU6620"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1021,
     "mmsi": "512004419",
     "shipname": "CIRCA RESCUE",
@@ -371,6 +443,14 @@
   },
   {
    "attributes": {
+    "objectid": 1086,
+    "mmsi": "512004558",
+    "shipname": "MA ' ARA",
+    "callsign": "ZMU7020"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1033,
     "mmsi": "512004656",
     "shipname": "D6",
@@ -387,10 +467,26 @@
   },
   {
    "attributes": {
+    "objectid": 1082,
+    "mmsi": "512004731",
+    "shipname": "LION RESCUE",
+    "callsign": "ZMR7777"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1047,
     "mmsi": "512004902",
     "shipname": "TITANIUM",
     "callsign": "ZMG3095"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1092,
+    "mmsi": "512004918",
+    "shipname": "KIWA",
+    "callsign": "ZMT8738"
    }
   },
   {
@@ -427,10 +523,26 @@
   },
   {
    "attributes": {
+    "objectid": 1091,
+    "mmsi": "512005528",
+    "shipname": null,
+    "callsign": "ZMU9211"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1076,
     "mmsi": "512005550",
     "shipname": "THE BLIZZARD",
     "callsign": "ZMF2277"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1081,
+    "mmsi": "512005655",
+    "shipname": "FLYING CLOUD",
+    "callsign": "ZM3164"
    }
   },
   {
@@ -475,6 +587,14 @@
   },
   {
    "attributes": {
+    "objectid": 1093,
+    "mmsi": "512007000",
+    "shipname": "COASTAL CARRIER",
+    "callsign": "ZM2189"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1058,
     "mmsi": "512120000",
     "shipname": "R TUCKER THOMPSON",
@@ -495,6 +615,22 @@
     "mmsi": "512219000",
     "shipname": "AWANUIA",
     "callsign": "ZMA2137"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1080,
+    "mmsi": "512412000",
+    "shipname": "INDEFATIGABLE",
+    "callsign": "ZMT2829"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1089,
+    "mmsi": "518395000",
+    "shipname": "ALANI II",
+    "callsign": "E5U2345"
    }
   },
   {
