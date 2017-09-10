@@ -3,40 +3,8 @@
  "features": [
   {
    "attributes": {
-    "objectid": 972,
-    "mmsi": "211645030",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 967,
-    "mmsi": "432651000",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 976,
-    "mmsi": "512000082",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 979,
     "mmsi": "512000369",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 966,
-    "mmsi": "512000421",
     "shipname": null,
     "callsign": null
    }
@@ -67,22 +35,6 @@
   },
   {
    "attributes": {
-    "objectid": 973,
-    "mmsi": "512002866",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 975,
-    "mmsi": "512003332",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 978,
     "mmsi": "512004419",
     "shipname": null,
@@ -91,15 +43,7 @@
   },
   {
    "attributes": {
-    "objectid": 974,
-    "mmsi": "512004509",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 970,
+    "objectid": 980,
     "mmsi": "512005655",
     "shipname": null,
     "callsign": null
