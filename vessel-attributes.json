@@ -573,7 +573,7 @@
    "attributes": {
     "objectid": 832,
     "mmsi": "512003063",
-    "shipname": null,
+    "shipname": "RESCUE ALPHA",
     "callsign": "ZMR6666"
    }
   },
@@ -847,6 +847,14 @@
     "mmsi": "512004996",
     "shipname": "PILOTVESSEL WAKATERE",
     "callsign": "ZME6262"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 835,
+    "mmsi": "512004997",
+    "shipname": null,
+    "callsign": null
    }
   },
   {
