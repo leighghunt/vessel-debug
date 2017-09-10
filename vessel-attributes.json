@@ -107,14 +107,6 @@
   },
   {
    "attributes": {
-    "objectid": 1122,
-    "mmsi": "432651000",
-    "shipname": "ORCHID ACE",
-    "callsign": "7JDE"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1018,
     "mmsi": "477060000",
     "shipname": "ISLAND CHIEF",
@@ -227,14 +219,6 @@
   },
   {
    "attributes": {
-    "objectid": 1128,
-    "mmsi": "512001026",
-    "shipname": "SEAWAY II",
-    "callsign": "ZMR3466"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1042,
     "mmsi": "512001027",
     "shipname": "SEAMASTER",
@@ -291,6 +275,14 @@
   },
   {
    "attributes": {
+    "objectid": 1134,
+    "mmsi": "512001521",
+    "shipname": null,
+    "callsign": "ZM2288"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1132,
     "mmsi": "512002383",
     "shipname": null,
@@ -315,14 +307,6 @@
   },
   {
    "attributes": {
-    "objectid": 1114,
-    "mmsi": "512003888",
-    "shipname": "OM",
-    "callsign": "ZMG2824"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1031,
     "mmsi": "512003946",
     "shipname": "HARBOURMASTER 6",
@@ -333,7 +317,7 @@
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": "SPIRIT",
+    "shipname": null,
     "callsign": "ZMG2871"
    }
   },
@@ -499,6 +483,14 @@
   },
   {
    "attributes": {
+    "objectid": 1135,
+    "mmsi": "512005801",
+    "shipname": "WINDHAVEN",
+    "callsign": "ZMF4451"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1025,
     "mmsi": "512006003",
     "shipname": "CAPRICORNIAN SURFER",
@@ -527,14 +519,6 @@
     "mmsi": "512007000",
     "shipname": "COASTAL CARRIER",
     "callsign": "ZM2189"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1058,
-    "mmsi": "512120000",
-    "shipname": "R TUCKER THOMPSON",
-    "callsign": "ZMA2808"
    }
   },
   {
