@@ -83,7 +83,7 @@
   },
   {
    "attributes": {
-    "objectid": 1041,
+    "objectid": 1107,
     "mmsi": "367137260",
     "shipname": "RED",
     "callsign": "WDD3862"
@@ -111,14 +111,6 @@
     "mmsi": "374170000",
     "shipname": "KEN HOPE",
     "callsign": "3FYD3"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1056,
-    "mmsi": "378111564",
-    "shipname": "RIV 61  001",
-    "callsign": "RIV 61"
    }
   },
   {
@@ -363,14 +355,6 @@
   },
   {
    "attributes": {
-    "objectid": 1063,
-    "mmsi": "512003312",
-    "shipname": "PACIFIC SPRAY",
-    "callsign": "ZMS5830"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1095,
     "mmsi": "512003332",
     "shipname": "OLYMPIC SPIRIT",
@@ -387,10 +371,10 @@
   },
   {
    "attributes": {
-    "objectid": 1065,
-    "mmsi": "512003888",
-    "shipname": "OM",
-    "callsign": "ZMG2824"
+    "objectid": 1106,
+    "mmsi": "512003812",
+    "shipname": "AWANUI",
+    "callsign": "ZMG2800"
    }
   },
   {
@@ -406,14 +390,14 @@
     "objectid": 1012,
     "mmsi": "512004023",
     "shipname": "PIPER",
-    "callsign": "ZMU5096"
+    "callsign": null
    }
   },
   {
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": "SPIRIT",
+    "shipname": null,
     "callsign": "ZMG2871"
    }
   },
@@ -423,14 +407,6 @@
     "mmsi": "512004062",
     "shipname": "ARAWHITI",
     "callsign": "ZMS8209"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1049,
-    "mmsi": "512004158",
-    "shipname": null,
-    "callsign": "ZMU5212"
    }
   },
   {
@@ -463,14 +439,6 @@
     "mmsi": "512004419",
     "shipname": "CIRCA RESCUE",
     "callsign": "ZMT8000"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1051,
-    "mmsi": "512004509",
-    "shipname": "HAURAKI",
-    "callsign": "ZME5252"
    }
   },
   {
@@ -551,6 +519,14 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1105,
+    "mmsi": "512005160",
+    "shipname": "BIG BUSINESS",
+    "callsign": "ZMQ9525"
    }
   },
   {
@@ -763,7 +739,7 @@
   },
   {
    "attributes": {
-    "objectid": 1043,
+    "objectid": 1108,
     "mmsi": "636092489",
     "shipname": "CAP CORRIENTES",
     "callsign": "D5DU2"
