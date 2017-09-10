@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "objectid": 1009, "mmsi": "512003229", "heading": 511, "course": 262, "speed": 0, "turn": 128, "status": 0, "lastupdated": "1505082516649", "shipname": null, "callsign": null, "destination": null }, "geometry": { "type": "Point", "coordinates": [ 174.989761666666709, -36.889868333333311 ] } },
-{ "type": "Feature", "properties": { "objectid": 1008, "mmsi": "512004918", "heading": 511, "course": 400, "speed": 0, "turn": null, "status": null, "lastupdated": "1505082267698", "shipname": null, "callsign": "ZMT8738", "destination": null }, "geometry": { "type": "Point", "coordinates": [ 174.750193333333414, -36.84287 ] } }
+{ "type": "Feature", "properties": { "objectid": 1009, "mmsi": "512003229", "heading": 511, "course": 274, "speed": 0, "turn": 128, "status": 0, "lastupdated": "1505082586855", "shipname": null, "callsign": null, "destination": null }, "geometry": { "type": "Point", "coordinates": [ 174.989771666666798, -36.889863333333324 ] } }
 ]
 }
