@@ -59,14 +59,6 @@
   },
   {
    "attributes": {
-    "objectid": 1066,
-    "mmsi": "319028500",
-    "shipname": "TANGO",
-    "callsign": "ZGBM2"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1024,
     "mmsi": "319774000",
     "shipname": "LATITUDE",
@@ -110,7 +102,7 @@
     "objectid": 1111,
     "mmsi": "378111564",
     "shipname": "RIV 61  001",
-    "callsign": "RIV 61"
+    "callsign": null
    }
   },
   {
@@ -143,14 +135,6 @@
     "mmsi": "512000027",
     "shipname": "ADVENTURER",
     "callsign": "ZMG2004"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1048,
-    "mmsi": "512000082",
-    "shipname": "COLUMBIA",
-    "callsign": "ZMA3264"
    }
   },
   {
@@ -291,14 +275,6 @@
   },
   {
    "attributes": {
-    "objectid": 1096,
-    "mmsi": "512001264",
-    "shipname": "OSPREY",
-    "callsign": "ZMR3723"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1109,
     "mmsi": "512001265",
     "shipname": "TIRI CAT",
@@ -327,14 +303,6 @@
     "mmsi": "512001510",
     "shipname": "HARBOURCAT",
     "callsign": "ZMZ4489"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1060,
-    "mmsi": "512002067",
-    "shipname": "WAIRANGI",
-    "callsign": "ZMTM"
    }
   },
   {
@@ -422,7 +390,7 @@
     "objectid": 1012,
     "mmsi": "512004023",
     "shipname": "PIPER",
-    "callsign": null
+    "callsign": "ZMU5096"
    }
   },
   {
@@ -479,6 +447,14 @@
     "mmsi": "512004419",
     "shipname": "CIRCA RESCUE",
     "callsign": "ZMT8000"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1120,
+    "mmsi": "512004509",
+    "shipname": "HAURAKI",
+    "callsign": "ZME5252"
    }
   },
   {
@@ -611,7 +587,7 @@
   },
   {
    "attributes": {
-    "objectid": 1094,
+    "objectid": 1119,
     "mmsi": "512005801",
     "shipname": "WINDHAVEN",
     "callsign": "ZMF4451"
