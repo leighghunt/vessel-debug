@@ -35,6 +35,14 @@
   },
   {
    "attributes": {
+    "objectid": 1133,
+    "mmsi": "235097329",
+    "shipname": "SEAHAWK",
+    "callsign": "2GHA7"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1102,
     "mmsi": "311000546",
     "shipname": "CHIOS",
@@ -307,14 +315,6 @@
   },
   {
    "attributes": {
-    "objectid": 1106,
-    "mmsi": "512003812",
-    "shipname": "AWANUI",
-    "callsign": "ZMG2800"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1114,
     "mmsi": "512003888",
     "shipname": "OM",
@@ -327,14 +327,6 @@
     "mmsi": "512003946",
     "shipname": "HARBOURMASTER 6",
     "callsign": "ZMU2156"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1012,
-    "mmsi": "512004023",
-    "shipname": "PIPER",
-    "callsign": null
    }
   },
   {
@@ -463,14 +455,6 @@
     "mmsi": "512005155",
     "shipname": "D7",
     "callsign": "ZME7070"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1105,
-    "mmsi": "512005160",
-    "shipname": "BIG BUSINESS",
-    "callsign": "ZMQ9525"
    }
   },
   {
