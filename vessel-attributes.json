@@ -525,8 +525,8 @@
    "attributes": {
     "objectid": 755,
     "mmsi": "512001262",
-    "shipname": "DISCOVERY I",
-    "callsign": "ZMZ6487"
+    "shipname": null,
+    "callsign": null
    }
   },
   {
@@ -765,8 +765,8 @@
    "attributes": {
     "objectid": 853,
     "mmsi": "512004061",
-    "shipname": null,
-    "callsign": null
+    "shipname": "SPIRIT",
+    "callsign": "ZMG2871"
    }
   },
   {
@@ -941,8 +941,8 @@
    "attributes": {
     "objectid": 746,
     "mmsi": "512005155",
-    "shipname": null,
-    "callsign": null
+    "shipname": "D7",
+    "callsign": "ZME7070"
    }
   },
   {
