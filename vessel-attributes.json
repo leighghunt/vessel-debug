@@ -75,14 +75,6 @@
   },
   {
    "attributes": {
-    "objectid": 1069,
-    "mmsi": "338216735",
-    "shipname": null,
-    "callsign": null
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1107,
     "mmsi": "367137260",
     "shipname": "RED",
@@ -115,6 +107,14 @@
   },
   {
    "attributes": {
+    "objectid": 1111,
+    "mmsi": "378111564",
+    "shipname": "RIV 61  001",
+    "callsign": "RIV 61"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1018,
     "mmsi": "477060000",
     "shipname": "ISLAND CHIEF",
@@ -125,8 +125,8 @@
    "attributes": {
     "objectid": 1010,
     "mmsi": "477669100",
-    "shipname": null,
-    "callsign": null
+    "shipname": "POYANG",
+    "callsign": "VRPM2"
    }
   },
   {
@@ -203,14 +203,6 @@
   },
   {
    "attributes": {
-    "objectid": 1087,
-    "mmsi": "512000637",
-    "shipname": null,
-    "callsign": "ZMT4444"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1044,
     "mmsi": "512000715",
     "shipname": "MACY GRAY",
@@ -231,6 +223,14 @@
     "mmsi": "512000742",
     "shipname": "CLIPPER 2",
     "callsign": "ZMS7101"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1113,
+    "mmsi": "512001026",
+    "shipname": "SEAWAY II",
+    "callsign": "ZMR3466"
    }
   },
   {
@@ -259,6 +259,14 @@
   },
   {
    "attributes": {
+    "objectid": 1115,
+    "mmsi": "512001100",
+    "shipname": "PAEA II",
+    "callsign": "ZMSS"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1070,
     "mmsi": "512001262",
     "shipname": "DISCOVERY I",
@@ -283,6 +291,14 @@
   },
   {
    "attributes": {
+    "objectid": 1109,
+    "mmsi": "512001265",
+    "shipname": "TIRI CAT",
+    "callsign": "ZM2279"
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1028,
     "mmsi": "512001266",
     "shipname": "SEAFLYTE",
@@ -302,7 +318,7 @@
     "objectid": 1072,
     "mmsi": "512001510",
     "shipname": "HARBOURCAT",
-    "callsign": null
+    "callsign": "ZMZ4489"
    }
   },
   {
@@ -323,14 +339,6 @@
   },
   {
    "attributes": {
-    "objectid": 1074,
-    "mmsi": "512003100",
-    "shipname": "MAUI 1",
-    "callsign": "ZMR3990"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1083,
     "mmsi": "512003135",
     "shipname": "BAY BELLE II",
@@ -339,18 +347,18 @@
   },
   {
    "attributes": {
-    "objectid": 1046,
-    "mmsi": "512003184",
-    "shipname": "MANUKAU",
-    "callsign": "ZMQ6607"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1009,
     "mmsi": "512003229",
     "shipname": "CLIPPER 4",
     "callsign": "ZMW3415"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1112,
+    "mmsi": "512003312",
+    "shipname": "PACIFIC SPRAY",
+    "callsign": "ZMS5830"
    }
   },
   {
@@ -375,6 +383,14 @@
     "mmsi": "512003812",
     "shipname": "AWANUI",
     "callsign": "ZMG2800"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1114,
+    "mmsi": "512003888",
+    "shipname": "OM",
+    "callsign": "ZMG2824"
    }
   },
   {
@@ -407,6 +423,14 @@
     "mmsi": "512004062",
     "shipname": "ARAWHITI",
     "callsign": "ZMS8209"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1110,
+    "mmsi": "512004158",
+    "shipname": "AURORA",
+    "callsign": "ZMU5212"
    }
   },
   {
@@ -471,14 +495,6 @@
     "mmsi": "512004671",
     "shipname": "MARSDEN BAY",
     "callsign": "ZMU2829"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1082,
-    "mmsi": "512004731",
-    "shipname": "LION RESCUE",
-    "callsign": "ZMR7777"
    }
   },
   {
