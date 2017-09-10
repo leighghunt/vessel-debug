@@ -525,7 +525,7 @@
    "attributes": {
     "objectid": 755,
     "mmsi": "512001262",
-    "shipname": null,
+    "shipname": "DISCOVERY I",
     "callsign": null
    }
   },
@@ -541,8 +541,8 @@
    "attributes": {
     "objectid": 759,
     "mmsi": "512001264",
-    "shipname": "OSPREY",
-    "callsign": null
+    "shipname": null,
+    "callsign": "ZMR3723"
    }
   },
   {
@@ -1207,6 +1207,14 @@
     "mmsi": "518497000",
     "shipname": "ISLAND PASSAGE",
     "callsign": "E5U2447"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 854,
+    "mmsi": "538005057",
+    "shipname": "BALAO",
+    "callsign": "V7AR9"
    }
   },
   {
