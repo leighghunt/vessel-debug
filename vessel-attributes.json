@@ -67,6 +67,14 @@
   },
   {
    "attributes": {
+    "objectid": 1129,
+    "mmsi": "338216735",
+    "shipname": null,
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
     "objectid": 1107,
     "mmsi": "367137260",
     "shipname": "RED",
@@ -267,14 +275,6 @@
   },
   {
    "attributes": {
-    "objectid": 1070,
-    "mmsi": "512001262",
-    "shipname": "DISCOVERY I",
-    "callsign": "ZMZ6487"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1090,
     "mmsi": "512001263",
     "shipname": "DISCOVERY II",
@@ -351,14 +351,6 @@
     "mmsi": "512003312",
     "shipname": "PACIFIC SPRAY",
     "callsign": "ZMS5830"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1095,
-    "mmsi": "512003332",
-    "shipname": "OLYMPIC SPIRIT",
-    "callsign": "ZMT7015"
    }
   },
   {
