@@ -323,14 +323,6 @@
   },
   {
    "attributes": {
-    "objectid": 1072,
-    "mmsi": "512001510",
-    "shipname": "HARBOURCAT",
-    "callsign": "ZMZ4489"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 1050,
     "mmsi": "512002866",
     "shipname": "CALIPH",
@@ -414,14 +406,14 @@
     "objectid": 1012,
     "mmsi": "512004023",
     "shipname": "PIPER",
-    "callsign": "ZMU5096"
+    "callsign": null
    }
   },
   {
    "attributes": {
     "objectid": 1057,
     "mmsi": "512004061",
-    "shipname": null,
+    "shipname": "SPIRIT",
     "callsign": "ZMG2871"
    }
   },
@@ -487,14 +479,6 @@
     "mmsi": "512004511",
     "shipname": "TE KOTUKU",
     "callsign": "ZMU2646"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1086,
-    "mmsi": "512004558",
-    "shipname": "MA ' ARA",
-    "callsign": "ZMU7020"
    }
   },
   {
@@ -567,6 +551,14 @@
     "mmsi": "512005198",
     "shipname": "WAIHEKE RESCUE",
     "callsign": "ZMR7081"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1125,
+    "mmsi": "512005528",
+    "shipname": "MOONDANCE",
+    "callsign": "ZMU9211"
    }
   },
   {
@@ -687,14 +679,6 @@
     "mmsi": "512412000",
     "shipname": "INDEFATIGABLE",
     "callsign": "ZMT2829"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 1089,
-    "mmsi": "518395000",
-    "shipname": "ALANI II",
-    "callsign": "E5U2345"
    }
   },
   {
