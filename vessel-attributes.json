@@ -195,14 +195,6 @@
   },
   {
    "attributes": {
-    "objectid": 770,
-    "mmsi": "512000545",
-    "shipname": "DALDY",
-    "callsign": "ZMZ7645"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 816,
     "mmsi": "512000637",
     "shipname": "ASB RESCUE",
@@ -271,14 +263,6 @@
     "mmsi": "512001028",
     "shipname": "SEACAT",
     "callsign": "ZMQ7552"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 813,
-    "mmsi": "512001029",
-    "shipname": "ISLAND NAVIGATOR",
-    "callsign": "ZMQ7781"
    }
   },
   {
@@ -371,14 +355,6 @@
   },
   {
    "attributes": {
-    "objectid": 754,
-    "mmsi": "512001510",
-    "shipname": "HARBOURCAT",
-    "callsign": "ZMZ4489"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 72,
     "mmsi": "512002067",
     "shipname": "WAIRANGI",
@@ -439,14 +415,6 @@
     "mmsi": "512003946",
     "shipname": "HARBOURMASTER 6",
     "callsign": "ZMU2156"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 122,
-    "mmsi": "512004023",
-    "shipname": "PIPER",
-    "callsign": "ZMU5096"
    }
   },
   {
@@ -603,14 +571,6 @@
   },
   {
    "attributes": {
-    "objectid": 36,
-    "mmsi": "512005528",
-    "shipname": "MOONDANCE",
-    "callsign": "ZMU9211"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 808,
     "mmsi": "512005550",
     "shipname": "THE BLIZZARD",
@@ -699,14 +659,6 @@
   },
   {
    "attributes": {
-    "objectid": 764,
-    "mmsi": "518398000",
-    "shipname": "MINA CAMPBELL",
-    "callsign": "E5U2348"
-   }
-  },
-  {
-   "attributes": {
     "objectid": 14,
     "mmsi": "518497000",
     "shipname": "ISLAND PASSAGE",
@@ -727,14 +679,6 @@
     "mmsi": "538071125",
     "shipname": "ADVANTAGE",
     "callsign": "V7RA7"
-   }
-  },
-  {
-   "attributes": {
-    "objectid": 810,
-    "mmsi": "563007700",
-    "shipname": "CAPITAINE DAMPIER",
-    "callsign": "9V5317"
    }
   },
   {
