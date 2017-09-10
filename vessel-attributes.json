@@ -1,7 +1,46 @@
 {
  "exceededTransferLimit": false,
  "features": [
-  
+  {
+   "attributes": {
+    "objectid": 1001,
+    "mmsi": "432651000",
+    "shipname": "ORCHID ACE",
+    "callsign": "7JDE"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1003,
+    "mmsi": "512000082",
+    "shipname": "COLUMBIA",
+    "callsign": "ZMA3264"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1000,
+    "mmsi": "512004509",
+    "shipname": "HAURAKI",
+    "callsign": "ZME5252"
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1002,
+    "mmsi": "512006368",
+    "shipname": "CATION",
+    "callsign": null
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 1004,
+    "mmsi": "512219000",
+    "shipname": "AWANUIA",
+    "callsign": "ZMA2137"
+   }
+  }
  ],
  "fields": [
   {
